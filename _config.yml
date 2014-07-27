@@ -1,0 +1,57 @@
+title: Bund Bildender Künstler Vogtland e.V.
+description: "Website des Bunds Bildender Künstler im Vogtland"
+url: http://bbk-vogtland.de
+
+paginate: 5
+permalink: /:title
+relative_permalinks: false
+
+include:
+  - .htaccess
+  # Include Sass files that are preprended with an underscore
+  - _*.sass
+  - _*.scss
+
+exclude:
+  - prepros.json
+  - config.rb
+  - bbk-vogtland.sublime-workspace
+  - node_modules
+
+gems:
+  # Activate jekyll-sitemap plugin
+  - jekyll-sitemap
+
+kramdown:
+  # Disable auto-generated ID's for headings
+  auto_ids: false
+
+defaults:
+  # all files have the layout `default`
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+  # all files with the type `post` have the layout `post`
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post"
+
+links:
+  - title: Galerie
+    url: /
+  - title: Projekte
+    url: /projekte/
+  - title: Mitglieder
+    url: /mitglieder/
+  - title: Verein
+    url: /verein/
+#  - title: Kunst in Plauen
+#    url: /kunst-in-plauen/
+  - title: Impressum
+    url: /impressum/

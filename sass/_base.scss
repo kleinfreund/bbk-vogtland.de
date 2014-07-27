@@ -1,0 +1,132 @@
+/**
+ * IE6 was right!
+ */
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+
+
+/**
+ * Reset some basic elements
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+dl, dd, ol, ul, hr,
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/**
+ * Set `margin-bottom` to maintain vertycal rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl,
+figure {
+    margin-bottom: $base-spacing-unit;
+    margin-bottom: ($base-spacing-unit / $base-font-size)*1rem;
+}
+
+%vertical-rhythm {
+    margin-bottom: $base-spacing-unit;
+    margin-bottom: ($base-spacing-unit / $base-font-size)*1rem;
+}
+
+
+
+/**
+ * Wrapper
+ */
+.wrapper,
+%wrapper {
+    max-width: 680px;
+    margin-right: auto;
+    margin-left:  auto;
+}
+
+
+
+/**
+ * Clearfix
+ */
+.clearfix,
+%clearfix {
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+
+
+/**
+ * Images
+ */
+img {
+    /* Emphasis on `alt` text */
+    font-style: italic;
+    max-width: 100%;
+}
+
+img, svg {
+    vertical-align: middle;
+}
+
+.img--right {
+    float: right;
+    margin-bottom: $base-spacing-unit;
+    margin-left:   $base-spacing-unit;
+}
+.img--left {
+    float: left;
+    margin-right:  $base-spacing-unit;
+    margin-bottom: $base-spacing-unit;
+}
+.img--center {
+    display: block;
+    margin-right: auto;
+    margin-bottom: $base-spacing-unit;
+    margin-left: auto;
+}
+
+.img--no-shadow {
+    box-shadow: none !important;
+}
+
+%box-shadow {
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.4);
+}
+
+
+
+/**
+ * Figures
+ */
+figure > img {
+    display: block;
+}
+
+figcaption {
+    @include font-size($small-print-size);
+
+    > a {
+        font-weight: 300;
+    }
+}
+
+
+
+/**
+ * Rulers
+ */
+hr {
+    border: 0;
+    border-bottom: 1px solid $base-ui-color;
+    margin-bottom: $base-spacing-unit - 1px;
+    margin-bottom: (($base-spacing-unit - 1px) / $base-font-size)*1rem;
+}

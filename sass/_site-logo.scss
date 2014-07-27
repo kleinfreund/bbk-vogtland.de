@@ -1,0 +1,14 @@
+.site-logo {
+    display: table;
+    margin-top: $base-spacing-unit * 2;
+    margin-left: $base-spacing-unit;
+
+    @include media-query(lap-and-up) {
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    @include media-query(desk) {
+        margin-right: $half-spacing-unit;
+    }
+}

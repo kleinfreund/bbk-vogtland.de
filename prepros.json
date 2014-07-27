@@ -1,0 +1,1055 @@
+{
+  "id": "4f73015f",
+  "cfgVersion": 1,
+  "name": "bbk-vogtland",
+  "files": {
+    "3bea6f2f": {
+      "id": "3bea6f2f",
+      "pid": "4f73015f",
+      "name": "bbkv.scss",
+      "input": "sass\\bbkv.scss",
+      "customOutput": false,
+      "type": "Scss",
+      "config": {
+        "autoCompile": true,
+        "lineNumbers": false,
+        "unixNewlines": false,
+        "sourcemaps": false,
+        "debug": false,
+        "compass": true,
+        "fullCompass": true,
+        "outputStyle": "expanded",
+        "autoprefixer": false
+      }
+    }
+  },
+  "imports": {
+    "20b3c290": {
+      "id": "20b3c290",
+      "pid": "4f73015f",
+      "path": "sass\\_vars.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "fa193f92": {
+      "id": "fa193f92",
+      "pid": "4f73015f",
+      "path": "sass\\_defaults.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "3f83dbe6": {
+      "id": "3f83dbe6",
+      "pid": "4f73015f",
+      "path": "sass\\_mixins.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "b1628501": {
+      "id": "b1628501",
+      "pid": "4f73015f",
+      "path": "sass\\_normalize.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "5fe72ffa": {
+      "id": "5fe72ffa",
+      "pid": "4f73015f",
+      "path": "sass\\_base.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "62760e35": {
+      "id": "62760e35",
+      "pid": "4f73015f",
+      "path": "sass\\_typography.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "0f4e7914": {
+      "id": "0f4e7914",
+      "pid": "4f73015f",
+      "path": "sass\\_media.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "58df84a5": {
+      "id": "58df84a5",
+      "pid": "4f73015f",
+      "path": "sass\\_site-sidebar.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "f523fb52": {
+      "id": "f523fb52",
+      "pid": "4f73015f",
+      "path": "sass\\_site-logo.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "cc557957": {
+      "id": "cc557957",
+      "pid": "4f73015f",
+      "path": "sass\\_site-nav.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "4ff67ce7": {
+      "id": "4ff67ce7",
+      "pid": "4f73015f",
+      "path": "sass\\_page-content.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "4df932ed": {
+      "id": "4df932ed",
+      "pid": "4f73015f",
+      "path": "sass\\_pagination.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "31afc500": {
+      "id": "31afc500",
+      "pid": "4f73015f",
+      "path": "sass\\_tooltip.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    },
+    "0aeb7434": {
+      "id": "0aeb7434",
+      "pid": "4f73015f",
+      "path": "sass\\_members.scss",
+      "parents": [
+        "3bea6f2f"
+      ]
+    }
+  },
+  "images": {
+    "33949742": {
+      "id": "33949742",
+      "pid": "4f73015f",
+      "path": "img\\bianca-hallebach\\bianca-hallebach.jpg",
+      "size": 19206,
+      "name": "bianca-hallebach.jpg",
+      "type": "Jpg",
+      "initialSize": 19206,
+      "status": "OPTIMIZED"
+    },
+    "6fa97b4b": {
+      "id": "6fa97b4b",
+      "pid": "4f73015f",
+      "path": "img\\andrea-lange\\andrea-lange-thumbnail.jpg",
+      "size": 11317,
+      "name": "andrea-lange-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 11317,
+      "status": "OPTIMIZED"
+    },
+    "9cf80562": {
+      "id": "9cf80562",
+      "pid": "4f73015f",
+      "path": "img\\andreas-leonhardt\\andreas-leonhardt-thumbnail.jpg",
+      "size": 8837,
+      "name": "andreas-leonhardt-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 8837,
+      "status": "OPTIMIZED"
+    },
+    "7a3c3c5e": {
+      "id": "7a3c3c5e",
+      "pid": "4f73015f",
+      "path": "img\\andreas-leonhardt\\andreas-leonhardt.jpg",
+      "size": 33417,
+      "name": "andreas-leonhardt.jpg",
+      "type": "Jpg",
+      "initialSize": 33417,
+      "status": "OPTIMIZED"
+    },
+    "3ced5069": {
+      "id": "3ced5069",
+      "pid": "4f73015f",
+      "path": "img\\andreas-rudloff\\andreas-rudloff-thumbnail.jpg",
+      "size": 16818,
+      "name": "andreas-rudloff-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 16818,
+      "status": "OPTIMIZED"
+    },
+    "c861efac": {
+      "id": "c861efac",
+      "pid": "4f73015f",
+      "path": "img\\andreas-rudloff\\andreas-rudloff.jpg",
+      "size": 25200,
+      "name": "andreas-rudloff.jpg",
+      "type": "Jpg",
+      "initialSize": 25200,
+      "status": "OPTIMIZED"
+    },
+    "a9f11e9d": {
+      "id": "a9f11e9d",
+      "pid": "4f73015f",
+      "path": "img\\andreas-rudloff\\andreas-tagtraum-eines-bockes.jpg",
+      "size": 21187,
+      "name": "andreas-tagtraum-eines-bockes.jpg",
+      "type": "Jpg",
+      "initialSize": 21187,
+      "status": "OPTIMIZED"
+    },
+    "6d2ae050": {
+      "id": "6d2ae050",
+      "pid": "4f73015f",
+      "path": "img\\andreas-rudloff\\andreas-vor-dem-grossen-fressen-2.jpg",
+      "size": 56989,
+      "name": "andreas-vor-dem-grossen-fressen-2.jpg",
+      "type": "Jpg",
+      "initialSize": 56989,
+      "status": "OPTIMIZED"
+    },
+    "0862c33c": {
+      "id": "0862c33c",
+      "pid": "4f73015f",
+      "path": "img\\anke-rudloff\\anke-korsika-2.jpg",
+      "size": 23842,
+      "name": "anke-korsika-2.jpg",
+      "type": "Jpg",
+      "initialSize": 23842,
+      "status": "OPTIMIZED"
+    },
+    "3fb54a9e": {
+      "id": "3fb54a9e",
+      "pid": "4f73015f",
+      "path": "img\\anke-rudloff\\anke-mutter-und-kind.jpg",
+      "size": 24476,
+      "name": "anke-mutter-und-kind.jpg",
+      "type": "Jpg",
+      "initialSize": 24476,
+      "status": "OPTIMIZED"
+    },
+    "424efa97": {
+      "id": "424efa97",
+      "pid": "4f73015f",
+      "path": "img\\anke-rudloff\\anke-rudloff-thumbnail.jpg",
+      "size": 15140,
+      "name": "anke-rudloff-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 15140,
+      "status": "OPTIMIZED"
+    },
+    "e343aa2f": {
+      "id": "e343aa2f",
+      "pid": "4f73015f",
+      "path": "img\\anke-rudloff\\anke-rudloff.jpg",
+      "size": 49373,
+      "name": "anke-rudloff.jpg",
+      "type": "Jpg",
+      "initialSize": 49373,
+      "status": "OPTIMIZED"
+    },
+    "c0ee0a1c": {
+      "id": "c0ee0a1c",
+      "pid": "4f73015f",
+      "path": "img\\anke-rudloff\\anke-taufglocke.jpg",
+      "size": 24042,
+      "name": "anke-taufglocke.jpg",
+      "type": "Jpg",
+      "initialSize": 24042,
+      "status": "OPTIMIZED"
+    },
+    "98c51c2f": {
+      "id": "98c51c2f",
+      "pid": "4f73015f",
+      "path": "img\\barbara-maeder-ruff\\barbara-maeder-ruff-thumbnail.jpg",
+      "size": 17290,
+      "name": "barbara-maeder-ruff-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 17290,
+      "status": "OPTIMIZED"
+    },
+    "14a3641a": {
+      "id": "14a3641a",
+      "pid": "4f73015f",
+      "path": "img\\bbk-snippet.png",
+      "size": 4598,
+      "name": "bbk-snippet.png",
+      "type": "Png",
+      "initialSize": 4598,
+      "status": "NOT_OPTIMIZED"
+    },
+    "29aedbd4": {
+      "id": "29aedbd4",
+      "pid": "4f73015f",
+      "path": "img\\bbk.png",
+      "size": 2295,
+      "name": "bbk.png",
+      "type": "Png",
+      "initialSize": 2295,
+      "status": "NOT_OPTIMIZED"
+    },
+    "8ab09615": {
+      "id": "8ab09615",
+      "pid": "4f73015f",
+      "path": "img\\bbkv-logo.png",
+      "size": 8226,
+      "name": "bbkv-logo.png",
+      "type": "Png",
+      "initialSize": 8226,
+      "status": "FAILED"
+    },
+    "e953398f": {
+      "id": "e953398f",
+      "pid": "4f73015f",
+      "path": "img\\bianca-hallebach\\bianca-geheimnistraeger.jpg",
+      "size": 31440,
+      "name": "bianca-geheimnistraeger.jpg",
+      "type": "Jpg",
+      "initialSize": 31440,
+      "status": "OPTIMIZED"
+    },
+    "ecfd424d": {
+      "id": "ecfd424d",
+      "pid": "4f73015f",
+      "path": "img\\bianca-hallebach\\bianca-hallebach-thumbnail.jpg",
+      "size": 7070,
+      "name": "bianca-hallebach-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 7070,
+      "status": "OPTIMIZED"
+    },
+    "fe32815b": {
+      "id": "fe32815b",
+      "pid": "4f73015f",
+      "path": "img\\bianca-hallebach\\bianca-schwebendes-collier.jpg",
+      "size": 24632,
+      "name": "bianca-schwebendes-collier.jpg",
+      "type": "Jpg",
+      "initialSize": 24632,
+      "status": "OPTIMIZED"
+    },
+    "306293d6": {
+      "id": "306293d6",
+      "pid": "4f73015f",
+      "path": "img\\christhard-richter\\christhard-balance.jpg",
+      "size": 21083,
+      "name": "christhard-balance.jpg",
+      "type": "Jpg",
+      "initialSize": 21083,
+      "status": "OPTIMIZED"
+    },
+    "7f678f4c": {
+      "id": "7f678f4c",
+      "pid": "4f73015f",
+      "path": "img\\christhard-richter\\christhard-richter-thumbnail.jpg",
+      "size": 15085,
+      "name": "christhard-richter-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 15085,
+      "status": "OPTIMIZED"
+    },
+    "e7aaa91f": {
+      "id": "e7aaa91f",
+      "pid": "4f73015f",
+      "path": "img\\christhard-richter\\christhard-richter.jpg",
+      "size": 23060,
+      "name": "christhard-richter.jpg",
+      "type": "Jpg",
+      "initialSize": 23060,
+      "status": "OPTIMIZED"
+    },
+    "cb66c2a2": {
+      "id": "cb66c2a2",
+      "pid": "4f73015f",
+      "path": "img\\christhard-richter\\christhard-unbekannt.jpg",
+      "size": 17568,
+      "name": "christhard-unbekannt.jpg",
+      "type": "Jpg",
+      "initialSize": 17568,
+      "status": "OPTIMIZED"
+    },
+    "e7f5d90e": {
+      "id": "e7f5d90e",
+      "pid": "4f73015f",
+      "path": "img\\christhard-richter\\christhard-wuerfelschale.jpg",
+      "size": 47170,
+      "name": "christhard-wuerfelschale.jpg",
+      "type": "Jpg",
+      "initialSize": 47170,
+      "status": "OPTIMIZED"
+    },
+    "082736f9": {
+      "id": "082736f9",
+      "pid": "4f73015f",
+      "path": "img\\einladung-neuaufnahmen.jpg",
+      "size": 242504,
+      "name": "einladung-neuaufnahmen.jpg",
+      "type": "Jpg",
+      "initialSize": 242504,
+      "status": "OPTIMIZED"
+    },
+    "eb372ebf": {
+      "id": "eb372ebf",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf\\elke-wolf-1.jpg",
+      "size": 14430,
+      "name": "elke-wolf-1.jpg",
+      "type": "Jpg",
+      "initialSize": 14430,
+      "status": "OPTIMIZED"
+    },
+    "0036f9a4": {
+      "id": "0036f9a4",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf\\elke-wolf-2.jpg",
+      "size": 12736,
+      "name": "elke-wolf-2.jpg",
+      "type": "Jpg",
+      "initialSize": 12736,
+      "status": "OPTIMIZED"
+    },
+    "3147df28": {
+      "id": "3147df28",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf\\elke-wolf-3.jpg",
+      "size": 20909,
+      "name": "elke-wolf-3.jpg",
+      "type": "Jpg",
+      "initialSize": 20909,
+      "status": "OPTIMIZED"
+    },
+    "1f175f8f": {
+      "id": "1f175f8f",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf\\elke-wolf-4.jpg",
+      "size": 17889,
+      "name": "elke-wolf-4.jpg",
+      "type": "Jpg",
+      "initialSize": 17889,
+      "status": "OPTIMIZED"
+    },
+    "fa317109": {
+      "id": "fa317109",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf\\elke-wolf-thumbnail.jpg",
+      "size": 14073,
+      "name": "elke-wolf-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 14073,
+      "status": "OPTIMIZED"
+    },
+    "f2d0e28f": {
+      "id": "f2d0e28f",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf-jubilaeumsausstellung-1.jpg",
+      "size": 272788,
+      "name": "elke-wolf-jubilaeumsausstellung-1.jpg",
+      "type": "Jpg",
+      "initialSize": 272788,
+      "status": "OPTIMIZED"
+    },
+    "1790b34d": {
+      "id": "1790b34d",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf-jubilaeumsausstellung-2.jpg",
+      "size": 382421,
+      "name": "elke-wolf-jubilaeumsausstellung-2.jpg",
+      "type": "Jpg",
+      "initialSize": 382421,
+      "status": "OPTIMIZED"
+    },
+    "ea6fc1f5": {
+      "id": "ea6fc1f5",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf-jubilaeumsausstellung-3.jpg",
+      "size": 258716,
+      "name": "elke-wolf-jubilaeumsausstellung-3.jpg",
+      "type": "Jpg",
+      "initialSize": 258716,
+      "status": "OPTIMIZED"
+    },
+    "9336ba0e": {
+      "id": "9336ba0e",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf-jubilaeumsausstellung-4.jpg",
+      "size": 239795,
+      "name": "elke-wolf-jubilaeumsausstellung-4.jpg",
+      "type": "Jpg",
+      "initialSize": 239795,
+      "status": "OPTIMIZED"
+    },
+    "05a4ff32": {
+      "id": "05a4ff32",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf-jubilaeumsausstellung-5.jpg",
+      "size": 210604,
+      "name": "elke-wolf-jubilaeumsausstellung-5.jpg",
+      "type": "Jpg",
+      "initialSize": 210604,
+      "status": "OPTIMIZED"
+    },
+    "3d90764e": {
+      "id": "3d90764e",
+      "pid": "4f73015f",
+      "path": "img\\elke-wolf-jubilaeumsausstellung-einladung.jpg",
+      "size": 148352,
+      "name": "elke-wolf-jubilaeumsausstellung-einladung.jpg",
+      "type": "Jpg",
+      "initialSize": 148352,
+      "status": "OPTIMIZED"
+    },
+    "c788041a": {
+      "id": "c788041a",
+      "pid": "4f73015f",
+      "path": "img\\erik-seidel\\erik-seidel-thumbnail.jpg",
+      "size": 12592,
+      "name": "erik-seidel-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 12592,
+      "status": "OPTIMIZED"
+    },
+    "4ea243d1": {
+      "id": "4ea243d1",
+      "pid": "4f73015f",
+      "path": "img\\felix-einsiedel-aktfotografie-1.jpg",
+      "size": 236874,
+      "name": "felix-einsiedel-aktfotografie-1.jpg",
+      "type": "Jpg",
+      "initialSize": 236874,
+      "status": "OPTIMIZED"
+    },
+    "5af4a84a": {
+      "id": "5af4a84a",
+      "pid": "4f73015f",
+      "path": "img\\felix-einsiedel-aktfotografie-2.jpg",
+      "size": 196955,
+      "name": "felix-einsiedel-aktfotografie-2.jpg",
+      "type": "Jpg",
+      "initialSize": 196955,
+      "status": "OPTIMIZED"
+    },
+    "7302c975": {
+      "id": "7302c975",
+      "pid": "4f73015f",
+      "path": "img\\felix-einsiedel-aktfotografie-3.jpg",
+      "size": 231379,
+      "name": "felix-einsiedel-aktfotografie-3.jpg",
+      "type": "Jpg",
+      "initialSize": 231379,
+      "status": "OPTIMIZED"
+    },
+    "4e317a7f": {
+      "id": "4e317a7f",
+      "pid": "4f73015f",
+      "path": "img\\felix-einsiedel-aktfotografie-4.jpg",
+      "size": 206091,
+      "name": "felix-einsiedel-aktfotografie-4.jpg",
+      "type": "Jpg",
+      "initialSize": 206091,
+      "status": "OPTIMIZED"
+    },
+    "d6f91147": {
+      "id": "d6f91147",
+      "pid": "4f73015f",
+      "path": "img\\felix-einsiedel-aktfotografie-5.jpg",
+      "size": 264535,
+      "name": "felix-einsiedel-aktfotografie-5.jpg",
+      "type": "Jpg",
+      "initialSize": 264535,
+      "status": "OPTIMIZED"
+    },
+    "5386b76a": {
+      "id": "5386b76a",
+      "pid": "4f73015f",
+      "path": "img\\felix-einsiedel-aktfotografie-6.jpg",
+      "size": 232735,
+      "name": "felix-einsiedel-aktfotografie-6.jpg",
+      "type": "Jpg",
+      "initialSize": 232735,
+      "status": "OPTIMIZED"
+    },
+    "cf6ac2be": {
+      "id": "cf6ac2be",
+      "pid": "4f73015f",
+      "path": "img\\felix-einsiedel-aktfotografie.jpg",
+      "size": 217115,
+      "name": "felix-einsiedel-aktfotografie.jpg",
+      "type": "Jpg",
+      "initialSize": 217115,
+      "status": "OPTIMIZED"
+    },
+    "b5d5af2d": {
+      "id": "b5d5af2d",
+      "pid": "4f73015f",
+      "path": "img\\frank-zaumzeil\\frank-zaumzeil-1.jpg",
+      "size": 29662,
+      "name": "frank-zaumzeil-1.jpg",
+      "type": "Jpg",
+      "initialSize": 29662,
+      "status": "OPTIMIZED"
+    },
+    "e25b28fa": {
+      "id": "e25b28fa",
+      "pid": "4f73015f",
+      "path": "img\\frank-zaumzeil\\frank-zaumzeil-2.jpg",
+      "size": 19707,
+      "name": "frank-zaumzeil-2.jpg",
+      "type": "Jpg",
+      "initialSize": 19707,
+      "status": "OPTIMIZED"
+    },
+    "9004f1e4": {
+      "id": "9004f1e4",
+      "pid": "4f73015f",
+      "path": "img\\frank-zaumzeil\\frank-zaumzeil-3.jpg",
+      "size": 26124,
+      "name": "frank-zaumzeil-3.jpg",
+      "type": "Jpg",
+      "initialSize": 26124,
+      "status": "OPTIMIZED"
+    },
+    "ce6a02f9": {
+      "id": "ce6a02f9",
+      "pid": "4f73015f",
+      "path": "img\\frank-zaumzeil\\frank-zaumzeil-4.jpg",
+      "size": 28836,
+      "name": "frank-zaumzeil-4.jpg",
+      "type": "Jpg",
+      "initialSize": 28836,
+      "status": "OPTIMIZED"
+    },
+    "403a39ea": {
+      "id": "403a39ea",
+      "pid": "4f73015f",
+      "path": "img\\frank-zaumzeil\\frank-zaumzeil-thumbnail.jpg",
+      "size": 11711,
+      "name": "frank-zaumzeil-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 11711,
+      "status": "OPTIMIZED"
+    },
+    "9dcb63be": {
+      "id": "9dcb63be",
+      "pid": "4f73015f",
+      "path": "img\\friedrich-hoefer\\friedrich-hoefer-thumbnail.jpg",
+      "size": 12951,
+      "name": "friedrich-hoefer-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 12951,
+      "status": "OPTIMIZED"
+    },
+    "6ab07301": {
+      "id": "6ab07301",
+      "pid": "4f73015f",
+      "path": "img\\guenter-weiss\\blauer-tag.jpg",
+      "size": 45469,
+      "name": "blauer-tag.jpg",
+      "type": "Jpg",
+      "initialSize": 45469,
+      "status": "OPTIMIZED"
+    },
+    "b1b9517d": {
+      "id": "b1b9517d",
+      "pid": "4f73015f",
+      "path": "img\\guenter-weiss\\guenter-weiss-thumbnail.jpg",
+      "size": 13066,
+      "name": "guenter-weiss-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 13066,
+      "status": "OPTIMIZED"
+    },
+    "b3a6cc1b": {
+      "id": "b3a6cc1b",
+      "pid": "4f73015f",
+      "path": "img\\guenter-weiss\\haeuser-im-schatten.jpg",
+      "size": 24088,
+      "name": "haeuser-im-schatten.jpg",
+      "type": "Jpg",
+      "initialSize": 24088,
+      "status": "OPTIMIZED"
+    },
+    "cdf6d75d": {
+      "id": "cdf6d75d",
+      "pid": "4f73015f",
+      "path": "img\\guenter-weiss\\vom-mosenturm.jpg",
+      "size": 24364,
+      "name": "vom-mosenturm.jpg",
+      "type": "Jpg",
+      "initialSize": 24364,
+      "status": "OPTIMIZED"
+    },
+    "4cf2aff1": {
+      "id": "4cf2aff1",
+      "pid": "4f73015f",
+      "path": "img\\hanif-lehmann\\hanif-lehmann-thumbnail.jpg",
+      "size": 14677,
+      "name": "hanif-lehmann-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 14677,
+      "status": "OPTIMIZED"
+    },
+    "200c91da": {
+      "id": "200c91da",
+      "pid": "4f73015f",
+      "path": "img\\karsten-mittag\\karsten-mittag-thumbnail.jpg",
+      "size": 20684,
+      "name": "karsten-mittag-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 20684,
+      "status": "OPTIMIZED"
+    },
+    "361794b6": {
+      "id": "361794b6",
+      "pid": "4f73015f",
+      "path": "img\\kulturraum-vogtland-zwickau-logo.png",
+      "size": 3785,
+      "name": "kulturraum-vogtland-zwickau-logo.png",
+      "type": "Png",
+      "initialSize": 3785,
+      "status": "OPTIMIZED"
+    },
+    "74501cb7": {
+      "id": "74501cb7",
+      "pid": "4f73015f",
+      "path": "img\\lothar-rentsch\\lothar-rentsch-thumbnail.jpg",
+      "size": 8079,
+      "name": "lothar-rentsch-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 8079,
+      "status": "OPTIMIZED"
+    },
+    "ab7001db": {
+      "id": "ab7001db",
+      "pid": "4f73015f",
+      "path": "img\\lothar-rentsch\\lothar-rentsch.jpg",
+      "size": 6165,
+      "name": "lothar-rentsch.jpg",
+      "type": "Jpg",
+      "initialSize": 6165,
+      "status": "OPTIMIZED"
+    },
+    "4f3173f0": {
+      "id": "4f3173f0",
+      "pid": "4f73015f",
+      "path": "img\\malzhaus-logo.png",
+      "size": 4126,
+      "name": "malzhaus-logo.png",
+      "type": "Png",
+      "initialSize": 4126,
+      "status": "OPTIMIZED"
+    },
+    "38e36598": {
+      "id": "38e36598",
+      "pid": "4f73015f",
+      "path": "img\\michael-franke\\michael-franke-thumbnail.jpg",
+      "size": 9183,
+      "name": "michael-franke-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 9183,
+      "status": "OPTIMIZED"
+    },
+    "be302b4e": {
+      "id": "be302b4e",
+      "pid": "4f73015f",
+      "path": "img\\michaela-list\\flucht-eines-propheten-bergbauhalde.jpg",
+      "size": 24183,
+      "name": "flucht-eines-propheten-bergbauhalde.jpg",
+      "type": "Jpg",
+      "initialSize": 24183,
+      "status": "OPTIMIZED"
+    },
+    "503cf4d9": {
+      "id": "503cf4d9",
+      "pid": "4f73015f",
+      "path": "img\\michaela-list\\michaela-list-thumbnail.jpg",
+      "size": 8112,
+      "name": "michaela-list-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 8112,
+      "status": "OPTIMIZED"
+    },
+    "be0885ee": {
+      "id": "be0885ee",
+      "pid": "4f73015f",
+      "path": "img\\michaela-list\\von-hier-aus-wohin-i.jpg",
+      "size": 24056,
+      "name": "von-hier-aus-wohin-i.jpg",
+      "type": "Jpg",
+      "initialSize": 24056,
+      "status": "OPTIMIZED"
+    },
+    "df94c64b": {
+      "id": "df94c64b",
+      "pid": "4f73015f",
+      "path": "img\\michaela-list\\von-hier-aus-wohin-ii.jpg",
+      "size": 23467,
+      "name": "von-hier-aus-wohin-ii.jpg",
+      "type": "Jpg",
+      "initialSize": 23467,
+      "status": "OPTIMIZED"
+    },
+    "01cc64dc": {
+      "id": "01cc64dc",
+      "pid": "4f73015f",
+      "path": "img\\osmar-osten\\osmar-osten-thumbnail.jpg",
+      "size": 8838,
+      "name": "osmar-osten-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 8838,
+      "status": "OPTIMIZED"
+    },
+    "c7ad76cf": {
+      "id": "c7ad76cf",
+      "pid": "4f73015f",
+      "path": "img\\peter-luban\\peter-luban-thumbnail.jpg",
+      "size": 14678,
+      "name": "peter-luban-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 14678,
+      "status": "OPTIMIZED"
+    },
+    "9ee134cb": {
+      "id": "9ee134cb",
+      "pid": "4f73015f",
+      "path": "img\\projekte-1.jpg",
+      "size": 316751,
+      "name": "projekte-1.jpg",
+      "type": "Jpg",
+      "initialSize": 316751,
+      "status": "OPTIMIZED"
+    },
+    "5736a56b": {
+      "id": "5736a56b",
+      "pid": "4f73015f",
+      "path": "img\\projekte-2.jpg",
+      "size": 215442,
+      "name": "projekte-2.jpg",
+      "type": "Jpg",
+      "initialSize": 215442,
+      "status": "OPTIMIZED"
+    },
+    "bbe40d81": {
+      "id": "bbe40d81",
+      "pid": "4f73015f",
+      "path": "img\\restaurierungsplanung-jens-kaminsky-logo.png",
+      "size": 3859,
+      "name": "restaurierungsplanung-jens-kaminsky-logo.png",
+      "type": "Png",
+      "initialSize": 3859,
+      "status": "OPTIMIZED"
+    },
+    "98b50d64": {
+      "id": "98b50d64",
+      "pid": "4f73015f",
+      "path": "img\\sparkasse-vogtland-logo.png",
+      "size": 2772,
+      "name": "sparkasse-vogtland-logo.png",
+      "type": "Png",
+      "initialSize": 2772,
+      "status": "OPTIMIZED"
+    },
+    "57f8663c": {
+      "id": "57f8663c",
+      "pid": "4f73015f",
+      "path": "img\\stadt-plauen-logo.png",
+      "size": 3441,
+      "name": "stadt-plauen-logo.png",
+      "type": "Png",
+      "initialSize": 3441,
+      "status": "OPTIMIZED"
+    },
+    "37a4e8d4": {
+      "id": "37a4e8d4",
+      "pid": "4f73015f",
+      "path": "img\\stadtchronistin-plauen-tanja-pohl-1.jpg",
+      "size": 153194,
+      "name": "stadtchronistin-plauen-tanja-pohl-1.jpg",
+      "type": "Jpg",
+      "initialSize": 153194,
+      "status": "OPTIMIZED"
+    },
+    "b41e518d": {
+      "id": "b41e518d",
+      "pid": "4f73015f",
+      "path": "img\\stadtchronistin-plauen-tanja-pohl-2.jpg",
+      "size": 272732,
+      "name": "stadtchronistin-plauen-tanja-pohl-2.jpg",
+      "type": "Jpg",
+      "initialSize": 272732,
+      "status": "OPTIMIZED"
+    },
+    "039ac2d0": {
+      "id": "039ac2d0",
+      "pid": "4f73015f",
+      "path": "img\\stadtchronistin-plauen-tanja-pohl-3.jpg",
+      "size": 276444,
+      "name": "stadtchronistin-plauen-tanja-pohl-3.jpg",
+      "type": "Jpg",
+      "initialSize": 276444,
+      "status": "OPTIMIZED"
+    },
+    "defd208c": {
+      "id": "defd208c",
+      "pid": "4f73015f",
+      "path": "img\\tino-rex\\tino-rex-thumbnail.jpg",
+      "size": 16867,
+      "name": "tino-rex-thumbnail.jpg",
+      "type": "Jpg",
+      "initialSize": 16867,
+      "status": "OPTIMIZED"
+    },
+    "d16639d2": {
+      "id": "d16639d2",
+      "pid": "4f73015f",
+      "path": "img\\vogtlandkreis-logo.png",
+      "size": 4806,
+      "name": "vogtlandkreis-logo.png",
+      "type": "Png",
+      "initialSize": 4806,
+      "status": "OPTIMIZED"
+    },
+    "a0f0b483": {
+      "id": "a0f0b483",
+      "pid": "4f73015f",
+      "path": "img\\weissig-muehlberg-jaeschke-1.jpg",
+      "size": 365493,
+      "name": "weissig-muehlberg-jaeschke-1.jpg",
+      "type": "Jpg",
+      "initialSize": 365493,
+      "status": "OPTIMIZED"
+    },
+    "0712163a": {
+      "id": "0712163a",
+      "pid": "4f73015f",
+      "path": "img\\weissig-muehlberg-jaeschke-2.jpg",
+      "size": 303416,
+      "name": "weissig-muehlberg-jaeschke-2.jpg",
+      "type": "Jpg",
+      "initialSize": 303416,
+      "status": "OPTIMIZED"
+    },
+    "40d5617f": {
+      "id": "40d5617f",
+      "pid": "4f73015f",
+      "path": "img\\weissig-muehlberg-jaeschke-3.jpg",
+      "size": 250122,
+      "name": "weissig-muehlberg-jaeschke-3.jpg",
+      "type": "Jpg",
+      "initialSize": 250122,
+      "status": "OPTIMIZED"
+    },
+    "b62ac97c": {
+      "id": "b62ac97c",
+      "pid": "4f73015f",
+      "path": "img\\weissig-muehlberg-jaeschke-4.jpg",
+      "size": 205461,
+      "name": "weissig-muehlberg-jaeschke-4.jpg",
+      "type": "Jpg",
+      "initialSize": 205461,
+      "status": "OPTIMIZED"
+    },
+    "3153df1b": {
+      "id": "3153df1b",
+      "pid": "4f73015f",
+      "path": "img\\weissig-muehlberg-jaeschke-5.jpg",
+      "size": 242024,
+      "name": "weissig-muehlberg-jaeschke-5.jpg",
+      "type": "Jpg",
+      "initialSize": 242024,
+      "status": "OPTIMIZED"
+    },
+    "4a98a2ed": {
+      "id": "4a98a2ed",
+      "pid": "4f73015f",
+      "path": "img\\weissig-muehlberg-jaeschke-6.jpg",
+      "size": 369827,
+      "name": "weissig-muehlberg-jaeschke-6.jpg",
+      "type": "Jpg",
+      "initialSize": 369827,
+      "status": "OPTIMIZED"
+    },
+    "44b99d60": {
+      "id": "44b99d60",
+      "pid": "4f73015f",
+      "path": "img\\weissig-muehlberg-jaeschke-7.jpg",
+      "size": 276798,
+      "name": "weissig-muehlberg-jaeschke-7.jpg",
+      "type": "Jpg",
+      "initialSize": 276798,
+      "status": "OPTIMIZED"
+    },
+    "c52c1c92": {
+      "id": "c52c1c92",
+      "pid": "4f73015f",
+      "path": "img\\weissig-muehlberg-jaeschke-einladung.jpg",
+      "size": 151543,
+      "name": "weissig-muehlberg-jaeschke-einladung.jpg",
+      "type": "Jpg",
+      "initialSize": 151543,
+      "status": "OPTIMIZED"
+    },
+    "7edb3ee7": {
+      "id": "7edb3ee7",
+      "pid": "4f73015f",
+      "path": "img\\wintersaat.jpg",
+      "size": 147725,
+      "name": "wintersaat.jpg",
+      "type": "Jpg",
+      "initialSize": 147725,
+      "status": "OPTIMIZED"
+    },
+    "db13317d": {
+      "id": "db13317d",
+      "pid": "4f73015f",
+      "path": "img\\icon.png",
+      "size": 310,
+      "name": "icon.png",
+      "type": "Png",
+      "initialSize": 550,
+      "status": "OPTIMIZED"
+    }
+  },
+  "config": {
+    "watch": true,
+    "liveRefresh": true,
+    "liveRefreshDelay": 0,
+    "filterPatterns": ".md,\n.js,\n_site",
+    "useCustomServer": false,
+    "customServerUrl": "",
+    "cssPath": "css/",
+    "jsPath": "js/",
+    "htmlPath": "html/",
+    "minJsPath": "min/",
+    "htmlExtension": ".html",
+    "cssPathType": "REPLACE_TYPE",
+    "htmlPathType": "REPLACE_TYPE",
+    "jsPathType": "REPLACE_TYPE",
+    "minJsPathType": "RELATIVE_FILEDIR",
+    "htmlTypes": "jade, haml, slim, markdown, md",
+    "cssTypes": "less, sass, stylus, scss, styl",
+    "jsTypes": "coffee, coffeescript, coffeescripts, ls, livescript, livescripts",
+    "cssPreprocessorPath": "",
+    "htmlPreprocessorPath": "",
+    "jsPreprocessorPath": "",
+    "minJsPreprocessorPath": "",
+    "autoprefixerBrowsers": "",
+    "ftpHost": "",
+    "ftpPort": "21",
+    "ftpRemotePath": "",
+    "ftpIgnorePreprocessorFiles": true,
+    "ftpType": "FTP",
+    "ftpExcludePatterns": "",
+    "ftpPassword": "",
+    "ftpUsername": ""
+  }
+}

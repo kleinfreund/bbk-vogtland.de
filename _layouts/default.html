@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="de" class="page">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+
+    <!-- Prefetching Google Webfonts -->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//themes.googleusercontent.com">
+    {% if site.google_analytics %}<link rel="dns-prefetch" href="//www.google-analytics.com">{% endif %}
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,700">
+    <link rel="stylesheet" href="/css/bbkv.min.css">
+
+    <link rel="shortcut icon" href="/img/icon.png">
+
+    {% if site.description %}
+    <meta name="description" content="{{ site.description }}">{% endif %}
+
+    {% if site.google_verify %}<!-- Webmaster Tools verfication -->
+    <meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
+
+    <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <header class="site-header">
+        <a href="/" class="site-logo">
+            <img src="/img/bbkv-logo.png" alt="BBKV Logo">
+        </a>
+
+        <a href="#mn" class="mobile-nav-toggle">Menü</a>
+
+        <nav>
+            <ul class="nav  site-nav  site-nav--desk">
+                {% for link in site.links %}
+                <li>
+                    <a href="{{ link.url }}" class="site-nav__item{% if link.title == page.title %}  site-nav__item--current{% endif %}">{{ link.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </nav>
+
+        <div class="bbk-member-note">
+            <div class="tooltip  tooltip--bbk" data-tooltip="Mitglied im Sächsischen Künstlerbund sowie im Bundesverband Bildender Künstlerinnen und Künstler">
+                <img src="/img/bbk.png" alt="BBK Mitglied">
+            </div>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </main>
+
+    <nav>
+        <ul class="nav  site-nav  site-nav--mobile" id="mn">
+            {% for link in site.links %}
+            <li>
+                <a href="{{ link.url }}" class="site-nav__item{% if link.title == page.title %}  site-nav__item--current{% endif %}">{{ link.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+
+    {% if page.title == 'Mitglieder' %}
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+    <script>
+        // Sorry for this mess. Not a jQuery guy…
+        $(document).ready(function(){
+            var $animateTime = 500;
+
+            // Listen on click of `member__link` class
+            $('.members').on('click', '.member__link', function(event) {
+                event.preventDefault();
+
+                // Get related `member__content`
+                var $memberContent = $(this).next('.member__content');
+
+                // Remove class `visible` if already present
+                var $justShown = $memberContent.filter('.visible').removeClass('visible');
+
+                // Add class `visible` if not yet present
+                $memberContent.not($justShown).addClass('visible');
+
+                if($memberContent.height() === 0){
+                    autoHeightAnimate($memberContent, $animateTime);
+                } else {
+                    $memberContent.stop().animate({ height: '0' }, $animateTime);
+                }
+            });
+
+            // Function to animate `height: auto;`
+            function autoHeightAnimate(element, time){
+                var $curHeight = element.outerHeight(), // Get Default Height
+                    $autoHeight = element.css('height', 'auto').outerHeight(); // Get Auto Height
+
+                // Reset to Default Height
+                element.outerHeight($curHeight);
+
+                // Animate to Auto Height
+                element.stop().animate({ height: $autoHeight }, parseInt(time));
+            }
+        });
+    </script>
+    {% endif %}
+
+    {% if site.google_analytics %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+    </script>
+    {% endif %}
+</body>
+</html>
