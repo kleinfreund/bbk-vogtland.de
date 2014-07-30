@@ -623,6 +623,9 @@ a {
       margin-bottom: 96px;
       margin-bottom: 6rem; } }
 
+.post__title > a {
+  text-decoration: none; }
+
 .img--opacity {
   opacity: 0.4;
   -webkit-transition: opacity 0.2s ease-out;

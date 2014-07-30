@@ -3,12 +3,10 @@
 ## to do
 
 - upload compiled jekyll site to bbk-vogtland.de
-- store post images in directories
-
-- Add proper description (> Andreas)
-- add 404.html
+- Add proper description (Andreas)
 - gulp-sass issue where extend swallows other selectors. (temp fixes in _base)
   - https://github.com/dlmanning/gulp-sass/issues/65
+- Make logo SVG
 - site-nav
     - test fallback (`:target`) nav
     - enhance nav with jQuery
