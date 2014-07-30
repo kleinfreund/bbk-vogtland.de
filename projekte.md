@@ -4,7 +4,7 @@ permalink: /projekte/
 ---
 # Projekte
 
-__2014__: [3. Vogtländische Malertage 2014](/vogtlaendische-malertage-2014)
+__2014__: [3. Vogtländische Malertage 2014]({{ site.url }}/vogtlaendische-malertage-2014)
 
 __2013__: 3. Vogtländisches Druckgrafiksymposium
 

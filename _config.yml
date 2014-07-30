@@ -1,7 +1,6 @@
 title: Bund Bildender Künstler Vogtland e.V.
 description: "Website des Bunds Bildender Künstler im Vogtland"
-url: http://bbk-vogtland.de
-baseurl: /bbk-vogtland
+url: http://kleinfreund.de/bbk-vogtland
 
 paginate: 5
 permalink: /:title
