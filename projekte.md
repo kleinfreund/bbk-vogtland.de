@@ -4,7 +4,25 @@ permalink: /projekte/
 ---
 # Projekte
 
-__2014__: [3. Vogtländische Malertage 2014]({{ site.url }}/vogtlaendische-malertage-2014)
+## Vogtländische Malertage 2014
+
+![Vogtländische Malertage 2014 – 1](/img/malertage-2014/malertage-2014-1.jpg)
+
+![Vogtländische Malertage 2014 – 2](/img/malertage-2014/malertage-2014-2.jpg)
+
+![Vogtländische Malertage 2014 – 3](/img/malertage-2014/malertage-2014-3.jpg)
+
+![Vogtländische Malertage 2014 – 4](/img/malertage-2014/malertage-2014-4.jpg)
+
+![Vogtländische Malertage 2014 – 5](/img/malertage-2014/malertage-2014-5.jpg)
+
+![Vogtländische Malertage 2014 – 6](/img/malertage-2014/malertage-2014-6.jpg)
+
+![Vogtländische Malertage 2014 – 7](/img/malertage-2014/malertage-2014-7.jpg)
+
+![Vogtländische Malertage 2014 – 8](/img/malertage-2014/malertage-2014-8.jpg)
+
+## Vergangene Projekte
 
 __2013__: 3. Vogtländisches Druckgrafiksymposium
 
