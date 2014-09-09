@@ -2,4 +2,4 @@
 title: Wintersaat
 published: false
 ---
-![Wintersaat]({{ site.url }}/img/wintersaat/wintersaat-einladung.jpg)
+![Wintersaat](/img/wintersaat/wintersaat-einladung.jpg)
