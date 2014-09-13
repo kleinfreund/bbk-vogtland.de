@@ -1,6 +1,6 @@
 title: Bund Bildender Künstler Vogtland e.V.
-description: "Website des Bunds Bildender Künstler im Vogtland"
-url: http://kleinfreund.de/bbk-vogtland
+description: "Website des Bundes Bildender Künstler im Vogtland"
+url: http://bbk-vogtland.de
 
 paginate: 5
 permalink: /:title
@@ -8,9 +8,6 @@ relative_permalinks: false
 
 include:
   - .htaccess
-  # Include Sass files that are preprended with an underscore
-  - _*.sass
-  - _*.scss
 
 exclude:
   - prepros.json
@@ -23,21 +20,15 @@ gems:
   - jekyll-sitemap
 
 kramdown:
-  # Disable auto-generated ID's for headings
+  # Disable auto-generated ID’s for headings
   auto_ids: false
 
 defaults:
-  # all files have the layout `default`
   -
-    scope:
-      path: ""
     values:
       layout: "default"
-
-  # all files with the type `post` have the layout `post`
   -
     scope:
-      path: ""
       type: "posts"
     values:
       layout: "post"
