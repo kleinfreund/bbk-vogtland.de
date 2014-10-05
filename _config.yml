@@ -1,5 +1,5 @@
 title: Bund Bildender Künstler Vogtland e.V.
-description: "Website des Bundes Bildender Künstler im Vogtland"
+description: Website des Bundes Bildender Künstler im Vogtland
 url: http://bbk-vogtland.de
 
 paginate: 5
@@ -12,8 +12,6 @@ include:
 exclude:
   - prepros.json
   - config.rb
-  - bbk-vogtland.sublime-workspace
-  - node_modules
 
 gems:
   # Activate jekyll-sitemap plugin

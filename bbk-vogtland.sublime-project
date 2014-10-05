@@ -4,13 +4,6 @@
         {
             "path": "/",
             "name": "bbk-vogtland",
-            "file_exclude_patterns":[
-                "CNAME",
-                "*.rb",
-                "*.json",
-                "*.txt",
-                "*.pdf"
-            ],
             "folder_exclude_patterns": [
                 "node_modules",
                 "_site",

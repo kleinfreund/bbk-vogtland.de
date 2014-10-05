@@ -2,8 +2,6 @@
 
 ## to do
 
-- upload compiled jekyll site to bbk-vogtland.de
-- Move site to GitHub
 - Add proper description (Andreas)
 - gulp-sass issue where extend swallows other selectors. (temp fixes in _base)
   - https://github.com/dlmanning/gulp-sass/issues/65
