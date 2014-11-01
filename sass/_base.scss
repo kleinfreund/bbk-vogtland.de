@@ -26,11 +26,7 @@ figure {
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl,
-figure {
-    margin-bottom: $base-spacing-unit;
-    margin-bottom: ($base-spacing-unit / $base-font-size)*1rem;
-}
-
+figure,
 %vertical-rhythm {
     margin-bottom: $base-spacing-unit;
     margin-bottom: ($base-spacing-unit / $base-font-size)*1rem;
