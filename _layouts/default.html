@@ -1,26 +1,28 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html lang="de" class="page">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+    {% if site.description %}
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">{% endif %}
 
-    <!-- Prefetching Google Webfonts -->
+    {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
+    {% if site.google_analytics %}<link rel="dns-prefetch" href="//www.google-analytics.com">{% endif %}
+
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//themes.googleusercontent.com">
-    {% if site.google_analytics %}<link rel="dns-prefetch" href="//www.google-analytics.com">{% endif %}
 
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,700">
     <link rel="stylesheet" href="/css/bbkv.min.css">
 
-    <link rel="shortcut icon" href="/img/icon.png">
+    {% if site.google_analytics %}<script defer>{% include analytics.min.js %}</script>{% endif %}
 
-    {% if site.description %}
-    <meta name="description" content="{{ site.description }}">{% endif %}
-
-    {% if site.google_verify %}<!-- Webmaster Tools verfication -->
-    <meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
+    <link rel="icon" href="/img/icon.png">
+    <link rel="apple-touch-icon-precomposed" href="/img/icon.png">
 
     <!--[if lt IE 9]>
         <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -28,7 +30,7 @@
 </head>
 <body>
     <header class="site-header">
-        <a href="" class="site-logo">
+        <a href="/" class="site-logo">
             <img src="/img/bbkv-logo.png" alt="BBKV Logo">
         </a>
 
@@ -69,58 +71,7 @@
 
     {% if page.title == 'Mitglieder' %}
     <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-
-    <script>
-        // Sorry for this mess. Not a jQuery guy…
-        $(document).ready(function(){
-            var $animateTime = 500;
-
-            // Listen on click of `member__link` class
-            $('.members').on('click', '.member__link', function(event) {
-                event.preventDefault();
-
-                // Get related `member__content`
-                var $memberContent = $(this).next('.member__content');
-
-                // Remove class `visible` if already present
-                var $justShown = $memberContent.filter('.visible').removeClass('visible');
-
-                // Add class `visible` if not yet present
-                $memberContent.not($justShown).addClass('visible');
-
-                if($memberContent.height() === 0){
-                    autoHeightAnimate($memberContent, $animateTime);
-                } else {
-                    $memberContent.stop().animate({ height: '0' }, $animateTime);
-                }
-            });
-
-            // Function to animate `height: auto;`
-            function autoHeightAnimate(element, time){
-                var $curHeight = element.outerHeight(), // Get Default Height
-                    $autoHeight = element.css('height', 'auto').outerHeight(); // Get Auto Height
-
-                // Reset to Default Height
-                element.outerHeight($curHeight);
-
-                // Animate to Auto Height
-                element.stop().animate({ height: $autoHeight }, parseInt(time));
-            }
-        });
-    </script>
-    {% endif %}
-
-    {% if site.google_analytics %}
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('set', 'anonymizeIp', true);
-        ga('send', 'pageview');
-    </script>
+    <script>{% include bbkv.min.js %}</script>
     {% endif %}
 </body>
 </html>
