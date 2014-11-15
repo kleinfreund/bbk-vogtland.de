@@ -116,15 +116,3 @@ figcaption {
         font-weight: 300;
     }
 }
-
-
-
-/**
- * Rulers
- */
-hr {
-    border: 0;
-    border-bottom: 1px solid $base-ui-color;
-    margin-bottom: $base-spacing-unit - 1px;
-    margin-bottom: (($base-spacing-unit - 1px) / $base-font-size)*1rem;
-}
