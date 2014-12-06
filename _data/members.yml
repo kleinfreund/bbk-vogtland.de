@@ -1,3 +1,31 @@
+- name: 'Reiner Bittner'
+  slug: 'reiner-bittner'
+  images: '<img src="/img/reiner-bittner/reiner-bittner-1.jpg" alt="Reiner Bittner 1"><img src="/img/reiner-bittner/reiner-bittner-2.jpg" alt="Reiner Bittner 2"><img src="/img/reiner-bittner/reiner-bittner-3.jpg" alt="Reiner Bittner 3"><img src="/img/reiner-bittner/reiner-bittner-4.jpg" alt="Reiner Bittner 4">'
+  vita:
+  - line: '31.12.1955 In Burgstädt geboren'
+  - line: 'aufgewachsen in Waldenburg/Sachsen'
+  - line: 'Lehre als Maler'
+  - line: '1980 Abitur'
+  - line: '1984–1989 Studium an der HS für Kunst & Design „Burg Giebichenstein“ Halle'
+  - line: 'Seit 1984 verheiratet mit der Dipl. Keramikerin Sybille Bittner'
+  - line: '1986 Geburt von Tochter Sascha Eliesabeth'
+  - line: 'seit 1989 freischaffend, Mitglied im Verband Bildender Künstler'
+  - line: 'Umzug in gemeinsames Atelier und Keramikwerkstatt in Pfaffengrün/Vogtland'
+  - line: 'seit 1995 Lehrtätigkeit am Beruflichen Schulzentrum e.o.plauen'
+  - line: '1995 Geburt von Tochter Josefine'
+  - line: '2000 Geburt von Sohn Josua'
+  - line: 'seit 2014 Mitglied im Bund Bildender Künstler Vogtland e.V.'
+
+  address:
+  - line: 'Reiner Bittner'
+  - line: 'Gasse 2'
+  - line: '08233 Pfaffengrün'
+  - line: 'Telefon: 037468 7428'
+  contact:
+  - line: '<a href="mailto:bittners-art@gmx.de">bittners-art@gmx.de</a>'
+
+
+
 - name: 'Michael Franke'
   slug: 'michael-franke'
   vita:
@@ -68,28 +96,6 @@
   contact:
   - line: '<a href="mailto:atelier@friedrich-hoefer.de">atelier@friedrich-hoefer.de</a>'
   - line: '<a href="http://friedrich-hoefer.de">friedrich-hoefer.de</a>'
-
-
-
-- name: 'Andrea Lange'
-  slug: 'andrea-lange'
-  vita:
-  - line: '1970 in Dresden geboren'
-  - line: '1992 Studium an der Hochschule für Grafik und Buchkunst Leipzig, Diplom und Abschluss als Meisterschüler bei Prof. Rolf Kuhrt'
-  - line: '1998 Gründung der Sonnenberg-Presse mit Bettina Haller in Chemnitz. In dieser Werkstatt entstehen seither Graphiken, originalgraphische Bücher in kleinen Auflagen, Graphikkalender, Einblattdrucke. Regelmäßig finden Druckkurse statt.'
-  - line: '2001 Leben, künstlerische Tätigkeit und Werkstatt in Kemberg bei Lutherstadt Wittenberg'
-  - line: '2003 Mitglied der Künstlergruppe "Alba Blau"'
-  - line: '2008 es entstehen die Malerbücher Johann P. Tammen Fensterblick Klosterstraße 181 und Artur Schütt JETZT oder Was ist das – POESIE'
-  - line: 'wieder verstärkt malerisches und zeichnerisches Arbeiten'
-  - line: '2010 Mitglied im Bund Bildender Künstler Vogtland e.V.'
-  address:
-  - line: 'Andrea Lange'
-  - line: 'Burgstraße 13'
-  - line: '06901 Kemberg'
-  - line: 'Telefon: 034921 60683'
-  contact:
-  - line: '<a href="mailto:andrea-sonnenberg@gmx.de">andrea-sonnenberg@gmx.de</a>'
-  - line: '<a href="http://andrea-lange.com">andrea-lange.com</a>'
 
 
 
@@ -176,48 +182,6 @@
 
 
 
-- name: 'Barbara Mäder-Ruff'
-  slug: 'barbara-maeder-ruff'
-  images:
-  vita:
-  - line: '1963 in Zwickau geboren'
-  - line: '1988 Abitur an der Abendschule'
-  - line: 'seit 1991 Mitglied im Vorstand des Kunstverein Zwickau e.V.'
-  - line: '1991–1996 Studium an der Hochschule für Bildende Künste Dresden'
-  - line: '1995 Christoph-Graupner-Preis für Bildende Kunst des Landkreises Zwickauer Land'
-  - line: '1996 Diplom bei Claus Weidensdorfer'
-  - line: 'seit 1996 freischaffend'
-  - line: '1996 Teilnahme am Internat. Grafiksymposium "Zebra I"'
-  - line: '2000 Teilnahme am Internat. Grafiksymposium "Zebra II"'
-  - line: '2002 Anerkennung "100 Sächsische Grafiken"'
-  - line: '2003 Teilnahme an der Neugestaltung des Krankenhauses Zwickau (Gewinn einer öff. Ausschreibung mit drei weiteren Künstlern)'
-  - line: '2004 Teilnahme am Internat. Grafiksymposium "Zebra III"'
-  - line: 'seit 2005 Mitglied im Vorstand des Kunstvereins Zwickau e.V.'
-  - line: '2010 Teilnahme am 2. Vogtländischen Grafiksymposium'
-  - line: 'seit 2011 Stellvertretende Vorsitzende des Bundesverbandes Bildender Künstler Vogtland e.V.'
-  - line: '2011 Teilnahme am Lithografie-workshop des BBK Vogtland e.V. in Groß Nemerow'
-  address:
-  - line: 'Barbara Mäder-Ruff'
-  - line: 'Dompfaffweg 7'
-  - line: '91475 Lonnerstadt'
-  - line: 'Telefon: 0160 6604767'
-  contact:
-  - line: '<a href="mailto:b.maeder-ruff@freenet.de">b.maeder-ruff@freenet.de</a>'
-
-
-
-- name: 'Osmar Osten'
-  slug: 'osmar-osten'
-  address:
-  - line: 'Osmar Osten'
-  - line: 'Annaberger Straße 73'
-  - line: '09111 Chemnitz'
-  - line: 'Telefon: 0371 7250916'
-  contact:
-  - line: '<a href="http://osmar-osten.de">osmar-osten.de</a>'
-
-
-
 - name: 'Lothar Rentsch'
   slug: 'lothar-rentsch'
 
@@ -263,7 +227,7 @@
   vita:
   - line: 'am 02.04.1963 in Plauen geboren'
   - line: 'Lehre Textilzeichner'
-  - line: 'Studium an der HS für Kunst & Design "Burg Giebichenstein” in Halle'
+  - line: 'Studium an der HS für Kunst & Design „Burg Giebichenstein“ in Halle'
   - line: '1989–1992 Designer Halbmond Teppichwerke Oelsnitz'
   - line: 'verheiratet mit Anke Rudloff'
   - line: 'Kinder: Philipp, Julia und Valentin'
@@ -287,7 +251,7 @@
   vita:
   - line: 'am 26.10.1962 in Bad Elster geboren'
   - line: 'Lehre Textilzeichnerin'
-  - line: 'Studium an der HS für Kunst & Design "Burg Giebichenstein” in Halle'
+  - line: 'Studium an der HS für Kunst & Design „Burg Giebichenstein“ in Halle'
   - line: '1989–1992 Designerin Halbmond Teppichwerke Oelsnitz'
   - line: 'verheiratet mit Andreas Rudloff'
   - line: 'Kinder: Philipp, Julia und Valentin'
@@ -306,51 +270,20 @@
 
 
 
-- name: 'Erik Seidel'
-  slug: 'erik-seidel'
-  vita:
-  - line: '1966 geboren in Rodewisch'
-  - line: '1987–1996 Studium der Pädagogik, FB Kunsterziehung, Universität Magdeburg'
-  - line: '1996–1997 Studium Hochschule für Bildende Kunst Dresden, bei Prof. D. Nitzsche'
-  - line: '1997–1999 Lehre zum Steinmetz- und Steinbildhauer, Plauen'
-  - line: 'seit 2002 Lehrtätigkeit im Fach Kunst an verschiedenen Schulen'
-  - line: '2005 Aufnahme in den Bund Bildender Künstler, Chemnitzer Künstlerbund e.V.'
-  - line: 'seit 2006 Mitarbeit am Projekt MUSE der Yehudi Menuhin Stiftung Deutschland'
-  - line: 'seit 2007 Dozent an der Oxford Summer School, Oxford FB Holzschnitt'
-  - line: '2009 Gründungsmitglied des Bundes Bildender Künstler Vogtland e.V.'
+- name: 'Chrstina Röckl'
+  slug: 'christina-roeckl'
+  images: '<img src="/img/christina-roeckl/christina-roeckl-1.jpg" alt="Christina Röckl 1"><img src="/img/christina-roeckl/christina-roeckl-2.jpg" alt="Christina Röckl 2"><img src="/img/christina-roeckl/christina-roeckl-3.jpg" alt="Christina Röckl 3"><img src="/img/christina-roeckl/christina-roeckl-4.jpg" alt="Christina Röckl 4">'
+#  vita:
+#  - line: 'vita lines'
+
   address:
-  - line: 'Erik Seidel'
-  - line: 'Nach den Drei Bergen 33'
-  - line: '08527 Plauen'
+  - line: 'Christina Röckl'
+  - line: 'Brockhausstraße 62'
+  - line: '04229 Leipzig'
+  - line: 'Telefon: 0341 24829174'
   contact:
-  - line: '<a href="mailto:mail@erikseidel.de">mail@erikseidel.de</a>'
-  - line: '<a href="http://erikseidel.de">erikseidel.de</a>'
-
-
-
-- name: 'Günter Weiß'
-  slug: 'guenter-weiss'
-  images: '<img src="/img/guenter-weiss/blauer-tag.jpg" alt="Günter Weiß: Blauer Tag"><img src="/img/guenter-weiss/vom-mosenturm.jpg" alt="Günter Weiß: Vom Mosenturm"><img src="/img/guenter-weiss/haeuser-im-schatten.jpg" alt="Günter Weiß: Häuser im Schatten">'
-  vita:
-  - line: '1940 in Brunn bei Reichenbach geboren'
-  - line: '1954–1957 Lehre als Holzmaler'
-  - line: '1958–1961 Studium an der Fachschule für Angewandte Kunst, Magdeburg'
-  - line: '1961 Meisterabschluss im Malerhandwerk'
-  - line: '1963–1964 Mal- und Zeichenschule bei Prof. Carl Michel, Zwickau'
-  - line: '1965–1972 Berufsschullehrer (Fachlehrer für Maler) an der BBS Schwarzenberg'
-  - line: '1966–1968 Fernstudium Berufspädagogik, TU Dresden'
-  - line: '1970–1972 Fernstudium an der Fachhochschule für Werbung und Gestaltung in Potsdam, Abschluss als Diplom-Designer'
-  - line: '1972–2000 Berufsschullehrer (Fachlehrer für Maler) an der Berufsschule Oelsnitz (Vogtl.)'
-  - line: '1982–1990 Mitglied der Fördergruppe Malerei/Grafik der Vogtlandkreise'
-  - line: '2007 1. Vogtländisches Druckgrafiksymposium in Plauen'
-  - line: '2010 2. Vogtländisches Druckgrafiksymposium in Reichenbach'
-  - line: 'Mitglied des BBK Vogtland im Bundesverband Bildender Künstler'
-  address:
-  - line: 'Günter Weiß'
-  - line: 'Otto-Riedel-Straße 1d'
-  - line: '08606 Oelsnitz'
-  contact:
-  - line: '<a href="mailto:hugweiss@web.de">hugweiss@web.de</a>'
+  - line: '<a href="mailto:christina.roeckl@gmx.de">christina.roeckl@gmx.de</a>'
+  - line: '<a href="http://erikaspitzt.com/">erikaspitzt.com</a>'
 
 
 
