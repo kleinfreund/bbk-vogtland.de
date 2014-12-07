@@ -6,7 +6,11 @@ title: Galerie
     <h2 class="post__title">
         <a href="{{ post.url }}">{{ post.title }}</a>
     </h2>
-    {{ post.content }}
+    {{ post.excerpt }}
+
+    {% if post.content contains '<!--more-->' %}
+    <p><a href="{{ post.url }}">Weiter …</a></p>
+    {% endif %}
 </article>
 {% endfor %}
 

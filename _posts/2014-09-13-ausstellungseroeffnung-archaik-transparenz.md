@@ -15,6 +15,8 @@ title: "Ausstellungseröffnung: Archaik & Transparenz"
 
 ![Archaik & Transparenz – 7](/img/archaik-transparenz/archaik-transparenz-07.jpg)
 
+<!--more-->
+
 ![Archaik & Transparenz – 8](/img/archaik-transparenz/archaik-transparenz-08.jpg)
 
 ![Archaik & Transparenz – 9](/img/archaik-transparenz/archaik-transparenz-09.jpg)

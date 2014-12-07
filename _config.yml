@@ -6,6 +6,7 @@ description: Website des Bundes Bildender Künstler im Vogtland
 paginate: 5
 permalink: /:title
 relative_permalinks: false
+excerpt_separator: <!--more-->
 
 gems:
   - jekyll-sitemap

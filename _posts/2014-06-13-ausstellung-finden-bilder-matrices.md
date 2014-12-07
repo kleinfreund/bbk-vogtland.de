@@ -17,6 +17,8 @@ An Ornamenten reizt mich unter anderem ihr subversives Potential, denn sie stehe
 
 ![Ausstellungseröffnung – Finden, Bilder, Matrices 4](/img/finden-bilder-matrices/finden-bilder-matrices-4.jpg)
 
+<!--more-->
+
 ![Ausstellungseröffnung – Finden, Bilder, Matrices 5](/img/finden-bilder-matrices/finden-bilder-matrices-5.jpg)
 
 ![Ausstellungseröffnung – Finden, Bilder, Matrices 6](/img/finden-bilder-matrices/finden-bilder-matrices-6.jpg)

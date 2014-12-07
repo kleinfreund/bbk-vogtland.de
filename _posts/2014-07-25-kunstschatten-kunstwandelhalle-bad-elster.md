@@ -13,6 +13,8 @@ title: "Kunstschatten: Kunstwandelhalle Bad Elster"
 
 ![Kunstschatten – Kunstwandelhalle Bad Elster 06](/img/kunstschatten/kunstschatten-06.jpg)
 
+<!--more-->
+
 ![Kunstschatten – Kunstwandelhalle Bad Elster 07](/img/kunstschatten/kunstschatten-07.jpg)
 
 ![Kunstschatten – Kunstwandelhalle Bad Elster 08](/img/kunstschatten/kunstschatten-08.jpg)
