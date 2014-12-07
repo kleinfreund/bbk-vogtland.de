@@ -6,23 +6,47 @@ layout: compress
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
-    {% if site.description %}
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">{% endif %}
 
-    {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
-    {% if site.google_analytics %}<link rel="dns-prefetch" href="//www.google-analytics.com">{% endif %}
+    <title>
+        {% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}
+    </title>
+
+    {% if site.description %}
+        <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    {% endif %}
+
+    {% if site.google_verify %}
+        <meta name="google-site-verification" content="{{ site.google_verify }}">
+    {% endif %}
+
+    {% if site.google_analytics %}
+        <link rel="dns-prefetch" href="//www.google-analytics.com">
+    {% endif %}
 
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//themes.googleusercontent.com">
-
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,700">
-    <link rel="stylesheet" href="/css/bbkv.min.css">
 
-    {% if site.google_analytics %}<script defer>{% include analytics.min.js %}</script>{% endif %}
+    {% if site.loadCSS_js %}
+    <script>
+        {% include loadcss.min.js %}
+        loadCSS("{{ site.assets.css }}{{ site.name }}.min.css")
+    </script>
+    <noscript>
+        <link rel="stylesheet" href="{{ site.assets.css }}{{ site.name }}.min.css">
+    </noscript>
+    {% else %}
+        <link rel="stylesheet" href="{{ site.assets.css }}{{ site.name }}.min.css">
+    {% endif %}
 
-    <link rel="icon" href="/img/icon.png">
-    <link rel="apple-touch-icon-precomposed" href="/img/icon.png">
+    {% if site.google_analytics %}
+    <script defer>
+        {% include analytics.min.js %}
+    </script>
+    {% endif %}
+
+    <link rel="icon" href="{{ site.assets.images }}icon.png">
+    <link rel="apple-touch-icon-precomposed" href="{{ site.assets.images }}icon.png">
 
     <!--[if lt IE 9]>
         <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>

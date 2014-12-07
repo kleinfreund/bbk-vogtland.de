@@ -1,6 +1,7 @@
+name: bbkv
 title: Bund Bildender Künstler Vogtland e.V.
-description: Website des Bundes Bildender Künstler im Vogtland
 url: http://bbk-vogtland.de
+description: Website des Bundes Bildender Künstler im Vogtland
 
 paginate: 5
 permalink: /:title
@@ -11,6 +12,15 @@ gems:
 
 kramdown:
   auto_ids: false
+
+assets:
+  css: /css/
+  sass: /sass/
+  fonts: /fonts/
+  images: /img/
+  javascript: /js/
+
+loadCSS_js: true
 
 # https://github.com/penibelst/jekyll-compress-html by Anatol Broder
 compress_html:
