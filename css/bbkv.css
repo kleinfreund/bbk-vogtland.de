@@ -423,7 +423,7 @@ figcaption {
 
 /* line 1, C:/Users/Philipp/_dev/github/bbk-vogtland/sass/typography */
 html {
-  font: 300 1em/1.5 "Open Sans", Helvetica, Arial, sans-serif;
+  font: 400 1em/1.5 "Open Sans", Helvetica, Arial, sans-serif;
   color: #333;
   background-color: #fefefe;
   overflow-y: scroll;
