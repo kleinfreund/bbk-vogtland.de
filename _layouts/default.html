@@ -1,5 +1,5 @@
 ---
-layout: compress
+#layout: compress
 ---
 <!DOCTYPE html>
 <html lang="de" class="page">
@@ -19,11 +19,13 @@ layout: compress
         <meta name="google-site-verification" content="{{ site.google_verify }}">
     {% endif %}
 
-    {% if site.google_analytics %}
-        <link rel="dns-prefetch" href="//www.google-analytics.com">
+    {% if site.loadFontsAsync %}
+    <script>
+        {% include opensans.min.js %}
+    </script>
+    {% else %}
+        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700">
     {% endif %}
-
-    <script>{% include opensans.min.js %}</script>
 
     {% if site.loadCSS_js %}
     <script>
