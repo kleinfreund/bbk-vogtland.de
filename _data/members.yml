@@ -276,13 +276,10 @@
 #  vita:
 #  - line: 'vita lines'
 
-  address:
-  - line: 'Christina Röckl'
-  - line: 'Brockhausstraße 62'
-  - line: '04229 Leipzig'
-  - line: 'Telefon: 0341 24829174'
+#  address:
+#  - line: ''
   contact:
-  - line: '<a href="mailto:christina.roeckl@gmx.de">christina.roeckl@gmx.de</a>'
+  - line: '<a href="mailto:hallo@erikaspitzt.com">hallo@erikaspitzt.com</a>'
   - line: '<a href="http://erikaspitzt.com/">erikaspitzt.com</a>'
 
 
