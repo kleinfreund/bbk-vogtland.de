@@ -24,7 +24,7 @@ assets:
 loadCSS_js: true
 loadFontsAsync: true
 
-# https://github.com/penibelst/jekyll-compress-html by Anatol Broder
+# compress.html by Anatol Broder (http://jch.penibelst.de)
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
