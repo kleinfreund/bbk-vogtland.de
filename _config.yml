@@ -34,6 +34,9 @@ compress_html:
   ignore:
     envs: [local]
 
+sass:
+  style: :compressed
+
 
 
 defaults:
