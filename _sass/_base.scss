@@ -110,7 +110,7 @@ figure > img {
 }
 
 figcaption {
-    @include font-size($small-print-size);
+    @include font-size($small-font-size);
 
     > a {
         font-weight: 300;

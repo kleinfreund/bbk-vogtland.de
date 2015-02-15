@@ -17,27 +17,51 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    @include font-size($h1-size);
+    @include font-size($h2-size);
+
+    @include media-query(lap-and-up) {
+        @include font-size($h1-size);
+    }
 }
 
 h2 {
-    @include font-size($h2-size);
+    @include font-size($h3-size);
+
+    @include media-query(lap-and-up) {
+        @include font-size($h2-size);
+    }
 }
 
 h3 {
-    @include font-size($h3-size);
+    @include font-size($h4-size);
+
+    @include media-query(lap-and-up) {
+        @include font-size($h3-size);
+    }
 }
 
 h4 {
-    @include font-size($h4-size);
+    @include font-size($h5-size);
+
+    @include media-query(lap-and-up) {
+        @include font-size($h4-size);
+    }
 }
 
 h5 {
-    @include font-size($h5-size);
+    @include font-size($h6-size);
+
+    @include media-query(lap-and-up) {
+        @include font-size($h5-size);
+    }
 }
 
 h6 {
-    @include font-size($h6-size);
+    @include font-size($small-font-size);
+
+    @include media-query(lap-and-up) {
+        @include font-size($h6-size);
+    }
 }
 
 
