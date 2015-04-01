@@ -9,6 +9,7 @@ relative_permalinks: false
 excerpt_separator: <!--more-->
 
 gems:
+  - jekyll-paginate
   - jekyll-sitemap
 
 kramdown:
