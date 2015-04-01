@@ -6,8 +6,10 @@
             "name": "bbk-vogtland",
             "folder_exclude_patterns": [
                 "node_modules",
-                "_site",
-                "static"
+                "_site"
+            ],
+            "file_exclude_patterns": [
+                ".jekyll-metadata"
             ]
         }
     ],
