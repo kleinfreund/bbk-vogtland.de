@@ -49,6 +49,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      type: "drafts"
+    values:
+      layout: "post"
 
 links:
   - title: Galerie
@@ -59,7 +64,5 @@ links:
     url: /mitglieder/
   - title: Verein
     url: /verein/
-#  - title: Kunst in Plauen
-#    url: /kunst-in-plauen/
   - title: Impressum
     url: /impressum/
