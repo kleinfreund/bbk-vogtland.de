@@ -1,3 +1,5 @@
+full_rebuild: true
+
 name: bbkv
 title: Bund Bildender Künstler Vogtland e.V.
 url: http://bbk-vogtland.de
@@ -7,6 +9,9 @@ paginate: 5
 permalink: /:title
 relative_permalinks: false
 excerpt_separator: <!--more-->
+
+exclude:
+  - "*.sublime-workspace"
 
 gems:
   - jekyll-paginate
