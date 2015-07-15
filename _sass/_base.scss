@@ -116,3 +116,43 @@ figcaption {
         font-weight: 300;
     }
 }
+
+
+
+/**
+ * Quotations
+ */
+q {
+    font-style: italic;
+}
+
+blockquote {
+    margin-right: $base-spacing-unit*2;
+    margin-left: $base-spacing-unit*2;
+    font-size: larger;
+    font-style: italic;
+}
+
+.quote__body {
+
+    > :first-child:before {
+        content: "\201E";
+    }
+
+    > :last-child:after {
+        content: "\201C";
+    }
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+.quote__source {
+    display: block;
+    font-style: normal;
+
+    &:before {
+        content: "\2014";
+    }
+}
