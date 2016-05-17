@@ -1,16 +1,46 @@
 {
+    "build_systems":
+    [
+        {
+            "linux":
+            {
+                "cmd":
+                [
+                    "xdg-open",
+                    "http://127.0.0.1:4000/"
+                ]
+            },
+            "name": "Open local server",
+            "osx":
+            {
+                "cmd":
+                [
+                    "open",
+                    "http://127.0.0.1:4000/"
+                ]
+            },
+            "windows":
+            {
+                "cmd":
+                [
+                    "start",
+                    "http://127.0.0.1:4000/"
+                ]
+            }
+        }
+    ],
     "folders":
     [
         {
-            "path": "/",
-            "name": "bbk-vogtland.de",
+            "file_exclude_patterns": [
+                ".jekyll-metadata"
+            ],
             "folder_exclude_patterns": [
                 "node_modules",
                 "_site"
             ],
-            "file_exclude_patterns": [
-                ".jekyll-metadata"
-            ]
+            "name": "bbk-vogtland.de",
+            "path": "/"
         }
     ],
     "settings":
