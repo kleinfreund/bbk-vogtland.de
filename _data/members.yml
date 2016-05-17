@@ -187,11 +187,6 @@
 
 
 
-- name: 'Tino Rex'
-  slug: 'tino-rex'
-
-
-
 - name: 'Christhard Richter'
   slug: 'christhard-richter'
   images: '<img src="/img/christhard-richter/christhard-richter.jpg" alt="Christhard Richter"><img src="/img/christhard-richter/christhard-wuerfelschale.jpg" alt="Christhard Richter: Würfelschale"><img src="/img/christhard-richter/christhard-balance.jpg" alt="Christhard Richter: Skulptur Balance"><img src="/img/christhard-richter/christhard-unbekannt.jpg" alt="Christhard Richter: Skulptur">'
@@ -320,3 +315,25 @@
   contact:
   - line: '<a href="mailto:mail@frank-h-zaumzeil.de">mail@frank-h-zaumzeil.de</a>'
   - line: '<a href="http://frank-h-zaumzeil.de">frank-h-zaumzeil.de</a>'
+
+
+
+- name: 'Frithjof Herrmann'
+  slug: 'frithjof-herrmann'
+  images: '<img src="/img/frithjof-herrmann/frithjof-herrmann-1-weg-nach-oben-praegedruck.jpg" alt="Frithjof Herrmann: Weg nach oben – Prägedruck"><img src="/img/frithjof-herrmann/frithjof-herrmann-2.jpg" alt="Frithjof Herrmann"><img src="/img/frithjof-herrmann/frithjof-herrmann-3-gegensaetze-praegedruck.jpg" alt="Frithjof Herrmann: Gegensätze – Prägedruck">'
+  vita:
+    - line: Lehrerstudium an der Technischen Hochschule Karl­-Marx­-Stadt.
+    - line: Abendstudium an der Hochschule für Bildende Künste Dresden.
+    - line: Mitbegründer und dreizehn Jahre Leiter der „Kleinen Galerie – Meerane“.
+    - line: Tätigkeit als Lehrer und ab 1990 Kunsterzieher (mit Grund­- und Leistungskursen) am Georgius­-Agricola-­Gymnasium in Glauchau.
+    - line: 1996 Aufnahme in den Bundesverband Bildender Künstler.
+    - line: Seit 2000 freiberuflich in eigener Werkstatt in Niederwiera tätig (Malerei)
+    - line: Grafik und keramische Kleinplastik – Dozent Volkshochschule Chemnitz.
+  address:
+  - line: 'Frithjof Herrmann'
+  - line: 'Siedlerweg 46'
+  - line: '08371 Glauchau'
+  - line: 'Telefon: 0170 8893923'
+  contact:
+  - line: '<a href="mailto:Frithjof.Herrmann@t-online.de">Frithjof.Herrmann@t-online.de</a>'
+  - line: '<a href="http://frithjofherrmann.de/">frithjofherrmann.de/</a>'
