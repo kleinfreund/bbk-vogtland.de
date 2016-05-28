@@ -322,13 +322,13 @@
   slug: 'frithjof-herrmann'
   images: '<img src="/img/frithjof-herrmann/frithjof-herrmann-1-weg-nach-oben-praegedruck.jpg" alt="Frithjof Herrmann: Weg nach oben – Prägedruck"><img src="/img/frithjof-herrmann/frithjof-herrmann-2.jpg" alt="Frithjof Herrmann"><img src="/img/frithjof-herrmann/frithjof-herrmann-3-gegensaetze-praegedruck.jpg" alt="Frithjof Herrmann: Gegensätze – Prägedruck">'
   vita:
-    - line: Lehrerstudium an der Technischen Hochschule Karl­-Marx­-Stadt.
-    - line: Abendstudium an der Hochschule für Bildende Künste Dresden.
-    - line: Mitbegründer und dreizehn Jahre Leiter der „Kleinen Galerie – Meerane“.
-    - line: Tätigkeit als Lehrer und ab 1990 Kunsterzieher (mit Grund­- und Leistungskursen) am Georgius­-Agricola-­Gymnasium in Glauchau.
-    - line: 1996 Aufnahme in den Bundesverband Bildender Künstler.
-    - line: Seit 2000 freiberuflich in eigener Werkstatt in Niederwiera tätig (Malerei)
-    - line: Grafik und keramische Kleinplastik – Dozent Volkshochschule Chemnitz.
+    - line: 'Lehrerstudium an der Technischen Hochschule Karl­-Marx­-Stadt.'
+    - line: 'Abendstudium an der Hochschule für Bildende Künste Dresden.'
+    - line: 'Mitbegründer und dreizehn Jahre Leiter der „Kleinen Galerie – Meerane“.'
+    - line: 'Tätigkeit als Lehrer und ab 1990 Kunsterzieher (mit Grund­- und Leistungskursen) am Georgius­-Agricola-­Gymnasium in Glauchau.'
+    - line: '1996 Aufnahme in den Bundesverband Bildender Künstler.'
+    - line: 'Seit 2000 freiberuflich in eigener Werkstatt in Niederwiera tätig (Malerei)'
+    - line: 'Grafik und keramische Kleinplastik – Dozent Volkshochschule Chemnitz.'
   address:
   - line: 'Frithjof Herrmann'
   - line: 'Siedlerweg 46'
@@ -336,4 +336,27 @@
   - line: 'Telefon: 0170 8893923'
   contact:
   - line: '<a href="mailto:Frithjof.Herrmann@t-online.de">Frithjof.Herrmann@t-online.de</a>'
-  - line: '<a href="http://frithjofherrmann.de/">frithjofherrmann.de/</a>'
+  - line: '<a href="http://frithjofherrmann.de">frithjofherrmann.de</a>'
+
+
+
+- name: 'Ralph Kunzmann'
+  slug: 'ralph-kunzmann'
+  images: '<img src="/img/ralph-kunzmann/akt-1.jpg" alt="Ralph Kunzmann: Akt 1"><img src="/img/ralph-kunzmann/akt-2.jpg" alt="Ralph Kunzmann: Akt 2"><img src="/img/ralph-kunzmann/malerei.jpg" alt="Ralph Kunzmann: Malerei">'
+  vita:
+    - line: 'geboren 1963 in Schmölln bei Altenburg'
+    - line: 'aufgewachsen in Plauen im Vogtland'
+    - line: '1981 Abschluss einer Ausbildung zum Elektriker'
+    - line: '1982 Abitur'
+    - line: 'Studium an der Universität Leipzig am Fachbereich Kunstpädagogik: künstlerische Praxis bei Renate Herfurth und Hans Rossmanit'
+    - line: '1990 Abschluss als Diplomlehrer für Kunsterziehung und Deutsch'
+    - line: 'seit 1990 im Schuldienst an Plauener Schulen tätig'
+    - line: 'bereits vor und während des Studiums intensive Beschäftigung mit Druckgrafik und Fotografie'
+  address:
+  - line: 'Ralph Kunzmann'
+  - line: 'Am Zanglerhübel 11'
+  - line: '08527 Plauen'
+  - line: 'Telefon: 03741 133376'
+  contact:
+  - line: '<a href="mailto:r.k@ralle-art.de">r.k@ralle-art.de</a>'
+  - line: '<a href="http://ralph-kunzmann.model-kartei.de">ralph-kunzmann.model-kartei.de</a>'
