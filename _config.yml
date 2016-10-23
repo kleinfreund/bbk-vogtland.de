@@ -6,7 +6,7 @@ url: "http://bbk-vogtland.de"
 description: Website des Bundes Bildender Künstler im Vogtland
 
 paginate: 5
-permalink: /:title
+permalink: /:year/:title/
 relative_permalinks: false
 excerpt_separator: <!--more-->
 
