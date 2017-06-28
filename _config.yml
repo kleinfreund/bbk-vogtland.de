@@ -14,7 +14,7 @@ exclude:
   - 'node_modules'
   - '*.sublime-workspace'
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
