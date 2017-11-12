@@ -17,3 +17,19 @@ Klaus Hirsch zeigt Menschen oft in Mutter-Kind Beziehungen. Seine Kupferdruckpla
 ![](/img/bianca-hallebach-klaus-hirsch/bianca-hallebach.jpg)
 
 ![](/img/bianca-hallebach-klaus-hirsch/klaus-hirsch.jpg)
+
+![](/img/bianca-hallebach-klaus-hirsch/1.jpg)
+
+![](/img/bianca-hallebach-klaus-hirsch/2.jpg)
+
+![](/img/bianca-hallebach-klaus-hirsch/3.jpg)
+
+![](/img/bianca-hallebach-klaus-hirsch/4.jpg)
+
+![](/img/bianca-hallebach-klaus-hirsch/5.jpg)
+
+![](/img/bianca-hallebach-klaus-hirsch/6.jpg)
+
+![](/img/bianca-hallebach-klaus-hirsch/7.jpg)
+
+![](/img/bianca-hallebach-klaus-hirsch/8.jpg)
