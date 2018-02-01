@@ -3,11 +3,14 @@
 }
 
 .member__link {
-    display: block;
+    all: inherit;
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
 
-    .member__title:after {
-        content: "\0020" "\00BB";
-    }
+.member__link:after {
+    content: "\A0" "\BB";
 }
 
 .member__thumbnail {
@@ -15,33 +18,18 @@
     height: 100px;
     background-color: $ui-color;
     float: left;
+    margin-right: $base-spacing-unit;
 }
 
 .member__title {
     @include font-size(20px);
-    display: inline-block;
     color: $foreground-color;
-
-    line-height: 100px;
     margin-bottom: 0;
-    margin-left: $base-spacing-unit;
 }
 
 .member__content {
-    display: none;
-    height: 0;
-    overflow: hidden;
     padding-top: $base-spacing-unit;
     @include vertical-gap;
-
-    :target > &,
-    &.visible {
-        display: block;
-    }
-
-    :target > & {
-        height: auto;
-    }
 
     > :last-child {
         margin-bottom: 0;

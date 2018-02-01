@@ -12,17 +12,19 @@ permalink: /mitglieder/
     {% endif %}
 
     <section class="member" id="{{ member.slug }}">
-        {% if has-content %}
-        <a href="#{{ member.slug }}" class="member__link">
-        {% endif %}
-            <img src="/img/{{ member.slug }}/{{ member.slug }}-thumbnail.jpg" alt="Thumbnail" class="member__thumbnail">
-            <h2 class="member__title">{{ member.name }}</h2>
-        {% if has-content %}
-        </a>
-        {% endif %}
+        <h2 class="member__title">
+            {% if has-content %}
+            <button type="button" class="member__link" aria-expanded="false">
+            {% endif %}
+                <img src="/img/{{ member.slug }}/{{ member.slug }}-thumbnail.jpg" alt="Thumbnail" class="member__thumbnail">
+                {{ member.name }}
+            {% if has-content %}
+            </button>
+            {% endif %}
+        </h2>
 
         {% if has-content %}
-        <div class="member__content">
+        <div class="member__content" hidden>
             {% if member.images %}
             <div class="member__images">
                 {{ member.images }}
