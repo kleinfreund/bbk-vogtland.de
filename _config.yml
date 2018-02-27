@@ -10,11 +10,9 @@ excerpt_separator: <!--more-->
 
 exclude:
   - 'node_modules'
-  - '*.sublime-workspace'
 
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
 
 kramdown:
   auto_ids: false
