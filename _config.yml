@@ -19,13 +19,6 @@ plugins:
 kramdown:
   auto_ids: false
 
-assets:
-  css: /css/
-  sass: /sass/
-  fonts: /fonts/
-  images: /img/
-  javascript: /js/
-
 loadCSS_js: true
 loadFontsAsync: true
 

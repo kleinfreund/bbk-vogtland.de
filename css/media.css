@@ -1,17 +1,16 @@
 .media {
-    display: block;
-    @extend %clearfix;
-    @extend %vertical-rhythm;
+    display: flow-root;
+    margin-bottom: 1.5rem;
 }
 
 .media__img {
     float: left;
-    margin-right: $base-spacing-unit;
+    margin-right: 0.75rem;
 }
 
 .media__img--rev {
     float: right;
-    margin-left: $base-spacing-unit;
+    margin-left: 0.75rem;
 }
 
 .media__img img,

@@ -4,83 +4,71 @@ layout: compress
 <!DOCTYPE html>
 <html lang="de" class="page">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>
-        {% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}
-    </title>
+  <title>
+    {% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}
+  </title>
 
-    {% if site.description %}
-        <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    {% endif %}
+  {% if site.description %}
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% endif %}
 
-    {% if site.loadFontsAsync %}
-    <script>
-        {% include opensans.min.js %}
-    </script>
-    {% else %}
-        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700">
-    {% endif %}
+  <link rel="stylesheet" href="/css/bbkv.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700">
 
-    {% if site.loadCSS_js %}
-    <script>
-        {% include loadcss.min.js %}
-        loadCSS("{{ site.assets.css }}{{ site.name }}.css")
-    </script>
-    <noscript>
-        <link rel="stylesheet" href="{{ site.assets.css }}{{ site.name }}.css">
-    </noscript>
-    {% else %}
-        <link rel="stylesheet" href="{{ site.assets.css }}{{ site.name }}.css">
-    {% endif %}
+  <link rel="icon" href="/img/icon.png">
 
-    <link rel="icon" href="{{ site.assets.images }}icon.png">
-    <link rel="apple-touch-icon-precomposed" href="{{ site.assets.images }}icon.png">
+  <!-- Clean local storage since we’re no longer using Open Sans from LocalStorage.  -->
+  <script>localStorage.removeItem("opensans")</script>
 </head>
 <body>
+
+  <div class="container">
     <header class="site-header">
-        <a href="/" class="site-logo">
-            <img src="/img/bbkv-logo.png" alt="BBKV Logo">
-        </a>
+      <a href="/" class="site-logo">
+        <img src="/img/bbkv-logo.png" alt="BBKV Logo">
+      </a>
 
-        <a href="#mn" class="mobile-nav-toggle">Menü</a>
+      <a href="#mn" class="mobile-nav-toggle">Menü</a>
 
-        <nav>
-            <ul class="nav  site-nav  site-nav--desk">
-                {% for link in site.links %}
-                <li>
-                    <a href="{{ link.url }}" class="site-nav__item{% if link.title == page.title %}  site-nav__item--current{% endif %}">{{ link.title }}</a>
-                </li>
-                {% endfor %}
-            </ul>
-        </nav>
+      <nav>
+        <ul class="nav  site-nav  site-nav--desk">
+          {% for link in site.links %}
+          <li>
+            <a href="{{ link.url }}" class="site-nav__item{% if link.title == page.title %}  site-nav__item--current{% endif %}">{{ link.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
 
-        <div class="bbk-member-note">
-            <div class="tooltip  tooltip--bbk" data-tooltip="Mitglied im Sächsischen Künstlerbund sowie im Bundesverband Bildender Künstlerinnen und Künstler">
-                <img src="/img/bbk.png" alt="BBK Mitglied">
-            </div>
+      <div class="bbk-member-note">
+        <div class="tooltip  tooltip--bbk" data-tooltip="Mitglied im Sächsischen Künstlerbund sowie im Bundesverband Bildender Künstlerinnen und Künstler">
+          <img src="/img/bbk.png" alt="BBK Mitglied">
         </div>
+      </div>
     </header>
 
     <main class="page-content">
-        <div class="wrapper">
-            {{ content }}
-        </div>
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </main>
+  </div>
 
-    <nav>
-        <ul class="nav  site-nav  site-nav--mobile" id="mn">
-            {% for link in site.links %}
-            <li>
-                <a href="{{ link.url }}" class="site-nav__item{% if link.title == page.title %}  site-nav__item--current{% endif %}">{{ link.title }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </nav>
+  <nav>
+    <ul class="nav  site-nav  site-nav--mobile" id="mn">
+      {% for link in site.links %}
+      <li>
+        <a href="{{ link.url }}" class="site-nav__item{% if link.title == page.title %}  site-nav__item--current{% endif %}">{{ link.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
 
-    {% if page.title == 'Mitglieder' %}
-    <script src="/js/bbkv.js"></script>
-    {% endif %}
+  {% if page.title == 'Mitglieder' %}
+  <script src="/js/bbkv.js"></script>
+  {% endif %}
 </body>
 </html>

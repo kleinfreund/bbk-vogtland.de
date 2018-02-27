@@ -1,0 +1,47 @@
+.member {
+    padding: 0.75rem;
+}
+
+.member__link {
+    all: inherit;
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.member__link::after {
+    content: "\A0" "\BB";
+}
+
+.member__thumbnail {
+    width: 100px;
+    height: 100px;
+    background-color: #af1d1f;
+    float: left;
+    margin-right: 1.5rem;
+}
+
+.member__title {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 0;
+}
+
+.member__content {
+    padding-top: 1.5rem;
+    margin-bottom: 3rem;;
+}
+
+.member__content > :last-child {
+    margin-bottom: 0;
+}
+
+.member__images {
+    margin-bottom: 1.5rem;
+    margin-left: -0.75rem;
+}
+
+.member__images img {
+    margin-bottom: 0.75rem;
+    margin-left: 0.75rem;
+}

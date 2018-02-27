@@ -1,0 +1,81 @@
+html {
+    font: 400 1em/1.5 "Open Sans", Helvetica, Arial, sans-serif;
+    color: #333;
+    background-color: #fefefe;
+    overflow-y: scroll;
+    min-height: 100%;
+}
+
+
+
+/**
+ * Headings
+ */
+dt,
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+
+
+
+/**
+ * Lists
+ */
+ul, ol, dd {
+    margin-left: 0.75rem;
+}
+
+@media only screen and (min-width:600px) {
+    ul, ol, dd {
+        margin-left: 1.5rem;
+    }
+}
+
+li > ul,
+li > ol {
+        margin-bottom: 0;
+}
+
+dd + dt {
+    margin-top: 0.75rem;
+}
+
+
+
+/**
+ * Rules
+ */
+hr {
+    border: 0;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-bottom: 1.5rem;
+}
+
+
+
+/**
+ * Inline elements
+ */
+strong {
+    font-weight: 700;
+}
+
+q {
+    font-style: italic;
+}
+
+
+
+/**
+ * Links
+ */
+a {
+    color: #333;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #af1d1f;
+}

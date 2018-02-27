@@ -2,18 +2,14 @@
 ---
 @charset "UTF-8";
 @import
-        "vars",
-        "defaults",
-        "mixins",
-        "normalize",
-        "base",
-        "typography",
-        "media",
-        "site-sidebar",
-        "site-logo",
-        "site-nav",
-        "page-content",
-        "pagination",
-        "tooltip",
-        "members"
+  "base.css",
+  "typography.css",
+  "media.css",
+  "site-sidebar.css",
+  "site-logo.css",
+  "site-nav.css",
+  "page-content.css",
+  "pagination.css",
+  "tooltip.css",
+  "members.css"
 ;

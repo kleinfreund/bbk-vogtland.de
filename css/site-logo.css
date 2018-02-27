@@ -1,0 +1,18 @@
+.site-logo {
+    display: table;
+    margin-top: 3rem;
+    margin-left: 1.5rem;
+}
+
+@media only screen and (min-width:600px) {
+    .site-logo {
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media only screen and (min-width:1200px) {
+    .site-logo {
+        margin-right: 0.5rem;
+    }
+}
