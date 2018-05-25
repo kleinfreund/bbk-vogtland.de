@@ -11,3 +11,7 @@ Das macht heute eigentlich keiner mehr. Bilder nach der Natur. Bernd Hieke erleb
 ![Bernd Hieke: Vogel](/img/bernd-hieke-vogelbildgeschichten/bernd-hieke-1.jpg)
 
 ![Bernd Hieke: Eule](/img/bernd-hieke-vogelbildgeschichten/bernd-hieke-3.jpg)
+
+![Ausstellungseröffnung: Gruppenbild](/img/bernd-hieke-vogelbildgeschichten/ausstellung-hieke-1.jpg)
+
+![Ausstellungseröffnung: Bernd Hieke](/img/bernd-hieke-vogelbildgeschichten/ausstellung-hieke-2.jpg)
