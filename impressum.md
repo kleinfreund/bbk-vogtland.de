@@ -24,4 +24,6 @@ Bärenstraße 4<br>
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV:<br>
 Andreas Rudloff
 
-__Haftungshinweis:__ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+## Datenschutzerklärung
+
+Diese Website erhebt keine gesonderten Daten von ihren Benutzern. Es ist keine Analyse-Software wie Google Analytics im Einsatz. Die Zugriffe von Benutzern werden nicht serverseitig gespeichert (keine Server Access Logs werden angelegt).
