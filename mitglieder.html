@@ -16,7 +16,11 @@ permalink: /mitglieder/
             {% if has-content %}
             <button type="button" class="member__link" aria-expanded="false">
             {% endif %}
-                <img src="/img/{{ member.slug }}/{{ member.slug }}-thumbnail.jpg" alt="Thumbnail" class="member__thumbnail">
+                {% if member.thumbnail %}
+                    <img src="/img/{{ member.slug }}/{{ member.slug }}-thumbnail.jpg" alt="{{ member.name }} Thumbnail" class="member__thumbnail">
+                {% else %}
+                    <span class="member__no-thumbnail" aria-hidden="true"></span>
+                {% endif %}
                 {{ member.name }}
             {% if has-content %}
             </button>

@@ -1,4 +1,5 @@
 - name: 'Reiner Bittner'
+  thumbnail: true
   slug: 'reiner-bittner'
   images: '<img src="/img/reiner-bittner/reiner-bittner-1.jpg" alt="Reiner Bittner 1"><img src="/img/reiner-bittner/reiner-bittner-2.jpg" alt="Reiner Bittner 2"><img src="/img/reiner-bittner/reiner-bittner-3.jpg" alt="Reiner Bittner 3"><img src="/img/reiner-bittner/reiner-bittner-4.jpg" alt="Reiner Bittner 4">'
   vita:
@@ -15,7 +16,6 @@
   - line: '1995 Geburt von Tochter Josefine'
   - line: '2000 Geburt von Sohn Josua'
   - line: 'seit 2014 Mitglied im Bund Bildender Künstler Vogtland e.V.'
-
   address:
   - line: 'Reiner Bittner'
   - line: 'Gasse 2'
@@ -26,7 +26,19 @@
 
 
 
+- name: 'Nicolas Felly'
+  thumbnail: false
+  slug: 'nicolas-felly'
+  images:
+  vita:
+  address:
+  contact:
+  - line: '<a href="http://fellyatelier.de">fellyatelier.de</a>'
+
+
+
 - name: 'Michael Franke'
+  thumbnail: true
   slug: 'michael-franke'
   vita:
   - line: '1950 In Zwickau-Planitz geboren'
@@ -51,6 +63,7 @@
 
 
 - name: 'Bianca Hallebach'
+  thumbnail: true
   slug: 'bianca-hallebach'
   images: '<img src="/img/bianca-hallebach/bianca-hallebach.jpg" alt="Bianca Hallebach"><img src="/img/bianca-hallebach/bianca-geheimnistraeger.jpg" alt="Bianca Hallebach: Geheimnisträger"><img src="/img/bianca-hallebach/bianca-schwebendes-collier.jpg" alt="Bianca Hallebach: Schwebendes Collier">'
   vita:
@@ -86,7 +99,54 @@
 
 
 
+- name: 'Mathias Heck'
+  thumbnail: true
+  slug: 'mathias-heck'
+  images: '<img src="/img/mathias-heck/mathias-heck-portrait.jpg" alt="Mathias Heck 1"><img src="/img/mathias-heck/mathias-heck-schale.jpg" alt="Mathias Heck 2"><img src="/img/mathias-heck/mathias-heck-vasa-sacra.jpg" alt="Mathias Heck 3">'
+  vita:
+  - line: 'am 1967 in Plauen geboren'
+  - line: 'Lehre zum Silberschmied in 5. Familiengeneration in Plauen und in Arnstadt (Thüringen)'
+  - line: 'Gesellenzeit bei Paul van Ooyen (Kevelaer, Niederrhein)'
+  - line: 'zweijährige Fachschule „Schmuck und Gerät“ in Pforzheim'
+  - line: 'Abschluss als staatlich geprüfter Gestalter und Silberschmiedemeister'
+  - line: 'seit 1994 selbständig und freiberuflich tätig in eigenem Werkatelier in Plauen,'
+  - line: 'seit 1997 im Wasserschloss Klaffenbach (Chemnitz)'
+  address:
+  - line: 'Mathias Heck'
+  - line: 'Wasserschlossweg 6'
+  - line: '09123 Chemnitz'
+  - line: 'Telefon: 0371 2605949'
+  contact:
+  - line: '<a href="mailto:info@silberschmiede.com">info@silberschmiede.com</a>'
+  - line: '<a href="http://silberschmiede.com/">silberschmiede.com</a>'
+
+
+
+- name: 'Frithjof Herrmann'
+  thumbnail: true
+  slug: 'frithjof-herrmann'
+  images: '<img src="/img/frithjof-herrmann/frithjof-herrmann-1-weg-nach-oben-praegedruck.jpg" alt="Frithjof Herrmann: Weg nach oben – Prägedruck"><img src="/img/frithjof-herrmann/frithjof-herrmann-2.jpg" alt="Frithjof Herrmann"><img src="/img/frithjof-herrmann/frithjof-herrmann-3-gegensaetze-praegedruck.jpg" alt="Frithjof Herrmann: Gegensätze – Prägedruck">'
+  vita:
+    - line: 'Lehrerstudium an der Technischen Hochschule Karl­-Marx­-Stadt.'
+    - line: 'Abendstudium an der Hochschule für Bildende Künste Dresden.'
+    - line: 'Mitbegründer und dreizehn Jahre Leiter der „Kleinen Galerie – Meerane“.'
+    - line: 'Tätigkeit als Lehrer und ab 1990 Kunsterzieher (mit Grund­- und Leistungskursen) am Georgius­-Agricola-­Gymnasium in Glauchau.'
+    - line: '1996 Aufnahme in den Bundesverband Bildender Künstler.'
+    - line: 'Seit 2000 freiberuflich in eigener Werkstatt in Niederwiera tätig (Malerei)'
+    - line: 'Grafik und keramische Kleinplastik – Dozent Volkshochschule Chemnitz.'
+  address:
+  - line: 'Frithjof Herrmann'
+  - line: 'Siedlerweg 46'
+  - line: '08371 Glauchau'
+  - line: 'Telefon: 0170 8893923'
+  contact:
+  - line: '<a href="mailto:Frithjof.Herrmann@t-online.de">Frithjof.Herrmann@t-online.de</a>'
+  - line: '<a href="http://frithjofherrmann.de">frithjofherrmann.de</a>'
+
+
+
 - name: 'Friedrich Höfer'
+  thumbnail: true
   slug: 'friedrich-hoefer'
   address:
   - line: 'Friedrich Höfer'
@@ -99,7 +159,43 @@
 
 
 
+- name: 'Stefanie Kölbel'
+  thumbnail: false
+  slug: 'stefanie-koelbel'
+  images:
+  vita:
+  address:
+  contact:
+  - line: '<a href="http://spitzenstuecke.de">spitzenstuecke.de</a>'
+
+
+
+- name: 'Ralph Kunzmann'
+  thumbnail: true
+  slug: 'ralph-kunzmann'
+  images: '<img src="/img/ralph-kunzmann/akt-1.jpg" alt="Ralph Kunzmann: Akt 1"><img src="/img/ralph-kunzmann/akt-2.jpg" alt="Ralph Kunzmann: Akt 2"><img src="/img/ralph-kunzmann/malerei.jpg" alt="Ralph Kunzmann: Malerei">'
+  vita:
+    - line: 'geboren 1963 in Schmölln bei Altenburg'
+    - line: 'aufgewachsen in Plauen im Vogtland'
+    - line: '1981 Abschluss einer Ausbildung zum Elektriker'
+    - line: '1982 Abitur'
+    - line: 'Studium an der Universität Leipzig am Fachbereich Kunstpädagogik: künstlerische Praxis bei Renate Herfurth und Hans Rossmanit'
+    - line: '1990 Abschluss als Diplomlehrer für Kunsterziehung und Deutsch'
+    - line: 'seit 1990 im Schuldienst an Plauener Schulen tätig'
+    - line: 'bereits vor und während des Studiums intensive Beschäftigung mit Druckgrafik und Fotografie'
+  address:
+  - line: 'Ralph Kunzmann'
+  - line: 'Am Zanglerhübel 11'
+  - line: '08527 Plauen'
+  - line: 'Telefon: 03741 133376'
+  contact:
+  - line: '<a href="mailto:r.k@ralle-art.de">r.k@ralle-art.de</a>'
+  - line: '<a href="http://ralph-kunzmann.model-kartei.de">ralph-kunzmann.model-kartei.de</a>'
+
+
+
 - name: 'Andreas Leonhardt'
+  thumbnail: true
   slug: 'andreas-leonhardt'
   vita:
   - line: '1959 in Plauen geboren'
@@ -125,6 +221,7 @@
 
 
 - name: 'Michaela List'
+  thumbnail: true
   slug: 'michaela-list'
   images: '<img src="/img/michaela-list/von-hier-aus-wohin-i.jpg" alt="Michaela List: Von hier aus wohin I"><img src="/img/michaela-list/von-hier-aus-wohin-ii.jpg" alt="Michaela List: Von hier aus wohin II"><img src="/img/michaela-list/flucht-eines-propheten-bergbauhalde.jpg" alt="Michaela List: Flucht eines Propheten Bergbauhalde">'
   vita:
@@ -142,7 +239,28 @@
 
 
 
+- name: 'Peter Luban'
+  thumbnail: true
+  slug: 'peter-luban'
+  images:
+  vita:
+  - line: 'geb. am 15. August 1952 in Plauen'
+  - line: '1976–1979: Abendstudium an der Hochschule für Bildende Künste Dresden'
+  - line: '1981–1986: Studium an der Kunsthochschule Halle, Burg Giebichenstein'
+  - line: 'seit 1986: freischaffender Künstler, Mitglied im Sächsischen Künstlerbund'
+  address:
+  - line: 'Peter Luban'
+  - line: 'Hauptstraße 3'
+  - line: '08527 Rößnitz'
+  - line: 'Telefon: 037431 3489'
+  contact:
+  - line: '<a href="mailto:peter.luban@web.de">peter.luban@web.de</a>'
+  - line: '<a href="http://peter-luban.de">peter-luban.de</a>'
+
+
+
 - name: 'Karsten Mittag'
+  thumbnail: true
   slug: 'karsten-mittag'
   images:
   vita:
@@ -163,26 +281,8 @@
 
 
 
-- name: 'Peter Luban'
-  slug: 'peter-luban'
-  images:
-  vita:
-  - line: 'geb. am 15. August 1952 in Plauen'
-  - line: '1976–1979: Abendstudium an der Hochschule für Bildende Künste Dresden'
-  - line: '1981–1986: Studium an der Kunsthochschule Halle, Burg Giebichenstein'
-  - line: 'seit 1986: freischaffender Künstler, Mitglied im Sächsischen Künstlerbund'
-  address:
-  - line: 'Peter Luban'
-  - line: 'Hauptstraße 3'
-  - line: '08527 Rößnitz'
-  - line: 'Telefon: 037431 3489'
-  contact:
-  - line: '<a href="mailto:peter.luban@web.de">peter.luban@web.de</a>'
-  - line: '<a href="http://peter-luban.de">peter-luban.de</a>'
-
-
-
 - name: 'Christhard Richter'
+  thumbnail: true
   slug: 'christhard-richter'
   images: '<img src="/img/christhard-richter/christhard-richter.jpg" alt="Christhard Richter"><img src="/img/christhard-richter/christhard-wuerfelschale.jpg" alt="Christhard Richter: Würfelschale"><img src="/img/christhard-richter/christhard-balance.jpg" alt="Christhard Richter: Skulptur Balance"><img src="/img/christhard-richter/christhard-unbekannt.jpg" alt="Christhard Richter: Skulptur">'
   vita:
@@ -213,6 +313,7 @@
 
 
 - name: 'Andreas Rudloff'
+  thumbnail: true
   slug: 'andreas-rudloff'
   images: '<img src="/img/andreas-rudloff/andreas-rudloff.jpg" alt="Andreas Rudloff"><img src="/img/andreas-rudloff/andreas-tagtraum-eines-bockes.jpg" alt="Andreas Rudloff: Tagtraum eines Bockes"><img src="/img/andreas-rudloff/andreas-vor-dem-grossen-fressen-2.jpg" alt="Andreas Rudloff: Vor dem großen Fressen 2">'
   vita:
@@ -237,6 +338,7 @@
 
 
 - name: 'Anke Rudloff'
+  thumbnail: true
   slug: 'anke-rudloff'
   images: '<img src="/img/anke-rudloff/anke-rudloff.jpg" alt="Anke Rudloff"><img src="/img/anke-rudloff/anke-korsika-2.jpg" alt="Anke Rudloff: Korsika 2"><img src="/img/anke-rudloff/anke-taufglocke.jpg" alt="Anke Rudloff: Taufglocke">'
   vita:
@@ -249,7 +351,6 @@
   - line: 'Künstlerin und Lehrtätigkeit am Beruflichen Schulzentrum e.o.plauen'
   - line: 'Mitglied Bund Bildender Künstler Vogtland e.V.'
   - line: 'Mitglied Bundesverband Bildender Künstlerinnen und Künstler'
-
   address:
   - line: 'Anke Rudloff'
   - line: 'Markt 32'
@@ -262,6 +363,7 @@
 
 
 - name: 'Christina Röckl'
+  thumbnail: true
   slug: 'christina-roeckl'
   images: '<img src="/img/christina-roeckl/christina-roeckl-1.jpg" alt="Christina Röckl 1"><img src="/img/christina-roeckl/christina-roeckl-2.jpg" alt="Christina Röckl 2"><img src="/img/christina-roeckl/christina-roeckl-3.jpg" alt="Christina Röckl 3"><img src="/img/christina-roeckl/christina-roeckl-4.jpg" alt="Christina Röckl 4">'
 #  vita:
@@ -275,7 +377,19 @@
 
 
 
+- name: 'Karen Schramke'
+  thumbnail: false
+  slug: 'karen-schramke'
+  images:
+  vita:
+  address:
+  contact:
+  - line: '<a href="http://schramke-design.de">schramke-design.de</a>'
+
+
+
 - name: 'Elke Wolf'
+  thumbnail: true
   slug: 'elke-wolf'
   images: '<img src="/img/elke-wolf/elke-wolf-1.jpg" alt="Elke Wolf 1"><img src="/img/elke-wolf/elke-wolf-2.jpg" alt="Elke Wolf 2"><img src="/img/elke-wolf/elke-wolf-3.jpg" alt="Elke Wolf 3"><img src="/img/elke-wolf/elke-wolf-4.jpg" alt="Elke Wolf 4">'
   vita:
@@ -291,6 +405,7 @@
 
 
 - name: 'Frank H. Zaumzeil'
+  thumbnail: true
   slug: 'frank-zaumzeil'
   images: '<img src="/img/frank-zaumzeil/frank-zaumzeil-1.jpg" alt="Frank H. Zaumseil 1"><img src="/img/frank-zaumzeil/frank-zaumzeil-2.jpg" alt="Frank H. Zaumseil 2"><img src="/img/frank-zaumzeil/frank-zaumzeil-3.jpg" alt="Frank H. Zaumseil 3"><img src="/img/frank-zaumzeil/frank-zaumzeil-4.jpg" alt="Frank H. Zaumseil 4">'
   vita:
@@ -311,48 +426,3 @@
   contact:
   - line: '<a href="mailto:mail@frank-h-zaumzeil.de">mail@frank-h-zaumzeil.de</a>'
   - line: '<a href="http://frank-h-zaumzeil.de">frank-h-zaumzeil.de</a>'
-
-
-
-- name: 'Frithjof Herrmann'
-  slug: 'frithjof-herrmann'
-  images: '<img src="/img/frithjof-herrmann/frithjof-herrmann-1-weg-nach-oben-praegedruck.jpg" alt="Frithjof Herrmann: Weg nach oben – Prägedruck"><img src="/img/frithjof-herrmann/frithjof-herrmann-2.jpg" alt="Frithjof Herrmann"><img src="/img/frithjof-herrmann/frithjof-herrmann-3-gegensaetze-praegedruck.jpg" alt="Frithjof Herrmann: Gegensätze – Prägedruck">'
-  vita:
-    - line: 'Lehrerstudium an der Technischen Hochschule Karl­-Marx­-Stadt.'
-    - line: 'Abendstudium an der Hochschule für Bildende Künste Dresden.'
-    - line: 'Mitbegründer und dreizehn Jahre Leiter der „Kleinen Galerie – Meerane“.'
-    - line: 'Tätigkeit als Lehrer und ab 1990 Kunsterzieher (mit Grund­- und Leistungskursen) am Georgius­-Agricola-­Gymnasium in Glauchau.'
-    - line: '1996 Aufnahme in den Bundesverband Bildender Künstler.'
-    - line: 'Seit 2000 freiberuflich in eigener Werkstatt in Niederwiera tätig (Malerei)'
-    - line: 'Grafik und keramische Kleinplastik – Dozent Volkshochschule Chemnitz.'
-  address:
-  - line: 'Frithjof Herrmann'
-  - line: 'Siedlerweg 46'
-  - line: '08371 Glauchau'
-  - line: 'Telefon: 0170 8893923'
-  contact:
-  - line: '<a href="mailto:Frithjof.Herrmann@t-online.de">Frithjof.Herrmann@t-online.de</a>'
-  - line: '<a href="http://frithjofherrmann.de">frithjofherrmann.de</a>'
-
-
-
-- name: 'Ralph Kunzmann'
-  slug: 'ralph-kunzmann'
-  images: '<img src="/img/ralph-kunzmann/akt-1.jpg" alt="Ralph Kunzmann: Akt 1"><img src="/img/ralph-kunzmann/akt-2.jpg" alt="Ralph Kunzmann: Akt 2"><img src="/img/ralph-kunzmann/malerei.jpg" alt="Ralph Kunzmann: Malerei">'
-  vita:
-    - line: 'geboren 1963 in Schmölln bei Altenburg'
-    - line: 'aufgewachsen in Plauen im Vogtland'
-    - line: '1981 Abschluss einer Ausbildung zum Elektriker'
-    - line: '1982 Abitur'
-    - line: 'Studium an der Universität Leipzig am Fachbereich Kunstpädagogik: künstlerische Praxis bei Renate Herfurth und Hans Rossmanit'
-    - line: '1990 Abschluss als Diplomlehrer für Kunsterziehung und Deutsch'
-    - line: 'seit 1990 im Schuldienst an Plauener Schulen tätig'
-    - line: 'bereits vor und während des Studiums intensive Beschäftigung mit Druckgrafik und Fotografie'
-  address:
-  - line: 'Ralph Kunzmann'
-  - line: 'Am Zanglerhübel 11'
-  - line: '08527 Plauen'
-  - line: 'Telefon: 03741 133376'
-  contact:
-  - line: '<a href="mailto:r.k@ralle-art.de">r.k@ralle-art.de</a>'
-  - line: '<a href="http://ralph-kunzmann.model-kartei.de">ralph-kunzmann.model-kartei.de</a>'

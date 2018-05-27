@@ -13,6 +13,7 @@
     content: "\A0" "\BB";
 }
 
+.member__no-thumbnail,
 .member__thumbnail {
     width: 100px;
     height: 100px;
