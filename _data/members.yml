@@ -407,7 +407,7 @@
 - name: 'Frank H. Zaumzeil'
   thumbnail: true
   slug: 'frank-zaumzeil'
-  images: '<img src="/img/frank-zaumzeil/frank-zaumzeil-1.jpg" alt="Frank H. Zaumseil 1"><img src="/img/frank-zaumzeil/frank-zaumzeil-2.jpg" alt="Frank H. Zaumseil 2"><img src="/img/frank-zaumzeil/frank-zaumzeil-3.jpg" alt="Frank H. Zaumseil 3"><img src="/img/frank-zaumzeil/frank-zaumzeil-4.jpg" alt="Frank H. Zaumseil 4">'
+  images: '<img src="/img/frank-zaumzeil/frank-zaumzeil-portrait.jpg" alt="Frank H. Zaumseil Portrait"><img src="/img/frank-zaumzeil/frank-zaumzeil-2.jpg" alt="Frank H. Zaumseil 2"><img src="/img/frank-zaumzeil/frank-zaumzeil-3.jpg" alt="Frank H. Zaumseil 3"><img src="/img/frank-zaumzeil/frank-zaumzeil-4.jpg" alt="Frank H. Zaumseil 4">'
   vita:
   - line: '1941 in Rotschau bei Reichenbach Vogtl. geboren'
   - line: 'Berufsabschluss als Musterzeichner'
