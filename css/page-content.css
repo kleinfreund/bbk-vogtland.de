@@ -1,21 +1,21 @@
 .container {
-    display: flex;
+  display: flex;
 }
 
 .page-content {
-    flex: 1;
-    margin-top: 6rem;
-    margin-bottom: 6rem;
+  flex: 1;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
 }
 
 .post {
-    margin-bottom: 6rem;
+  margin-bottom: 6rem;
 }
 
 .post img {
-    box-shadow: 3px 3px 3px rgba(0,0,0,0.4);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.4);
 }
 
 .post__title > a {
-    text-decoration: none;
+  text-decoration: none;
 }

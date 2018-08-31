@@ -1,0 +1,76 @@
+---
+title: Mitglieder
+js:
+- members.js
+---
+<article class="post members">
+  <h1>Mitglieder</h1>
+
+  {% for member in members %}
+
+    {% if member.images or member.vita or member.address or member.contact %}
+      {% assign has-content = true %}
+    {% endif %}
+
+    <section class="member" id="{{ member.slug }}">
+      <h2 class="member__title">
+        {% if has-content %}
+          <button type="button" class="member__link" aria-expanded="false">
+        {% endif %}
+
+        {% if member.thumbnail %}
+          <img src="/img/{{ member.slug }}/{{ member.slug }}-thumbnail.jpg" alt="{{ member.name }} Thumbnail" class="member__thumbnail">
+        {% else %}
+          <span class="member__no-thumbnail" aria-hidden="true"></span>
+        {% endif %}
+
+        {{ member.name }}
+
+        {% if has-content %}
+          </button>
+        {% endif %}
+      </h2>
+
+      {% if has-content %}
+        <div class="member__content" hidden>
+          {% if member.images %}
+            <div class="member__images">
+              {% for image in member.images %}
+                {{ image }}
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if member.vita %}
+            <ul>
+              {% for vita in member.vita %}
+                <li>{{ vita }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+
+          {% if member.address %}
+            <p>
+              {% for address in member.address %}
+                {{ address }}
+                {% unless forloop.last %}<br>{% endunless %}
+              {% endfor %}
+            </p>
+          {% endif %}
+
+          {% if member.contact %}
+            <p>
+              {% for contact in member.contact %}
+                {{ contact }}
+                {% unless forloop.last %}<br>{% endunless %}
+              {% endfor %}
+            </p>
+          {% endif %}
+        </div>
+      {% endif %}
+    </section>
+
+    {% assign has-content = false %}
+
+  {% endfor %}
+</article>

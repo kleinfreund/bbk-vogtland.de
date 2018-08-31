@@ -1,9 +1,9 @@
 html {
-    font: 400 1em/1.5 "Open Sans", Helvetica, Arial, sans-serif;
-    color: #333;
-    background-color: #fefefe;
-    overflow-y: scroll;
-    min-height: 100%;
+  font: 400 1em/1.5 "Open Sans", Helvetica, Arial, sans-serif;
+  color: #333;
+  background-color: #fefefe;
+  overflow-y: scroll;
+  min-height: 100%;
 }
 
 
@@ -13,7 +13,7 @@ html {
  */
 dt,
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 
@@ -22,22 +22,22 @@ h1, h2, h3, h4, h5, h6 {
  * Lists
  */
 ul, ol, dd {
-    margin-left: 0.75rem;
+  margin-left: 0.75rem;
 }
 
 @media only screen and (min-width:600px) {
-    ul, ol, dd {
-        margin-left: 1.5rem;
-    }
+  ul, ol, dd {
+    margin-left: 1.5rem;
+  }
 }
 
 li > ul,
 li > ol {
-        margin-bottom: 0;
+    margin-bottom: 0;
 }
 
 dd + dt {
-    margin-top: 0.75rem;
+  margin-top: 0.75rem;
 }
 
 
@@ -46,10 +46,10 @@ dd + dt {
  * Rules
  */
 hr {
-    border: 0;
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
-    margin-bottom: 1.5rem;
+  border: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  margin-bottom: 1.5rem;
 }
 
 
@@ -58,11 +58,11 @@ hr {
  * Inline elements
  */
 strong {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 q {
-    font-style: italic;
+  font-style: italic;
 }
 
 
@@ -71,11 +71,11 @@ q {
  * Links
  */
 a {
-    color: #333;
+  color: #333;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: #af1d1f;
+  color: #af1d1f;
 }

@@ -1,11 +1,11 @@
 .pagination {
-    margin-bottom: 0;
-    margin-left: 0;
-    list-style: none;
-    text-align: center;
+  margin-bottom: 0;
+  margin-left: 0;
+  list-style: none;
+  text-align: center;
 }
 
 .pagination > li {
-    padding: 0.75rem;
-    display: inline-block;
+  padding: 0.75rem;
+  display: inline-block;
 }

@@ -1,0 +1,563 @@
+[
+  {
+    "name": "Reiner Bittner",
+    "thumbnail": true,
+    "slug": "reiner-bittner",
+    "images": [
+      "<img src='/img/reiner-bittner/reiner-bittner-1.jpg' alt='Reiner Bittner 1'>",
+      "<img src='/img/reiner-bittner/reiner-bittner-2.jpg' alt='Reiner Bittner 2'>",
+      "<img src='/img/reiner-bittner/reiner-bittner-3.jpg' alt='Reiner Bittner 3'>",
+      "<img src='/img/reiner-bittner/reiner-bittner-4.jpg' alt='Reiner Bittner 4'>"
+    ],
+    "vita": [
+      "31.12.1955 In Burgstädt geboren",
+      "aufgewachsen in Waldenburg/Sachsen",
+      "Lehre als Maler",
+      "1980 Abitur",
+      "1984–1989 Studium an der HS für Kunst & Design „Burg Giebichenstein“ Halle",
+      "Seit 1984 verheiratet mit der Dipl. Keramikerin Sybille Bittner",
+      "1986 Geburt von Tochter Sascha Eliesabeth",
+      "seit 1989 freischaffend, Mitglied im Verband Bildender Künstler",
+      "Umzug in gemeinsames Atelier und Keramikwerkstatt in Pfaffengrün/Vogtland",
+      "seit 1995 Lehrtätigkeit am Beruflichen Schulzentrum e.o.plauen",
+      "1995 Geburt von Tochter Josefine",
+      "2000 Geburt von Sohn Josua",
+      "seit 2014 Mitglied im Bund Bildender Künstler Vogtland e.V."
+    ],
+    "address": [
+      "Reiner Bittner",
+      "Gasse 2",
+      "08233 Pfaffengrün"
+    ],
+    "contact": [
+      "Telefon: 037468 7428",
+      "E-Mail: <a href='mailto:bittners-art@gmx.de'>bittners-art@gmx.de</a>"
+    ]
+  },
+  {
+    "name": "Nicolas Felly",
+    "thumbnail": false,
+    "slug": "nicolas-felly",
+    "images": null,
+    "vita": null,
+    "address": null,
+    "contact": [
+      "Website: <a href='http://fellyatelier.de'>fellyatelier.de</a>"
+    ]
+  },
+  {
+    "name": "Michael Franke",
+    "thumbnail": true,
+    "slug": "michael-franke",
+    "vita": [
+      "1950 In Zwickau-Planitz geboren",
+      "1966–1969 Lehre als Goldschmied",
+      "1971–1974 Studium an der Fachhochschule für Angewandte Kunst, Heiligendamm<br>Abschluss als Diplomdesigner (FH)",
+      "seit 1978 Mitglied im Verband Bildender Künstler der DDR (VBK)<br>Freischaffen in eigener Werkstatt",
+      "1990 Umzug nach Schönberg/Vogtland",
+      "1990–1994 Bürgermeister der Gemeinde Schönberg am Kapellenberg",
+      "seit 1990 Mitglied im Bundesverband Bildender Künstler Deutschlands (BBK)<br>Mitglied im Sächsischen Künstlerbund<br>Mitglied im Chemnitzer Künstlerbund",
+      "seit 1995 Lehrtätigkeit am Beruflichen Schulzentrum e.o.plauen,<br>Gestaltungslehre und Naturstudium",
+      "1999–2004 Ortsvorsteher von Schönberg am Kapellenberg",
+      "seit 2005 Mitglied im Kunstverein Plauen-Vogtland e.V."
+    ],
+    "address": [
+      "Michael Franke",
+      "Säuerlingsweg 8",
+      "08648 Schönberg"
+    ],
+    "contact": [
+      "Telefon: 037438 20713",
+      "E-Mail: <a href='mailto:mf@michael-franke-design.de'>mf@michael-franke-design.de</a>",
+      "Website: <a href='http://michael-franke-design.de'>michael-franke-design.de</a>"
+    ]
+  },
+  {
+    "name": "Bianca Hallebach",
+    "thumbnail": true,
+    "slug": "bianca-hallebach",
+    "images": [
+      "<img src='/img/bianca-hallebach/bianca-hallebach.jpg' alt='Bianca Hallebach'>",
+      "<img src='/img/bianca-hallebach/bianca-geheimnistraeger.jpg' alt='Bianca Hallebach: Geheimnisträger'>",
+      "<img src='/img/bianca-hallebach/bianca-schwebendes-collier.jpg' alt='Bianca Hallebach: Schwebendes Collier'>"
+    ],
+    "vita": [
+      "03.07.1969 in Plauen/Vogtland geboren, lebt seit 1998 wieder in Plauen",
+      "1986–89 Goldschmiedelehre in Crimmitschau",
+      "1989–91 'Wanderjahre' in Mülsen St. Jacob, Hof und Freiberg/Sachsen bei IOB Meier & Gerlach",
+      "ab 1991 eigene Werkstatt in Adorf/Vogtland",
+      "1992 Meisterabschluss in Dresden",
+      "ab 1994 Messetätigkeit in Frankfurt (Ambiente, Tendence), München, Zürich, Luzern, Erkrath, Chemnitz, Plauen",
+      "1997 Workshop bei Bernhard Schobinger, Schweiz",
+      "Ausstellungsbeteiligung in Galerien in Rostock, Warnemünde, Magdeburg, Neustrelitz, Chemnitz, Plauen (Malzhaus)",
+      "Einzelausstellung: Fachhochschule für Musikinstrumentenbau Markneukirchen",
+      "1999 Aufnahme in den Verband Sächsischer Kunsthandwerker",
+      "1999–2000 Ausbildung zum Gestalter im Handwerk an der Akademie für Gestaltung und Denkmalpflege Ebern/Bamberg",
+      "Diplomarbeit erhielt den Meisterpreis der Bayrischen Staatsregierung 2000",
+      "04/2000 Aufnahme in den Künstlerkatalog 'Zeitgenössische Kunst aus dem Vogtland'",
+      "08/01 Heirat mit Sven Krauße",
+      "Entwurf, Modellbau und Werbegestaltung der Schmuckkollektion 'Sense Line' für die Oberlausitzer Schmuckmanufaktur Schneider, Präsentation auf der Midora Leipzig 09.01",
+      "2001 Mitglied Künstlerinnengruppe 'ART a' Chemnitz",
+      "14.11.01 Einladung zum Kunstgespräch in der Galerie des Malzhauses Plauen mit Kunsthistorikerin Ulrike Meier/Weimar",
+      "08.02.02 Geburt Töchterchen Luzia Lora",
+      "September 2003 Umzug in neue Räume in Plauen",
+      "derzeitige Tätigkeit: Goldschmiedemeisterin und Schmuckgestalterin"
+    ],
+    "address": [
+      "Bianca Hallebach-Krauße",
+      "Altmarkt 7",
+      "08523 Plauen"
+    ],
+    "contact": [
+      "Telefon: 03741 147070",
+      "Telefax: 03741 147071",
+      "E-Mail: <a href='mailto:info@goldschmiede-hallebach.de'>info@goldschmiede-hallebach.de</a>",
+      "Website: <a href='http://www.goldschmiede-hallebach.de'>www.goldschmiede-hallebach.de</a>"
+    ]
+  },
+  {
+    "name": "Mathias Heck",
+    "thumbnail": true,
+    "slug": "mathias-heck",
+    "images": [
+      "<img src='/img/mathias-heck/mathias-heck-portrait.jpg' alt='Mathias Heck 1'>",
+      "<img src='/img/mathias-heck/mathias-heck-schale.jpg' alt='Mathias Heck 2'>",
+      "<img src='/img/mathias-heck/mathias-heck-vasa-sacra.jpg' alt='Mathias Heck 3'>"
+    ],
+    "vita": [
+      "am 1967 in Plauen geboren",
+      "Lehre zum Silberschmied in 5. Familiengeneration in Plauen und in Arnstadt (Thüringen)",
+      "Gesellenzeit bei Paul van Ooyen (Kevelaer, Niederrhein)",
+      "zweijährige Fachschule „Schmuck und Gerät“ in Pforzheim",
+      "Abschluss als staatlich geprüfter Gestalter und Silberschmiedemeister",
+      "seit 1994 selbständig und freiberuflich tätig in eigenem Werkatelier in Plauen,",
+      "seit 1997 im Wasserschloss Klaffenbach (Chemnitz)"
+    ],
+    "address": [
+      "Mathias Heck",
+      "Wasserschlossweg 6",
+      "09123 Chemnitz"
+    ],
+    "contact": [
+      "Telefon: 0371 2605949",
+      "E-Mail: <a href='mailto:info@silberschmiede.com'>info@silberschmiede.com</a>",
+      "Website: <a href='http://silberschmiede.com/'>silberschmiede.com</a>"
+    ]
+  },
+  {
+    "name": "Frithjof Herrmann",
+    "thumbnail": true,
+    "slug": "frithjof-herrmann",
+    "images": [
+      "<img src='/img/frithjof-herrmann/frithjof-herrmann-1-weg-nach-oben-praegedruck.jpg' alt='Frithjof Herrmann: Weg nach oben – Prägedruck'>",
+      "<img src='/img/frithjof-herrmann/frithjof-herrmann-2.jpg' alt='Frithjof Herrmann'>",
+      "<img src='/img/frithjof-herrmann/frithjof-herrmann-3-gegensaetze-praegedruck.jpg' alt='Frithjof Herrmann: Gegensätze – Prägedruck'>"
+    ],
+    "vita": [
+      "Lehrerstudium an der Technischen Hochschule Karl­-Marx­-Stadt.",
+      "Abendstudium an der Hochschule für Bildende Künste Dresden.",
+      "Mitbegründer und dreizehn Jahre Leiter der „Kleinen Galerie – Meerane“.",
+      "Tätigkeit als Lehrer und ab 1990 Kunsterzieher (mit Grund­- und Leistungskursen) am Georgius­-Agricola-­Gymnasium in Glauchau.",
+      "1996 Aufnahme in den Bundesverband Bildender Künstler.",
+      "Seit 2000 freiberuflich in eigener Werkstatt in Niederwiera tätig (Malerei)",
+      "Grafik und keramische Kleinplastik – Dozent Volkshochschule Chemnitz."
+    ],
+    "address": [
+      "Frithjof Herrmann",
+      "Siedlerweg 46",
+      "08371 Glauchau"
+    ],
+    "contact": [
+      "Telefon: 0170 8893923",
+      "E-Mail: <a href='mailto:Frithjof.Herrmann@t-online.de'>Frithjof.Herrmann@t-online.de</a>",
+      "Website: <a href='http://frithjofherrmann.de'>frithjofherrmann.de</a>"
+    ]
+  },
+  {
+    "name": "Bernd Hieke",
+    "thumbnail": true,
+    "slug": "bernd-hieke",
+    "images": [
+      "<img src='/img/bernd-hieke/bernd-hieke-eule.jpg' alt='Bernd Hieke Eule'>",
+      "<img src='/img/bernd-hieke/bernd-hieke-vogel.jpg' alt='Bernd Hieke Vogel'>"
+    ],
+    "vita": [
+      "1944 in Plauen geboren",
+      "lebt und arbeitet in Elsterberg",
+      "seit 1987 freiberuflicher Maler und Graphiker",
+      "1987 Einrichtung einer eigenen Grafikwerkstatt",
+      "Arbeitsbereiche: Lithografie, Radierung, Kupferstich",
+      "Ausstellungen im In- und Ausland, u.a. 2002 im Bundeskanzleramt",
+      "Meine Welt ist mein Auftraggeber. Leider kommen bei der jüngeren Neuaufteilung dieser Welt unsere Mitgeschöpfe nicht so glücklich weg. Dies ist mein Thema - nicht immer glücklich."
+    ],
+    "address": [
+      "Bernd Hieke",
+      "Moschwitzer Str. 3",
+      "07985 Elsterberg"
+    ],
+    "contact": [
+      "Telefon: 036621 8574",
+      "E-Mail: <a href='mailto:bernd_hieke@hotmail.com'>bernd_hieke@hotmail.com</a>"
+    ]
+  },
+  {
+    "name": "Friedrich Höfer",
+    "thumbnail": true,
+    "slug": "friedrich-hoefer",
+    "address": [
+      "Friedrich Höfer",
+      "Winterkastener Straße 32",
+      "64385 Reichelsheim (Ortsteil Laudenau)"
+    ],
+    "contact": [
+      "Telefon: 06164 721",
+      "E-Mail: <a href='mailto:atelier@friedrich-hoefer.de'>atelier@friedrich-hoefer.de</a>",
+      "Website: <a href='http://friedrich-hoefer.de'>friedrich-hoefer.de</a>"
+    ]
+  },
+  {
+    "name": "Stefanie Kölbel",
+    "thumbnail": true,
+    "slug": "stefanie-koelbel",
+    "images": [
+      "<img src='/img/stefanie-koelbel/stefanie-koelbel-portrait.jpg' alt='Stefanie Kölbel Portrait'>",
+      "<img src='/img/stefanie-koelbel/stefanie-koelbel-2.jpg' alt='Stefanie Kölbel 2'>",
+      "<img src='/img/stefanie-koelbel/stefanie-koelbel-3.jpg' alt='Stefanie Kölbel 3'>",
+      "<img src='/img/stefanie-koelbel/stefanie-koelbel-4.jpg' alt='Stefanie Kölbel 4'>"
+    ],
+    "vita": [
+      "1981 in Oelsnitz im Vogtland geboren",
+      "2001–05 Studium an der Fachhochschule für Angewandte Kunst Schneeberg",
+      "2005 Diplomdesignerin (FH) – Textilkunst",
+      "seit 2006 freiberuflich tätig",
+      "regelmäßige Teilnahme an nationalen und internationalen Ausstellungen und Messen",
+      "2011 Hessischer Staatspreis für das Deutsche Kunsthandwerk",
+      "2017 German Design Award Special",
+      "Mitglied im Bundesverband Kunsthandwerk Frankfurt",
+      "Mitglied im Bayerischen Kunstgewerbeverein München",
+      "Mitglied der Museum Store Association Philadelphia",
+      "Mitglied im Bund Bildender Künstler Vogtland"
+    ],
+    "address": [
+      "Stefanie Kölbel",
+      "Rosenweg 3",
+      "08485 Lengenfeld"
+    ],
+    "contact": [
+      "E-Mail: <a href='mailto:spitzenstuecke@gmx.de'>spitzenstuecke@gmx.de</a>",
+      "Website: <a href='http://spitzenstuecke.de'>spitzenstuecke.de</a>"
+    ]
+  },
+  {
+    "name": "Ralph Kunzmann",
+    "thumbnail": true,
+    "slug": "ralph-kunzmann",
+    "images": [
+      "<img src='/img/ralph-kunzmann/akt-1.jpg' alt='Ralph Kunzmann: Akt 1'>",
+      "<img src='/img/ralph-kunzmann/akt-2.jpg' alt='Ralph Kunzmann: Akt 2'>",
+      "<img src='/img/ralph-kunzmann/malerei.jpg' alt='Ralph Kunzmann: Malerei'>"
+    ],
+    "vita": [
+      "geboren 1963 in Schmölln bei Altenburg",
+      "aufgewachsen in Plauen im Vogtland",
+      "1981 Abschluss einer Ausbildung zum Elektriker",
+      "1982 Abitur",
+      "Studium an der Universität Leipzig am Fachbereich Kunstpädagogik: künstlerische Praxis bei Renate Herfurth und Hans Rossmanit",
+      "1990 Abschluss als Diplomlehrer für Kunsterziehung und Deutsch",
+      "seit 1990 im Schuldienst an Plauener Schulen tätig",
+      "bereits vor und während des Studiums intensive Beschäftigung mit Druckgrafik und Fotografie"
+    ],
+    "address": [
+      "Ralph Kunzmann",
+      "Am Zanglerhübel 11",
+      "08527 Plauen"
+    ],
+    "contact": [
+      "Telefon: 03741 133376",
+      "E-Mail: <a href='mailto:r.k@ralle-art.de'>r.k@ralle-art.de</a>",
+      "Website: <a href='http://ralph-kunzmann.model-kartei.de'>ralph-kunzmann.model-kartei.de</a>"
+    ]
+  },
+  {
+    "name": "Andreas Leonhardt",
+    "thumbnail": true,
+    "slug": "andreas-leonhardt",
+    "vita": [
+      "1959 in Plauen geboren",
+      "1978 Abitur",
+      "1980–1985 Töpferlehre in Bürgel und Arbeiten in verschiedenen Werkstätten",
+      "seit 1986 freischaffend",
+      "1987 Meisterprüfung im Töpferhandwerk bei Walter Gebauer",
+      "1992 erste Wandplatten",
+      "1993 erste Raku Arbeiten",
+      "1999 erste Fotografiken",
+      "2001 Aufnahme in den Chemnitzer Künstlerbund",
+      "2004–2008 Vorstandsmitglied im Chemnitzer Künstlerbund",
+      "2009 Gründungs- und Vorstandsmitglied im Bund Bildener Künstler Vogtland e.V."
+    ],
+    "address": [
+      "Andreas J. Leonhardt",
+      "Bärenstraße 4",
+      "08523 Plauen"
+    ],
+    "contact": [
+      "Telefon: 03741 222568",
+      "E-Mail: <a href='mailto:leonhardtplauen@yahoo.de'>leonhardtplauen@yahoo.de</a>",
+      "Website: <a href='http://leorot.de'>leorot.de</a>"
+    ]
+  },
+  {
+    "name": "Michaela List",
+    "thumbnail": true,
+    "slug": "michaela-list",
+    "images": [
+      "<img src='/img/michaela-list/von-hier-aus-wohin-i.jpg' alt='Michaela List: Von hier aus wohin I'>",
+      "<img src='/img/michaela-list/von-hier-aus-wohin-ii.jpg' alt='Michaela List: Von hier aus wohin II'>",
+      "<img src='/img/michaela-list/flucht-eines-propheten-bergbauhalde.jpg' alt='Michaela List: Flucht eines Propheten Bergbauhalde'>"
+    ],
+    "vita": [
+      "am 23.09.1965 in Zwickau geboren",
+      "1984 Abitur",
+      "1984–1985 Tätigkeit in der Glas- und Porzellanindustrie",
+      "1985–1991 Studium an der HS für Kunst und Design 'Burg Giebichenstein' in Halle"
+    ],
+    "address": [
+      "Michaela List",
+      "Wiesenstraße 25",
+      "08134 Wildenfels"
+    ],
+    "contact": [
+      "Telefon: 037603 8133",
+      "E-Mail: <a href='mailto:milist@freenet.de'>milist@freenet.de</a>"
+    ]
+  },
+  {
+    "name": "Peter Luban",
+    "thumbnail": true,
+    "slug": "peter-luban",
+    "images": null,
+    "vita": [
+      "geb. am 15. August 1952 in Plauen",
+      "1976–1979: Abendstudium an der Hochschule für Bildende Künste Dresden",
+      "1981–1986: Studium an der Kunsthochschule Halle, Burg Giebichenstein",
+      "seit 1986: freischaffender Künstler, Mitglied im Sächsischen Künstlerbund"
+    ],
+    "address": [
+      "Peter Luban",
+      "Hauptstraße 3",
+      "08527 Rößnitz"
+    ],
+    "contact": [
+      "Telefon: 037431 3489",
+      "E-Mail: <a href='mailto:peter.luban@web.de'>peter.luban@web.de</a>",
+      "Website: <a href='http://peter-luban.de'>peter-luban.de</a>"
+    ]
+  },
+  {
+    "name": "Karsten Mittag",
+    "thumbnail": true,
+    "slug": "karsten-mittag",
+    "images": null,
+    "vita": [
+      "1964 Geboren in Zwickau",
+      "1983–87 Studium der Kirchenmusik an der Evangelischen Kirchenmusikschule Halle, Abschluß mit B-Prüfung<br>Beginn der Auseinandersetzung mit Malerei",
+      "1990–96 Studium an der Fachhochschule für Gestaltung Hamburg, Fachrichtung Illustration, Abschluß als Diplom-Designer",
+      "seit 1998 freischaffend als Maler, Grafiker und Kursleiter tätig; zahlreiche Ausstellungen",
+      "1999 Eröffnung des Ateliers und der Malschule im Lotterhof, Augustusburg",
+      "seit 2000 Initiator verschiedener Projekte zum Thema Klang und Farbe<br>Leiter von Seminaren und Workshops"
+    ],
+    "address": [
+      "Karsten Mittag",
+      "Kirchplatz 2",
+      "09573 Augustusburg"
+    ],
+    "contact": [
+      "Telefon: 037291 67960",
+      "E-Mail: <a href='mailto:post@lotterhof.de'>post@lotterhof.de</a>",
+      "Website: <a href='http://karsten-mittag.de/'>karsten-mittag.de</a>"
+    ]
+  },
+  {
+    "name": "Christhard Richter",
+    "thumbnail": true,
+    "slug": "christhard-richter",
+    "images": [
+      "<img src='/img/christhard-richter/christhard-richter.jpg' alt='Christhard Richter'>",
+      "<img src='/img/christhard-richter/christhard-wuerfelschale.jpg' alt='Christhard Richter: Würfelschale'>",
+      "<img src='/img/christhard-richter/christhard-balance.jpg' alt='Christhard Richter: Skulptur Balance'>",
+      "<img src='/img/christhard-richter/christhard-unbekannt.jpg' alt='Christhard Richter: Skulptur'>"
+    ],
+    "vita": [
+      "1948 geboren in Radebeul",
+      "1954–64 Besuch der polytechnischen Oberschule",
+      "1964–66 Ausbildung zum Agrotechniker und Melker",
+      "1966–73 Studium der Theologie in Leipzig, 2 Töchter werden geboren",
+      "1973–76 Möbeltischler- und Drechslerlehre mit Abschluss",
+      "1976 Bühnentischler und Investbauleiter an der Theaterhochschule Hans Otto in Leipzig",
+      "1979–82 Studium an der Fachschule für angewandte Kunst in Schneeberg bei Prof. Brockhage, Abschluss als Holzgestalter",
+      "1982 Aufbau einer Holzwerkstatt und Umzug an die O",
+      "1989 Aufnahme in den VBK - Sektion Formgestalter, freiberufliche Arbeit, Gemeinschaftsausstellungen mit Verbandskollegen in Wismar und Warnemünde<br>Gestaltungsprojekt für Möblierung und Raumorientierung innerhalb eines Neubaus für geistig Behinderte und Sehgeschädigte bis zur Modell- und Projektvorlage",
+      "1990 3-monatige Studienreise durch Frankreich und h2ien",
+      "1991 Mitglied im Künstlerbund Mecklenburg-Vorpommern",
+      "1994 Arbeiten im Bereich Einzelfertigung und Baurestaurierung, in dieser Zeit mehrere Ausstellungsbeteiligungen bei KB-Kollegen und Teilnahme als Referent bei Fachtagungen für Denkmalpflege und Gestaltung im ländlichen Raum",
+      "2001 Umzug ins Vogtland und Ausbau eines alten Bauernhauses zum Lebens- und Arbeitsmittelpunkt im Atelier Holz Art",
+      "2002–06 Ausstellungen in Wismar, Plauen ,Dresden, Bad Doberan, Hof",
+      "2007–Juni Aufenthalt in Ficulle (Italien), Arbeit im Skulpturenpark La Casella",
+      "2008 Teilnahme Künstlerwettbewerb 'Weg der Stühle' in Rabenau anlässlich des 1. Stuhlbauertages"
+    ],
+    "address": [
+      "Christhard Richter",
+      "Eschenbacher Straße 2",
+      "08261 Gunzen"
+    ],
+    "contact": [
+      "E-Mail: <a href='mailto:richter-holzart@web.de'>richter-holzart@web.de</a>",
+      "Website: <a href='http://holzart-richter.squarespace.com'>holzart-richter.squarespace.com</a>"
+    ]
+  },
+  {
+    "name": "Andreas Rudloff",
+    "thumbnail": true,
+    "slug": "andreas-rudloff",
+    "images": [
+      "<img src='/img/andreas-rudloff/andreas-rudloff.jpg' alt='Andreas Rudloff'>",
+      "<img src='/img/andreas-rudloff/andreas-tagtraum-eines-bockes.jpg' alt='Andreas Rudloff: Tagtraum eines Bockes'>",
+      "<img src='/img/andreas-rudloff/andreas-vor-dem-grossen-fressen-2.jpg' alt='Andreas Rudloff: Vor dem großen Fressen 2'>"
+    ],
+    "vita": [
+      "am 02.04.1963 in Plauen geboren",
+      "Lehre Textilzeichner",
+      "Studium an der HS für Kunst & Design „Burg Giebichenstein“ in Halle",
+      "1989–1992 Designer Halbmond Teppichwerke Oelsnitz",
+      "verheiratet mit Anke Rudloff",
+      "Kinder: Philipp, Julia und Valentin",
+      "Künstler und Lehrtätigkeit am Beruflichen Schulzentrum e.o.plauen",
+      "Mitglied Bund Bildender Künstler Vogtland e.V.",
+      "Mitglied Bundesverband Bildender Künstlerinnen und Künstler"
+    ],
+    "address": [
+      "Andreas Rudloff",
+      "Markt 32",
+      "08626 Adorf"
+    ],
+    "contact": [
+      "Telefon: 037423 2036",
+      "E-Mail: <a href='mailto:a.rudloff@gmx.net'>a.rudloff@gmx.net</a>",
+      "Website: <a href='http://artrudloff.de'>artrudloff.de</a>"
+    ]
+  },
+  {
+    "name": "Anke Rudloff",
+    "thumbnail": true,
+    "slug": "anke-rudloff",
+    "images": [
+      "<img src='/img/anke-rudloff/anke-rudloff.jpg' alt='Anke Rudloff'>",
+      "<img src='/img/anke-rudloff/anke-korsika-2.jpg' alt='Anke Rudloff: Korsika 2'>",
+      "<img src='/img/anke-rudloff/anke-taufglocke.jpg' alt='Anke Rudloff: Taufglocke'>"
+    ],
+    "vita": [
+      "am 26.10.1962 in Bad Elster geboren",
+      "Lehre Textilzeichnerin",
+      "Studium an der HS für Kunst & Design „Burg Giebichenstein“ in Halle",
+      "1989–1992 Designerin Halbmond Teppichwerke Oelsnitz",
+      "verheiratet mit Andreas Rudloff",
+      "Kinder: Philipp, Julia und Valentin",
+      "Künstlerin und Lehrtätigkeit am Beruflichen Schulzentrum e.o.plauen",
+      "Mitglied Bund Bildender Künstler Vogtland e.V.",
+      "Mitglied Bundesverband Bildender Künstlerinnen und Künstler"
+    ],
+    "address": [
+      "Anke Rudloff",
+      "Markt 32",
+      "08626 Adorf"
+    ],
+    "contact": [
+      "Telefon: 037423 2036",
+      "E-Mail: <a href='mailto:a.rudloff@gmx.net'>a.rudloff@gmx.net</a>",
+      "Website: <a href='http://artrudloff.de'>artrudloff.de</a>"
+    ]
+  },
+  {
+    "name": "Christina Röckl",
+    "thumbnail": true,
+    "slug": "christina-roeckl",
+    "images": [
+      "<img src='/img/christina-roeckl/christina-roeckl-1.jpg' alt='Christina Röckl 1'>",
+      "<img src='/img/christina-roeckl/christina-roeckl-2.jpg' alt='Christina Röckl 2'>",
+      "<img src='/img/christina-roeckl/christina-roeckl-3.jpg' alt='Christina Röckl 3'>",
+      "<img src='/img/christina-roeckl/christina-roeckl-4.jpg' alt='Christina Röckl 4'>"
+    ],
+    "vita": null,
+    "address": null,
+    "contact": [
+      "E-Mail: <a href='mailto:hallo@erikaspitzt.com'>hallo@erikaspitzt.com</a>",
+      "Website: <a href='http://erikaspitzt.com/'>erikaspitzt.com</a>"
+    ]
+  },
+  {
+    "name": "Karen Schramke",
+    "thumbnail": false,
+    "slug": "karen-schramke",
+    "images": null,
+    "vita": null,
+    "address": null,
+    "contact": [
+      "Website: <a href='http://schramke-design.de'>schramke-design.de</a>"
+    ]
+  },
+  {
+    "name": "Elke Wolf",
+    "thumbnail": true,
+    "slug": "elke-wolf",
+    "images": [
+      "<img src='/img/elke-wolf/elke-wolf-1.jpg' alt='Elke Wolf 1'>",
+      "<img src='/img/elke-wolf/elke-wolf-2.jpg' alt='Elke Wolf 2'>",
+      "<img src='/img/elke-wolf/elke-wolf-3.jpg' alt='Elke Wolf 3'>",
+      "<img src='/img/elke-wolf/elke-wolf-4.jpg' alt='Elke Wolf 4'>"
+    ],
+    "vita": [
+      "Elke Wolf arbeitet seit 1981 freischaffend im eigenen Atelier in Plauen.",
+      "Textilkünstlerische Unikate „Bildgewebe“ (Flachweberei/Gobelintechnik mit Naturfasern) entstehen, parallel dazu und gleichberechtigt Aquarelle, Zeichnungen und Druckgrafik.",
+      "Wesentliche Anregung für ihre Arbeit sind Natur und Landschaft.",
+      "Zeichnungen und Aquarelle entstehen immer vor der Natur.",
+      "Dabei ist auch die „eigene Natur“ mit den wechselnden Stimmungen wichtig.",
+      "Der Prozess der Auseinandersetzung ist auch mit einer Verinnerlichung von Natur und Landschaft verbunden.",
+      "Genau das ermöglicht ihr dann auch den freien, assoziativen Umgang mit ihrem Sujet bei der Form- und Bildfindung für Gewebe und Grafik.",
+      "Elke Wolf, 1944 in Theißen geboren, Studium im Bereich Textilkunst von 1978-1981 an der Fachschule für angewandte Kunst in Schneeberg."
+    ]
+  },
+  {
+    "name": "Frank H. Zaumzeil",
+    "thumbnail": true,
+    "slug": "frank-zaumzeil",
+    "images": [
+      "<img src='/img/frank-zaumzeil/frank-zaumzeil-portrait.jpg' alt='Frank H. Zaumseil Portrait'>",
+      "<img src='/img/frank-zaumzeil/frank-zaumzeil-2.jpg' alt='Frank H. Zaumseil 2'>",
+      "<img src='/img/frank-zaumzeil/frank-zaumzeil-3.jpg' alt='Frank H. Zaumseil 3'>",
+      "<img src='/img/frank-zaumzeil/frank-zaumzeil-4.jpg' alt='Frank H. Zaumseil 4'>"
+    ],
+    "vita": [
+      "1941 in Rotschau bei Reichenbach Vogtl. geboren",
+      "Berufsabschluss als Musterzeichner",
+      "1971 Abschluss an der FAK Schneeberg (Dipl. Designer FH)<br>danach Designer im Zentralen Musterbüro Lengenfeld V.",
+      "1983–1990 Leiter des ZMB Lengenfeld V.",
+      "1991 Neubeginn als Atelierleiter für Textil – und Tapetengravuren<br>Freiberuflicher Designer und Lehrtätigkeit ",
+      "1995 wegen lebensbedrohlicher Erkrankung aus dem Berufsleben ausgeschieden ",
+      "1996 Beginn einer Phase bildnerischen Schaffens",
+      "2003–2007 Chemnitzer Künstlerbund e.V. ",
+      "2008 Gründungsmitglied Bund Bildender Künstler Vogtland e.V.",
+      "Mitglied: BBKV / SKB / BBK"
+    ],
+    "address": [
+      "Frank H. Zaumzeil",
+      "Schulstraße 7",
+      "07985 Elsterberg"
+    ],
+    "contact": [
+      "Telefon: 036621 22297",
+      "E-Mail: <a href='mailto:mail@frank-h-zaumzeil.de'>mail@frank-h-zaumzeil.de</a>",
+      "Website: <a href='http://frank-h-zaumzeil.de'>frank-h-zaumzeil.de</a>",
+      "Werkdatenbank: <a href='https://www.lbk-sachsen.de/werkdatenbank/person/zaumzeil-frank-h'>LBK Sachsen: Frank H. Zaumzeil</a>"
+    ]
+  }
+]

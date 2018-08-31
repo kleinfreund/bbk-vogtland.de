@@ -4,7 +4,7 @@
 *,
 *::before,
 *::after {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 
@@ -18,8 +18,8 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 dl, dd, ol, ul, hr,
 figure {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 
@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl,
 figure {
-    margin-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 
@@ -40,9 +40,9 @@ figure {
  * Wrapper
  */
 .wrapper {
-    max-width: 680px;
-    margin-right: auto;
-    margin-left: auto;
+  max-width: 680px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 
@@ -51,14 +51,14 @@ figure {
  * Images
  */
 img {
-    /* Emphasis on `alt` text */
-    font-style: italic;
-    max-width: 100%;
+  /* Emphasis on `alt` text */
+  font-style: italic;
+  max-width: 100%;
 }
 
 img,
 svg {
-    vertical-align: middle;
+  vertical-align: middle;
 }
 
 
@@ -67,15 +67,15 @@ svg {
  * Figures
  */
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: 0.9em;
+  font-size: 0.9em;
 }
 
 figcaption > a {
-    font-weight: 300;
+  font-weight: 300;
 }
 
 
@@ -84,33 +84,33 @@ figcaption > a {
  * Quotations
  */
 q {
-    font-style: italic;
+  font-style: italic;
 }
 
 blockquote {
-    margin-right: 0.75rem;
-    margin-left: 0.75rem;
-    font-size: larger;
-    font-style: italic;
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
+  font-size: larger;
+  font-style: italic;
 }
 
 .quote__body > :first-child:before {
-    content: "\201E";
+  content: '\201E';
 }
 
 .quote__body > :last-child:after {
-    content: "\201C";
+  content: '\201C';
 }
 
 .quote__body > :last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .quote__source {
-    display: block;
-    font-style: normal;
+  display: block;
+  font-style: normal;
 }
 
 .quote__source::before {
-    content: "\2014";
+  content: '\2014';
 }

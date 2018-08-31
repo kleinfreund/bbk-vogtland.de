@@ -1,0 +1,14 @@
+{
+  "name": "bbk-vogtland.de",
+  "repository": "https://github.com/kleinfreund/bbk-vogtland.de",
+  "version": "2.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "ELEVENTY_ENV=development eleventy --serve",
+    "build": "npm run clean && ELEVENTY_ENV=production eleventy",
+    "clean": "rm -rf ./_site"
+  },
+  "devDependencies": {
+    "html-minifier": "^3.5.20"
+  }
+}
