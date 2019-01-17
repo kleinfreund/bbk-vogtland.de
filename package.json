@@ -9,6 +9,6 @@
     "clean": "rm -rf ./_site"
   },
   "devDependencies": {
-    "html-minifier": "^3.5.20"
+    "html-minifier": "^3.5.21"
   }
 }
