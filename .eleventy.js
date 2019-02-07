@@ -60,11 +60,8 @@ function extractExcerpt(doc) {
 
   const excerptSeparator = '<!--more-->';
   const content = doc.templateContent;
-  console.log(doc);
-
 
   if (content.includes(excerptSeparator)) {
-    console.log('HEYA');
     return content.substring(0, content.indexOf(excerptSeparator)).trim();
   }
 
