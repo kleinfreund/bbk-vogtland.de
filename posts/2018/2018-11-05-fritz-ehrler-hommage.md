@@ -2,7 +2,7 @@
 title: "Fritz Ehrler – Hommage zum 125. Geburtstag"
 date: 2018-09-11 10:00:00
 ---
-9. November 2018 – 26. Januar 2019
+<!---->9. November 2018 – 26. Januar 2019
 
 Einladung zur Ausstellungseröffnung am 9. November 2018 um 18:00 Uhr in der Galerie des BBKV e.V.
 
