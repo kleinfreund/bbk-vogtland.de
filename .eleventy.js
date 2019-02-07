@@ -8,6 +8,8 @@ const htmlMinifierOptions = {
 };
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.setDataDeepMerge(true);
+
   // Copies static files as they are to the output directory
   eleventyConfig
     .addPassthroughCopy('static')
@@ -24,12 +26,6 @@ module.exports = function (eleventyConfig) {
 
   // Compresses output HTML
   eleventyConfig.addTransform('htmlmin', minifyHtml);
-
-  // #147: Can’t use collection.posts because front matter overrides json file
-  // #194: Reverse pagination
-  eleventyConfig.addCollection('allposts', collection => {
-    return collection.getFilteredByGlob('./posts/**/*').reverse();
-  });
 
   return {
     templateFormats: ['md', 'html', 'liquid']
@@ -68,6 +64,10 @@ function extractExcerpt(doc) {
 
   if (content.includes(excerptSeparator)) {
     return content.substring(0, content.indexOf(excerptSeparator)).trim();
+  }
+
+  if (content.includes('</p>')) {
+    return content.substring(0, content.indexOf('</p>') + 4);
   }
 
   return content;

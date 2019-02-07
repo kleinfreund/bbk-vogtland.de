@@ -3,8 +3,9 @@ layout: layouts/base.liquid
 css:
 - components.pagination.css
 pagination:
-  data: collections.allposts
+  data: collections.posts
   size: 5
+  reverse: true
 ---
 <div class="post-list">
   {%- for post in pagination.items -%}
