@@ -21,14 +21,13 @@ module.exports = function (eleventyConfig) {
   // Defines shortcode for generating post excerpts
   eleventyConfig.addShortcode('excerpt', post => extractExcerpt(post));
 
-  // Filter for compressing CSS
-  // eleventyConfig.addFilter('cssmin', code => new CleanCSS().minify(code).styles);
-
   // Compresses output HTML
-  eleventyConfig.addTransform('htmlmin', minifyHtml);
+  if (process.env.ELEVENTY_ENV === 'production') {
+    eleventyConfig.addTransform('minify_html', minifyHtml);
+  }
 
   return {
-    templateFormats: ['md', 'html', 'liquid']
+    templateFormats: ['md', 'liquid', 'html']
   };
 };
 
@@ -61,13 +60,12 @@ function extractExcerpt(doc) {
 
   const excerptSeparator = '<!--more-->';
   const content = doc.templateContent;
+  console.log(doc);
+
 
   if (content.includes(excerptSeparator)) {
+    console.log('HEYA');
     return content.substring(0, content.indexOf(excerptSeparator)).trim();
-  }
-
-  if (content.includes('</p>')) {
-    return content.substring(0, content.indexOf('</p>') + 4);
   }
 
   return content;
