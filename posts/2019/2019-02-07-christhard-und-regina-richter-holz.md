@@ -21,3 +21,11 @@ Die Ausstellung eröffnen wir am 8. Februar 2019 um 18 Uhr in der Galerie des BB
 ![Holzskulptur im Freien](/img/christhard-und-regina-richter-holz/crr-holz-4.jpg)
 
 ![Holzobjekt](/img/christhard-und-regina-richter-holz/crr-holz-5.jpg)
+
+![Ausstellungseröffnung 1](/img/christhard-und-regina-richter-holz/crr-holz-6.jpg)
+
+![Ausstellungseröffnung 2](/img/christhard-und-regina-richter-holz/crr-holz-7.jpg)
+
+![Ausstellungseröffnung 3](/img/christhard-und-regina-richter-holz/crr-holz-8.jpg)
+
+![Ausstellungseröffnung 4](/img/christhard-und-regina-richter-holz/crr-holz-9.jpg)
