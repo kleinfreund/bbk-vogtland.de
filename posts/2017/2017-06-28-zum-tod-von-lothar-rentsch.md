@@ -11,4 +11,4 @@ Deine Kunst fordert Ruhe ein. Es gibt ein Lebenswerk, welches ohne die Attitüde
 Es verabschieden sich die Kolleginnen und Kollegen<br>
 des Bundes Bildender Künstler Vogtland.
 
-![Lothar Rentsch – Portrait](/img/lothar-rentsch/portrait.jpg)
+![Lothar Rentsch – Portrait](/img/zum-tod-von-lothar-rentsch/portrait.jpg)

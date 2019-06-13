@@ -4,10 +4,9 @@
     "thumbnail": true,
     "slug": "reiner-bittner",
     "images": [
-      "<img src='/img/reiner-bittner/reiner-bittner-1.jpg' alt='Reiner Bittner 1'>",
-      "<img src='/img/reiner-bittner/reiner-bittner-2.jpg' alt='Reiner Bittner 2'>",
-      "<img src='/img/reiner-bittner/reiner-bittner-3.jpg' alt='Reiner Bittner 3'>",
-      "<img src='/img/reiner-bittner/reiner-bittner-4.jpg' alt='Reiner Bittner 4'>"
+      "<img src='/img/mitglieder/reiner-bittner/reiner-bittner-werkfoto-1.jpg' alt='Reiner Bittner Werkfoto 1'>",
+      "<img src='/img/mitglieder/reiner-bittner/reiner-bittner-werkfoto-2.jpg' alt='Reiner Bittner Werkfoto 2'>",
+      "<img src='/img/mitglieder/reiner-bittner/reiner-bittner-werkfoto-3.jpg' alt='Reiner Bittner Werkfoto 3'>"
     ],
     "vita": [
       "31.12.1955 In Burgstädt geboren",
@@ -38,7 +37,11 @@
     "name": "Nicolas Felly",
     "thumbnail": true,
     "slug": "nicolas-felly",
-    "images": null,
+    "images": [
+      "<img src='/img/mitglieder/nicolas-felly/nicolas-felly-werkfoto-1.jpg' alt='Nicolas Felly Werkfoto 1'>",
+      "<img src='/img/mitglieder/nicolas-felly/nicolas-felly-werkfoto-2.jpg' alt='Nicolas Felly Werkfoto 2'>",
+      "<img src='/img/mitglieder/nicolas-felly/nicolas-felly-werkfoto-3.jpg' alt='Nicolas Felly Werkfoto 3'>"
+    ],
     "vita": null,
     "address": null,
     "contact": [
@@ -49,6 +52,11 @@
     "name": "Michael Franke",
     "thumbnail": true,
     "slug": "michael-franke",
+    "images": [
+      "<img src='/img/mitglieder/michael-franke/michael-franke-werkfoto-1.jpg' alt='Michael Franke Werkfoto 1'>",
+      "<img src='/img/mitglieder/michael-franke/michael-franke-werkfoto-2.jpg' alt='Michael Franke Werkfoto 2'>",
+      "<img src='/img/mitglieder/michael-franke/michael-franke-werkfoto-3.jpg' alt='Michael Franke Werkfoto 3'>"
+    ],
     "vita": [
       "1950 In Zwickau-Planitz geboren",
       "1966–1969 Lehre als Goldschmied",
@@ -77,9 +85,10 @@
     "thumbnail": true,
     "slug": "bianca-hallebach",
     "images": [
-      "<img src='/img/bianca-hallebach/bianca-hallebach.jpg' alt='Bianca Hallebach'>",
-      "<img src='/img/bianca-hallebach/bianca-geheimnistraeger.jpg' alt='Bianca Hallebach: Geheimnisträger'>",
-      "<img src='/img/bianca-hallebach/bianca-schwebendes-collier.jpg' alt='Bianca Hallebach: Schwebendes Collier'>"
+      "<img src='/img/mitglieder/bianca-hallebach/bianca-hallebach-werkfoto-1.jpg' alt='Bianca Hallebach Werkfoto 1'>",
+      "<img src='/img/mitglieder/bianca-hallebach/bianca-hallebach-werkfoto-2.jpg' alt='Bianca Hallebach Werkfoto 2'>",
+      "<img src='/img/mitglieder/bianca-hallebach/bianca-hallebach-werkfoto-3.jpg' alt='Bianca Hallebach Werkfoto 3'>",
+      "<img src='/img/mitglieder/bianca-hallebach/bianca-hallebach-werkfoto-4.jpg' alt='Bianca Hallebach Werkfoto 4'>"
     ],
     "vita": [
       "03.07.1969 in Plauen/Vogtland geboren, lebt seit 1998 wieder in Plauen",
@@ -120,9 +129,9 @@
     "thumbnail": true,
     "slug": "mathias-heck",
     "images": [
-      "<img src='/img/mathias-heck/mathias-heck-portrait.jpg' alt='Mathias Heck 1'>",
-      "<img src='/img/mathias-heck/mathias-heck-schale.jpg' alt='Mathias Heck 2'>",
-      "<img src='/img/mathias-heck/mathias-heck-vasa-sacra.jpg' alt='Mathias Heck 3'>"
+      "<img src='/img/mitglieder/mathias-heck/mathias-heck-werkfoto-1.jpg' alt='Mathias Heck Werkfoto 1'>",
+      "<img src='/img/mitglieder/mathias-heck/mathias-heck-werkfoto-2.jpg' alt='Mathias Heck Werkfoto 2'>",
+      "<img src='/img/mitglieder/mathias-heck/mathias-heck-werkfoto-3.jpg' alt='Mathias Heck Werkfoto 3'>"
     ],
     "vita": [
       "am 1967 in Plauen geboren",
@@ -145,13 +154,39 @@
     ]
   },
   {
+    "name": "Klaus Helbig",
+    "thumbnail": true,
+    "slug": "klaus-helbig",
+    "images": [
+      "<img src='/img/mitglieder/klaus-helbig/klaus-helbig-werkfoto-1.jpg' alt='Klaus Helbig Werkfoto 1'>",
+      "<img src='/img/mitglieder/klaus-helbig/klaus-helbig-werkfoto-2.jpg' alt='Klaus Helbig Werkfoto 2'>",
+      "<img src='/img/mitglieder/klaus-helbig/klaus-helbig-werkfoto-3.jpg' alt='Klaus Helbig Werkfoto 3'>"
+    ],
+    "vita": [],
+    "address": [],
+    "contact": []
+  },
+  {
+    "name": "Karin Helbig",
+    "thumbnail": true,
+    "slug": "karin-helbig",
+    "images": [
+      "<img src='/img/mitglieder/karin-helbig/karin-helbig-werkfoto-1.jpg' alt='Karin Helbig Werkfoto 1'>",
+      "<img src='/img/mitglieder/karin-helbig/karin-helbig-werkfoto-2.jpg' alt='Karin Helbig Werkfoto 2'>",
+      "<img src='/img/mitglieder/karin-helbig/karin-helbig-werkfoto-3.jpg' alt='Karin Helbig Werkfoto 3'>"
+    ],
+    "vita": [],
+    "address": [],
+    "contact": []
+  },
+  {
     "name": "Frithjof Herrmann",
     "thumbnail": true,
     "slug": "frithjof-herrmann",
     "images": [
-      "<img src='/img/frithjof-herrmann/frithjof-herrmann-1-weg-nach-oben-praegedruck.jpg' alt='Frithjof Herrmann: Weg nach oben – Prägedruck'>",
-      "<img src='/img/frithjof-herrmann/frithjof-herrmann-2.jpg' alt='Frithjof Herrmann'>",
-      "<img src='/img/frithjof-herrmann/frithjof-herrmann-3-gegensaetze-praegedruck.jpg' alt='Frithjof Herrmann: Gegensätze – Prägedruck'>"
+      "<img src='/img/mitglieder/frithjof-herrmann/frithjof-herrmann-werkfoto-1.jpg' alt='Frithjof Herrmannn Werkfoto 1'>",
+      "<img src='/img/mitglieder/frithjof-herrmann/frithjof-herrmann-werkfoto-2.jpg' alt='Frithjof Herrmannn Werkfoto 2'>",
+      "<img src='/img/mitglieder/frithjof-herrmann/frithjof-herrmann-werkfoto-3.jpg' alt='Frithjof Herrmannn Werkfoto 3'>"
     ],
     "vita": [
       "Lehrerstudium an der Technischen Hochschule Karl­-Marx­-Stadt.",
@@ -178,8 +213,9 @@
     "thumbnail": true,
     "slug": "bernd-hieke",
     "images": [
-      "<img src='/img/bernd-hieke/bernd-hieke-eule.jpg' alt='Bernd Hieke Eule'>",
-      "<img src='/img/bernd-hieke/bernd-hieke-vogel.jpg' alt='Bernd Hieke Vogel'>"
+      "<img src='/img/mitglieder/bernd-hieke/bernd-hieke-werkfoto-1.jpg' alt='Bernd Hieke Werkfoto 1'>",
+      "<img src='/img/mitglieder/bernd-hieke/bernd-hieke-werkfoto-2.jpg' alt='Bernd Hieke Werkfoto 2'>",
+      "<img src='/img/mitglieder/bernd-hieke/bernd-hieke-werkfoto-3.jpg' alt='Bernd Hieke Werkfoto 3'>"
     ],
     "vita": [
       "1944 in Plauen geboren",
@@ -204,6 +240,11 @@
     "name": "Friedrich Höfer",
     "thumbnail": true,
     "slug": "friedrich-hoefer",
+    "images": [
+      "<img src='/img/mitglieder/friedrich-hoefer/friedrich-hoefer-werkfoto-1.jpg' alt='Friedrich Höfer Werkfoto 1'>",
+      "<img src='/img/mitglieder/friedrich-hoefer/friedrich-hoefer-werkfoto-2.jpg' alt='Friedrich Höfer Werkfoto 2'>",
+      "<img src='/img/mitglieder/friedrich-hoefer/friedrich-hoefer-werkfoto-3.jpg' alt='Friedrich Höfer Werkfoto 3'>"
+    ],
     "address": [
       "Friedrich Höfer",
       "Winterkastener Straße 32",
@@ -216,14 +257,26 @@
     ]
   },
   {
+    "name": "Stephan Klenner-Otto",
+    "thumbnail": true,
+    "slug": "stephan-klenner-otto",
+    "images": [
+      "<img src='/img/mitglieder/stephan-klenner-otto/stephan-klenner-otto-werkfoto-1.jpg' alt='Stephan Klenner-Otto Werkfoto 1'>",
+      "<img src='/img/mitglieder/stephan-klenner-otto/stephan-klenner-otto-werkfoto-2.jpg' alt='Stephan Klenner-Otto Werkfoto 2'>",
+      "<img src='/img/mitglieder/stephan-klenner-otto/stephan-klenner-otto-werkfoto-3.jpg' alt='Stephan Klenner-Otto Werkfoto 3'>"
+    ],
+    "vita": [],
+    "address": [],
+    "contact": []
+  },
+  {
     "name": "Stefanie Kölbel",
     "thumbnail": true,
     "slug": "stefanie-koelbel",
     "images": [
-      "<img src='/img/stefanie-koelbel/stefanie-koelbel-portrait.jpg' alt='Stefanie Kölbel Portrait'>",
-      "<img src='/img/stefanie-koelbel/stefanie-koelbel-2.jpg' alt='Stefanie Kölbel 2'>",
-      "<img src='/img/stefanie-koelbel/stefanie-koelbel-3.jpg' alt='Stefanie Kölbel 3'>",
-      "<img src='/img/stefanie-koelbel/stefanie-koelbel-4.jpg' alt='Stefanie Kölbel 4'>"
+      "<img src='/img/mitglieder/stefanie-koelbel/stefanie-koelbel-werkfoto-1.jpg' alt='Stefanie Kölbel Werkfoto 1'>",
+      "<img src='/img/mitglieder/stefanie-koelbel/stefanie-koelbel-werkfoto-2.jpg' alt='Stefanie Kölbel Werkfoto 2'>",
+      "<img src='/img/mitglieder/stefanie-koelbel/stefanie-koelbel-werkfoto-3.jpg' alt='Stefanie Kölbel Werkfoto 3'>"
     ],
     "vita": [
       "1981 in Oelsnitz im Vogtland geboren",
@@ -253,9 +306,9 @@
     "thumbnail": true,
     "slug": "ralph-kunzmann",
     "images": [
-      "<img src='/img/ralph-kunzmann/akt-1.jpg' alt='Ralph Kunzmann: Akt 1'>",
-      "<img src='/img/ralph-kunzmann/akt-2.jpg' alt='Ralph Kunzmann: Akt 2'>",
-      "<img src='/img/ralph-kunzmann/malerei.jpg' alt='Ralph Kunzmann: Malerei'>"
+      "<img src='/img/mitglieder/ralph-kunzmann/ralph-kunzmann-werkfoto-1.jpg' alt='Ralph Kunzmann Werkfoto 1'>",
+      "<img src='/img/mitglieder/ralph-kunzmann/ralph-kunzmann-werkfoto-2.jpg' alt='Ralph Kunzmann Werkfoto 2'>",
+      "<img src='/img/mitglieder/ralph-kunzmann/ralph-kunzmann-werkfoto-3.jpg' alt='Ralph Kunzmann Werkfoto 3'>"
     ],
     "vita": [
       "geboren 1963 in Schmölln bei Altenburg",
@@ -282,6 +335,11 @@
     "name": "Andreas Leonhardt",
     "thumbnail": true,
     "slug": "andreas-leonhardt",
+    "images": [
+      "<img src='/img/mitglieder/andreas-leonhardt/andreas-leonhardt-werkfoto-1.jpg' alt='Andreas Leonhardt Werkfoto 1'>",
+      "<img src='/img/mitglieder/andreas-leonhardt/andreas-leonhardt-werkfoto-2.jpg' alt='Andreas Leonhardt Werkfoto 2'>",
+      "<img src='/img/mitglieder/andreas-leonhardt/andreas-leonhardt-werkfoto-3.jpg' alt='Andreas Leonhardt Werkfoto 3'>"
+    ],
     "vita": [
       "1959 in Plauen geboren",
       "1978 Abitur",
@@ -311,9 +369,9 @@
     "thumbnail": true,
     "slug": "michaela-list",
     "images": [
-      "<img src='/img/michaela-list/von-hier-aus-wohin-i.jpg' alt='Michaela List: Von hier aus wohin I'>",
-      "<img src='/img/michaela-list/von-hier-aus-wohin-ii.jpg' alt='Michaela List: Von hier aus wohin II'>",
-      "<img src='/img/michaela-list/flucht-eines-propheten-bergbauhalde.jpg' alt='Michaela List: Flucht eines Propheten Bergbauhalde'>"
+      "<img src='/img/mitglieder/michaela-list/michaela-list-werkfoto-1.jpg' alt='Michaela List Werkfoto 1'>",
+      "<img src='/img/mitglieder/michaela-list/michaela-list-werkfoto-2.jpg' alt='Michaela List Werkfoto 2'>",
+      "<img src='/img/mitglieder/michaela-list/michaela-list-werkfoto-3.jpg' alt='Michaela List Werkfoto 3'>"
     ],
     "vita": [
       "am 23.09.1965 in Zwickau geboren",
@@ -335,7 +393,11 @@
     "name": "Peter Luban",
     "thumbnail": true,
     "slug": "peter-luban",
-    "images": null,
+    "images": [
+      "<img src='/img/mitglieder/peter-luban/peter-luban-werkfoto-1.jpg' alt='Peter Luban Werkfoto 1'>",
+      "<img src='/img/mitglieder/peter-luban/peter-luban-werkfoto-2.jpg' alt='Peter Luban Werkfoto 2'>",
+      "<img src='/img/mitglieder/peter-luban/peter-luban-werkfoto-3.jpg' alt='Peter Luban Werkfoto 3'>"
+    ],
     "vita": [
       "geb. am 15. August 1952 in Plauen",
       "1976–1979: Abendstudium an der Hochschule für Bildende Künste Dresden",
@@ -357,7 +419,11 @@
     "name": "Karsten Mittag",
     "thumbnail": true,
     "slug": "karsten-mittag",
-    "images": null,
+    "images": [
+      "<img src='/img/mitglieder/karsten-mittag/karsten-mittag-werkfoto-1.jpg' alt='Karsten Mittag Werkfoto 1'>",
+      "<img src='/img/mitglieder/karsten-mittag/karsten-mittag-werkfoto-2.jpg' alt='Karsten Mittag Werkfoto 2'>",
+      "<img src='/img/mitglieder/karsten-mittag/karsten-mittag-werkfoto-3.jpg' alt='Karsten Mittag Werkfoto 3'>"
+    ],
     "vita": [
       "1964 Geboren in Zwickau",
       "1983–87 Studium der Kirchenmusik an der Evangelischen Kirchenmusikschule Halle, Abschluß mit B-Prüfung<br>Beginn der Auseinandersetzung mit Malerei",
@@ -382,10 +448,10 @@
     "thumbnail": true,
     "slug": "christhard-richter",
     "images": [
-      "<img src='/img/christhard-richter/christhard-richter.jpg' alt='Christhard Richter'>",
-      "<img src='/img/christhard-richter/christhard-wuerfelschale.jpg' alt='Christhard Richter: Würfelschale'>",
-      "<img src='/img/christhard-richter/christhard-balance.jpg' alt='Christhard Richter: Skulptur Balance'>",
-      "<img src='/img/christhard-richter/christhard-unbekannt.jpg' alt='Christhard Richter: Skulptur'>"
+      "<img src='/img/mitglieder/christhard-richter/christhard-richter-werkfoto-1.jpg' alt='Christhard Richter Werkfoto 1'>",
+      "<img src='/img/mitglieder/christhard-richter/christhard-richter-werkfoto-2.jpg' alt='Christhard Richter Werkfoto 2'>",
+      "<img src='/img/mitglieder/christhard-richter/christhard-richter-werkfoto-3.jpg' alt='Christhard Richter Werkfoto 3'>",
+      "<img src='/img/mitglieder/christhard-richter/christhard-richter-werkfoto-4.jpg' alt='Christhard Richter Werkfoto 4'>"
     ],
     "vita": [
       "1948 geboren in Radebeul",
@@ -420,9 +486,10 @@
     "thumbnail": true,
     "slug": "andreas-rudloff",
     "images": [
-      "<img src='/img/andreas-rudloff/andreas-rudloff.jpg' alt='Andreas Rudloff'>",
-      "<img src='/img/andreas-rudloff/andreas-tagtraum-eines-bockes.jpg' alt='Andreas Rudloff: Tagtraum eines Bockes'>",
-      "<img src='/img/andreas-rudloff/andreas-vor-dem-grossen-fressen-2.jpg' alt='Andreas Rudloff: Vor dem großen Fressen 2'>"
+      "<img src='/img/mitglieder/andreas-rudloff/andreas-rudloff-werkfoto-1.jpg' alt='Andreas Rudloff Werkfoto 1'>",
+      "<img src='/img/mitglieder/andreas-rudloff/andreas-rudloff-werkfoto-2.jpg' alt='Andreas Rudloff Werkfoto 2'>",
+      "<img src='/img/mitglieder/andreas-rudloff/andreas-rudloff-werkfoto-3.jpg' alt='Andreas Rudloff Werkfoto 3'>",
+      "<img src='/img/mitglieder/andreas-rudloff/andreas-rudloff-werkfoto-4.jpg' alt='Andreas Rudloff Werkfoto 4'>"
     ],
     "vita": [
       "am 02.04.1963 in Plauen geboren",
@@ -451,9 +518,9 @@
     "thumbnail": true,
     "slug": "anke-rudloff",
     "images": [
-      "<img src='/img/anke-rudloff/anke-rudloff.jpg' alt='Anke Rudloff'>",
-      "<img src='/img/anke-rudloff/anke-korsika-2.jpg' alt='Anke Rudloff: Korsika 2'>",
-      "<img src='/img/anke-rudloff/anke-taufglocke.jpg' alt='Anke Rudloff: Taufglocke'>"
+      "<img src='/img/mitglieder/anke-rudloff/anke-rudloff-werkfoto-1.jpg' alt='Anke Rudloff Werkfoto 1'>",
+      "<img src='/img/mitglieder/anke-rudloff/anke-rudloff-werkfoto-2.jpg' alt='Anke Rudloff Werkfoto 2'>",
+      "<img src='/img/mitglieder/anke-rudloff/anke-rudloff-werkfoto-3.jpg' alt='Anke Rudloff Werkfoto 3'>"
     ],
     "vita": [
       "am 26.10.1962 in Bad Elster geboren",
@@ -482,10 +549,10 @@
     "thumbnail": true,
     "slug": "christina-roeckl",
     "images": [
-      "<img src='/img/christina-roeckl/christina-roeckl-1.jpg' alt='Christina Röckl 1'>",
-      "<img src='/img/christina-roeckl/christina-roeckl-2.jpg' alt='Christina Röckl 2'>",
-      "<img src='/img/christina-roeckl/christina-roeckl-3.jpg' alt='Christina Röckl 3'>",
-      "<img src='/img/christina-roeckl/christina-roeckl-4.jpg' alt='Christina Röckl 4'>"
+      "<img src='/img/mitglieder/christina-roeckl/christina-roeckl-werkfoto-1.jpg' alt='Christina Röckl Werkfoto 1'>",
+      "<img src='/img/mitglieder/christina-roeckl/christina-roeckl-werkfoto-2.jpg' alt='Christina Röckl Werkfoto 2'>",
+      "<img src='/img/mitglieder/christina-roeckl/christina-roeckl-werkfoto-3.jpg' alt='Christina Röckl Werkfoto 3'>",
+      "<img src='/img/mitglieder/christina-roeckl/christina-roeckl-werkfoto-4.jpg' alt='Christina Röckl Werkfoto 4'>"
     ],
     "vita": null,
     "address": null,
@@ -506,14 +573,22 @@
     ]
   },
   {
+    "name": "Lothar Stauch",
+    "thumbnail": true,
+    "slug": "lothar-stauch",
+    "images": null,
+    "vita": null,
+    "address": null,
+    "contact": null
+  },
+  {
     "name": "Elke Wolf",
     "thumbnail": true,
     "slug": "elke-wolf",
     "images": [
-      "<img src='/img/elke-wolf/elke-wolf-1.jpg' alt='Elke Wolf 1'>",
-      "<img src='/img/elke-wolf/elke-wolf-2.jpg' alt='Elke Wolf 2'>",
-      "<img src='/img/elke-wolf/elke-wolf-3.jpg' alt='Elke Wolf 3'>",
-      "<img src='/img/elke-wolf/elke-wolf-4.jpg' alt='Elke Wolf 4'>"
+      "<img src='/img/mitglieder/elke-wolf/elke-wolf-werkfoto-1.jpg' alt='Elke Wolf Werkfoto 1'>",
+      "<img src='/img/mitglieder/elke-wolf/elke-wolf-werkfoto-2.jpg' alt='Elke Wolf Werkfoto 2'>",
+      "<img src='/img/mitglieder/elke-wolf/elke-wolf-werkfoto-3.jpg' alt='Elke Wolf Werkfoto 3'>"
     ],
     "vita": [
       "Elke Wolf arbeitet seit 1981 freischaffend im eigenen Atelier in Plauen.",
@@ -531,10 +606,10 @@
     "thumbnail": true,
     "slug": "frank-zaumzeil",
     "images": [
-      "<img src='/img/frank-zaumzeil/frank-zaumzeil-portrait.jpg' alt='Frank H. Zaumseil Portrait'>",
-      "<img src='/img/frank-zaumzeil/frank-zaumzeil-2.jpg' alt='Frank H. Zaumseil 2'>",
-      "<img src='/img/frank-zaumzeil/frank-zaumzeil-3.jpg' alt='Frank H. Zaumseil 3'>",
-      "<img src='/img/frank-zaumzeil/frank-zaumzeil-4.jpg' alt='Frank H. Zaumseil 4'>"
+      "<img src='/img/mitglieder/frank-zaumzeil/frank-zaumzeil-werkfoto-1.jpg' alt='Frank H. Zaumzeil Werkfoto 1'>",
+      "<img src='/img/mitglieder/frank-zaumzeil/frank-zaumzeil-werkfoto-2.jpg' alt='Frank H. Zaumzeil Werkfoto 2'>",
+      "<img src='/img/mitglieder/frank-zaumzeil/frank-zaumzeil-werkfoto-3.jpg' alt='Frank H. Zaumzeil Werkfoto 3'>",
+      "<img src='/img/mitglieder/frank-zaumzeil/frank-zaumzeil-werkfoto-4.jpg' alt='Frank H. Zaumzeil Werkfoto 4'>"
     ],
     "vita": [
       "1941 in Rotschau bei Reichenbach Vogtl. geboren",
@@ -559,32 +634,5 @@
       "Website: <a href='http://frank-h-zaumzeil.de'>frank-h-zaumzeil.de</a>",
       "Werkdatenbank: <a href='https://www.lbk-sachsen.de/werkdatenbank/person/zaumzeil-frank-h'>LBK Sachsen: Frank H. Zaumzeil</a>"
     ]
-  },
-  {
-    "name": "Lothar Stauch",
-    "thumbnail": true,
-    "slug": "lothar-stauch",
-    "images": [],
-    "vita": [],
-    "address": [],
-    "contact": []
-  },
-  {
-    "name": "Klaus Helbig",
-    "thumbnail": true,
-    "slug": "klaus-helbig",
-    "images": [],
-    "vita": [],
-    "address": [],
-    "contact": []
-  },
-  {
-    "name": "Karin Helbig",
-    "thumbnail": true,
-    "slug": "karin-helbig",
-    "images": [],
-    "vita": [],
-    "address": [],
-    "contact": []
   }
 ]

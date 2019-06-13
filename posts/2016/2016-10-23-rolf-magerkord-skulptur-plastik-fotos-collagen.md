@@ -7,6 +7,6 @@ date: 2016-10-23 16:00:00
 
 Ausstellungseröffnung am Freitag, den 11.11.16 um 18.00 Uhr in der Galerie des BBKV. Zusätzliche Öffnungszeiten am 12. und 13. November von 10-17 Uhr.
 
-![Rolf Magerkord 1](/img/rolf-magerkord/magerkord-1.jpg)
+![Rolf Magerkord 1](/img/rolf-magerkord-ausstellung/magerkord-1.jpg)
 
-![Rolf Magerkord 2](/img/rolf-magerkord/magerkord-2.jpg)
+![Rolf Magerkord 2](/img/rolf-magerkord-ausstellung/magerkord-2.jpg)

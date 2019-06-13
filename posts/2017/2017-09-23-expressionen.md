@@ -16,6 +16,6 @@ Fr 14­­–18 Uhr, Sa 13­–17 Uhr
 
 Am Samstag nach der Ausstellungseröffnung bleibt die Galerie geschlossen.
 
-![Frithjof Herrmann: Ausstellung](/img/frithjof-herrmann/frithjof-herrmann-ausstellung.jpg)
+![Frithjof Herrmann: Ausstellung](/img/expressionen-malerei-und-grafik/frithjof-herrmann-ausstellung.jpg)
 
-![Frithjof Herrmann: Ausstellung 2](/img/frithjof-herrmann/frithjof-herrmann-ausstellung-2.jpg)
+![Frithjof Herrmann: Ausstellung 2](/img/expressionen-malerei-und-grafik/frithjof-herrmann-ausstellung-2.jpg)
