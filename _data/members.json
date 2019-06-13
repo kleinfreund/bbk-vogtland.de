@@ -36,7 +36,7 @@
   },
   {
     "name": "Nicolas Felly",
-    "thumbnail": false,
+    "thumbnail": true,
     "slug": "nicolas-felly",
     "images": null,
     "vita": null,
@@ -496,7 +496,7 @@
   },
   {
     "name": "Karen Schramke",
-    "thumbnail": false,
+    "thumbnail": true,
     "slug": "karen-schramke",
     "images": null,
     "vita": null,
@@ -559,5 +559,32 @@
       "Website: <a href='http://frank-h-zaumzeil.de'>frank-h-zaumzeil.de</a>",
       "Werkdatenbank: <a href='https://www.lbk-sachsen.de/werkdatenbank/person/zaumzeil-frank-h'>LBK Sachsen: Frank H. Zaumzeil</a>"
     ]
+  },
+  {
+    "name": "Lothar Stauch",
+    "thumbnail": true,
+    "slug": "lothar-stauch",
+    "images": [],
+    "vita": [],
+    "address": [],
+    "contact": []
+  },
+  {
+    "name": "Klaus Helbig",
+    "thumbnail": true,
+    "slug": "klaus-helbig",
+    "images": [],
+    "vita": [],
+    "address": [],
+    "contact": []
+  },
+  {
+    "name": "Karin Helbig",
+    "thumbnail": true,
+    "slug": "karin-helbig",
+    "images": [],
+    "vita": [],
+    "address": [],
+    "contact": []
   }
 ]
