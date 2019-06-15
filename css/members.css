@@ -50,9 +50,9 @@ details summary::-webkit-details-marker {
 
 .member-card__images {
   display: flex;
-  margin-bottom: 0.75rem;
+  margin-bottom: 1.5rem;
 }
 
 .member-card__images > img:not(:first-child) {
-  margin-left: 0.75rem;
+  margin-left: 1.5rem;
 }
