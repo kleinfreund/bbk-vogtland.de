@@ -576,7 +576,11 @@
     "name": "Lothar Stauch",
     "thumbnail": true,
     "slug": "lothar-stauch",
-    "images": null,
+    "images": [
+      "<img src='/img/mitglieder/lothar-stauch/lothar-stauch-werkfoto-1.jpg' alt='Lothar Stauch Werkfoto 1'>",
+      "<img src='/img/mitglieder/lothar-stauch/lothar-stauch-werkfoto-2.jpg' alt='Lothar Stauch Werkfoto 2'>",
+      "<img src='/img/mitglieder/lothar-stauch/lothar-stauch-werkfoto-3.jpg' alt='Lothar Stauch Werkfoto 3'>"
+    ],
     "vita": null,
     "address": null,
     "contact": null
