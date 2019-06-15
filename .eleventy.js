@@ -15,7 +15,6 @@ module.exports = function (eleventyConfig) {
     .addPassthroughCopy('static')
     .addPassthroughCopy('img')
     .addPassthroughCopy('css')
-    .addPassthroughCopy('js')
     .addPassthroughCopy('.htaccess');
 
   // Defines shortcode for generating post excerpts
