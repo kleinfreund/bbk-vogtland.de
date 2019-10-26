@@ -566,8 +566,13 @@
     "slug": "karen-schramke",
     "images": null,
     "vita": null,
-    "address": null,
+    "address": [
+      "Kissingenstraße 37",
+      "13189 Berlin"
+    ],
     "contact": [
+      "Telefon: 0176 21210420",
+      "E-Mail: <a href='mailto:k.schramke@schramke-design.de'>k.schramke@schramke-design.de</a>",
       "Website: <a href='http://schramke-design.de'>schramke-design.de</a>"
     ]
   },
