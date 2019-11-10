@@ -22,3 +22,9 @@ Tag für Tag begegnet man ihm im Raum Plauen, ob mit dem Auto, Straßenbahn, be
 ![](/img/hannes-schulze-die-kunst-eines-lebens/hannes-schulze-die-kunst-eines-lebens-2.jpg)
 
 ![](/img/hannes-schulze-die-kunst-eines-lebens/hannes-schulze-die-kunst-eines-lebens-3.jpg)
+
+![](/img/hannes-schulze-die-kunst-eines-lebens/hannes-schulze-die-kunst-eines-lebens-4.jpg)
+
+![](/img/hannes-schulze-die-kunst-eines-lebens/hannes-schulze-die-kunst-eines-lebens-5.jpg)
+
+![](/img/hannes-schulze-die-kunst-eines-lebens/hannes-schulze-die-kunst-eines-lebens-6.jpg)
