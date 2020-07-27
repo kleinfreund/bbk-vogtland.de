@@ -23,11 +23,7 @@
       "2000 Geburt von Sohn Josua",
       "seit 2014 Mitglied im Bund Bildender Künstler Vogtland e.V."
     ],
-    "address": [
-      "Reiner Bittner",
-      "Gasse 2",
-      "08233 Pfaffengrün"
-    ],
+    "address": ["Reiner Bittner", "Gasse 2", "08233 Pfaffengrün"],
     "contact": [
       "Telefon: 037468 7428",
       "E-Mail: <a href='mailto:bittners-art@gmx.de'>bittners-art@gmx.de</a>"
@@ -44,9 +40,7 @@
     ],
     "vita": null,
     "address": null,
-    "contact": [
-      "Website: <a href='http://fellyatelier.de'>fellyatelier.de</a>"
-    ]
+    "contact": ["Website: <a href='http://fellyatelier.de'>fellyatelier.de</a>"]
   },
   {
     "name": "Michael Franke",
@@ -69,11 +63,7 @@
       "1999–2004 Ortsvorsteher von Schönberg am Kapellenberg",
       "seit 2005 Mitglied im Kunstverein Plauen-Vogtland e.V."
     ],
-    "address": [
-      "Michael Franke",
-      "Säuerlingsweg 8",
-      "08648 Schönberg"
-    ],
+    "address": ["Michael Franke", "Säuerlingsweg 8", "08648 Schönberg"],
     "contact": [
       "Telefon: 037438 20713",
       "E-Mail: <a href='mailto:mf@michael-franke-design.de'>mf@michael-franke-design.de</a>",
@@ -111,11 +101,7 @@
       "September 2003 Umzug in neue Räume in Plauen",
       "derzeitige Tätigkeit: Goldschmiedemeisterin und Schmuckgestalterin"
     ],
-    "address": [
-      "Bianca Hallebach-Krauße",
-      "Altmarkt 7",
-      "08523 Plauen"
-    ],
+    "address": ["Bianca Hallebach-Krauße", "Altmarkt 7", "08523 Plauen"],
     "contact": [
       "Telefon: 03741 147070",
       "Telefax: 03741 147071",
@@ -141,11 +127,7 @@
       "seit 1994 selbständig und freiberuflich tätig in eigenem Werkatelier in Plauen,",
       "seit 1997 im Wasserschloss Klaffenbach (Chemnitz)"
     ],
-    "address": [
-      "Mathias Heck",
-      "Wasserschlossweg 6",
-      "09123 Chemnitz"
-    ],
+    "address": ["Mathias Heck", "Wasserschlossweg 6", "09123 Chemnitz"],
     "contact": [
       "Telefon: 0371 2605949",
       "E-Mail: <a href='mailto:info@silberschmiede.com'>info@silberschmiede.com</a>",
@@ -179,35 +161,6 @@
     "contact": []
   },
   {
-    "name": "Frithjof Herrmann",
-    "thumbnail": true,
-    "slug": "frithjof-herrmann",
-    "images": [
-      "<img src='/img/mitglieder/frithjof-herrmann/frithjof-herrmann-werkfoto-1.jpg' alt='Frithjof Herrmannn Werkfoto 1'>",
-      "<img src='/img/mitglieder/frithjof-herrmann/frithjof-herrmann-werkfoto-2.jpg' alt='Frithjof Herrmannn Werkfoto 2'>",
-      "<img src='/img/mitglieder/frithjof-herrmann/frithjof-herrmann-werkfoto-3.jpg' alt='Frithjof Herrmannn Werkfoto 3'>"
-    ],
-    "vita": [
-      "Lehrerstudium an der Technischen Hochschule Karl­-Marx­-Stadt.",
-      "Abendstudium an der Hochschule für Bildende Künste Dresden.",
-      "Mitbegründer und dreizehn Jahre Leiter der „Kleinen Galerie – Meerane“.",
-      "Tätigkeit als Lehrer und ab 1990 Kunsterzieher (mit Grund­- und Leistungskursen) am Georgius­-Agricola-­Gymnasium in Glauchau.",
-      "1996 Aufnahme in den Bundesverband Bildender Künstler.",
-      "Seit 2000 freiberuflich in eigener Werkstatt in Niederwiera tätig (Malerei)",
-      "Grafik und keramische Kleinplastik – Dozent Volkshochschule Chemnitz."
-    ],
-    "address": [
-      "Frithjof Herrmann",
-      "Siedlerweg 46",
-      "08371 Glauchau"
-    ],
-    "contact": [
-      "Telefon: 0170 8893923",
-      "E-Mail: <a href='mailto:Frithjof.Herrmann@t-online.de'>Frithjof.Herrmann@t-online.de</a>",
-      "Website: <a href='http://frithjofherrmann.de'>frithjofherrmann.de</a>"
-    ]
-  },
-  {
     "name": "Bernd Hieke",
     "thumbnail": true,
     "slug": "bernd-hieke",
@@ -225,11 +178,7 @@
       "Ausstellungen im In- und Ausland, u.a. 2002 im Bundeskanzleramt",
       "Meine Welt ist mein Auftraggeber. Leider kommen bei der jüngeren Neuaufteilung dieser Welt unsere Mitgeschöpfe nicht so glücklich weg. Dies ist mein Thema - nicht immer glücklich."
     ],
-    "address": [
-      "Bernd Hieke",
-      "Moschwitzer Str. 3",
-      "07985 Elsterberg"
-    ],
+    "address": ["Bernd Hieke", "Moschwitzer Str. 3", "07985 Elsterberg"],
     "contact": [
       "Telefon: 036621 8574",
       "E-Mail: <a href='mailto:bernd_hieke@hotmail.com'>bernd_hieke@hotmail.com</a>"
@@ -290,11 +239,7 @@
       "Mitglied der Museum Store Association Philadelphia",
       "Mitglied im Bund Bildender Künstler Vogtland"
     ],
-    "address": [
-      "Stefanie Kölbel",
-      "Rosenweg 3",
-      "08485 Lengenfeld"
-    ],
+    "address": ["Stefanie Kölbel", "Rosenweg 3", "08485 Lengenfeld"],
     "contact": [
       "E-Mail: <a href='mailto:spitzenstuecke@gmx.de'>spitzenstuecke@gmx.de</a>",
       "Website: <a href='http://spitzenstuecke.de'>spitzenstuecke.de</a>"
@@ -319,11 +264,7 @@
       "seit 1990 im Schuldienst an Plauener Schulen tätig",
       "bereits vor und während des Studiums intensive Beschäftigung mit Druckgrafik und Fotografie"
     ],
-    "address": [
-      "Ralph Kunzmann",
-      "Am Zanglerhübel 11",
-      "08527 Plauen"
-    ],
+    "address": ["Ralph Kunzmann", "Am Zanglerhübel 11", "08527 Plauen"],
     "contact": [
       "Telefon: 03741 133376",
       "E-Mail: <a href='mailto:r.k@ralle-art.de'>r.k@ralle-art.de</a>",
@@ -352,11 +293,7 @@
       "2004–2008 Vorstandsmitglied im Chemnitzer Künstlerbund",
       "2009 Gründungs- und Vorstandsmitglied im Bund Bildener Künstler Vogtland e.V."
     ],
-    "address": [
-      "Andreas J. Leonhardt",
-      "Bärenstraße 4",
-      "08523 Plauen"
-    ],
+    "address": ["Andreas J. Leonhardt", "Bärenstraße 4", "08523 Plauen"],
     "contact": [
       "Telefon: 03741 222568",
       "E-Mail: <a href='mailto:leonhardtplauen@yahoo.de'>leonhardtplauen@yahoo.de</a>",
@@ -378,11 +315,7 @@
       "1984–1985 Tätigkeit in der Glas- und Porzellanindustrie",
       "1985–1991 Studium an der HS für Kunst und Design 'Burg Giebichenstein' in Halle"
     ],
-    "address": [
-      "Michaela List",
-      "Wiesenstraße 25",
-      "08134 Wildenfels"
-    ],
+    "address": ["Michaela List", "Wiesenstraße 25", "08134 Wildenfels"],
     "contact": [
       "Telefon: 037603 8133",
       "E-Mail: <a href='mailto:milist@freenet.de'>milist@freenet.de</a>"
@@ -403,11 +336,7 @@
       "1981–1986: Studium an der Kunsthochschule Halle, Burg Giebichenstein",
       "seit 1986: freischaffender Künstler, Mitglied im Sächsischen Künstlerbund"
     ],
-    "address": [
-      "Peter Luban",
-      "Hauptstraße 3",
-      "08527 Rößnitz"
-    ],
+    "address": ["Peter Luban", "Hauptstraße 3", "08527 Rößnitz"],
     "contact": [
       "Telefon: 037431 3489",
       "E-Mail: <a href='mailto:peter.luban@web.de'>peter.luban@web.de</a>",
@@ -431,11 +360,7 @@
       "1999 Eröffnung des Ateliers und der Malschule im Lotterhof, Augustusburg",
       "seit 2000 Initiator verschiedener Projekte zum Thema Klang und Farbe<br>Leiter von Seminaren und Workshops"
     ],
-    "address": [
-      "Karsten Mittag",
-      "Kirchplatz 2",
-      "09573 Augustusburg"
-    ],
+    "address": ["Karsten Mittag", "Kirchplatz 2", "09573 Augustusburg"],
     "contact": [
       "Telefon: 037291 67960",
       "E-Mail: <a href='mailto:post@lotterhof.de'>post@lotterhof.de</a>",
@@ -470,11 +395,7 @@
       "2007–Juni Aufenthalt in Ficulle (Italien), Arbeit im Skulpturenpark La Casella",
       "2008 Teilnahme Künstlerwettbewerb 'Weg der Stühle' in Rabenau anlässlich des 1. Stuhlbauertages"
     ],
-    "address": [
-      "Christhard Richter",
-      "Eschenbacher Straße 2",
-      "08261 Gunzen"
-    ],
+    "address": ["Christhard Richter", "Eschenbacher Straße 2", "08261 Gunzen"],
     "contact": [
       "E-Mail: <a href='mailto:richter-holzart@web.de'>richter-holzart@web.de</a>",
       "Website: <a href='http://holzart-richter.squarespace.com'>holzart-richter.squarespace.com</a>"
@@ -501,11 +422,7 @@
       "Mitglied Bund Bildender Künstler Vogtland e.V.",
       "Mitglied Bundesverband Bildender Künstlerinnen und Künstler"
     ],
-    "address": [
-      "Andreas Rudloff",
-      "Markt 32",
-      "08626 Adorf"
-    ],
+    "address": ["Andreas Rudloff", "Markt 32", "08626 Adorf"],
     "contact": [
       "Telefon: 037423 2036",
       "E-Mail: <a href='mailto:andreasrudloff@fastmail.de'>andreasrudloff@fastmail.de</a>",
@@ -532,11 +449,7 @@
       "Mitglied Bund Bildender Künstler Vogtland e.V.",
       "Mitglied Bundesverband Bildender Künstlerinnen und Künstler"
     ],
-    "address": [
-      "Anke Rudloff",
-      "Markt 32",
-      "08626 Adorf"
-    ],
+    "address": ["Anke Rudloff", "Markt 32", "08626 Adorf"],
     "contact": [
       "Telefon: 037423 2036",
       "E-Mail: <a href='mailto:ank.rudloff@gmail.com'>ank.rudloff@gmail.com</a>",
@@ -566,10 +479,7 @@
     "slug": "karen-schramke",
     "images": null,
     "vita": null,
-    "address": [
-      "Kissingenstraße 37",
-      "13189 Berlin"
-    ],
+    "address": ["Kissingenstraße 37", "13189 Berlin"],
     "contact": [
       "Telefon: 0176 21210420",
       "E-Mail: <a href='mailto:k.schramke@schramke-design.de'>k.schramke@schramke-design.de</a>",
@@ -630,11 +540,7 @@
       "2008 Gründungsmitglied Bund Bildender Künstler Vogtland e.V.",
       "Mitglied: BBKV / SKB / BBK"
     ],
-    "address": [
-      "Frank H. Zaumzeil",
-      "Schulstraße 7",
-      "07985 Elsterberg"
-    ],
+    "address": ["Frank H. Zaumzeil", "Schulstraße 7", "07985 Elsterberg"],
     "contact": [
       "Telefon: 036621 22297",
       "E-Mail: <a href='mailto:mail@frank-h-zaumzeil.de'>mail@frank-h-zaumzeil.de</a>",
