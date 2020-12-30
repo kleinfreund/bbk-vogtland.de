@@ -14,7 +14,7 @@ details summary::-webkit-details-marker {
   display: flex;
   align-items: center;
   cursor: pointer;
-  color: #333;
+  color: currentColor;
   font-weight: bold;
 }
 
@@ -31,7 +31,7 @@ details summary::-webkit-details-marker {
 .member-card__thumbnail {
   width: 100px;
   margin-right: 1.5rem;
-  background-color: #af1d1f;
+  background-color: var(--accent-color);
 }
 
 .member-card__title {

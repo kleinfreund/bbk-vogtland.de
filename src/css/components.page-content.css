@@ -2,6 +2,12 @@
   display: flex;
 }
 
+@media (max-width: 1999.98px) {
+  .container {
+    flex-direction: column;
+  }
+}
+
 .page-content {
   flex: 1;
   margin-top: 6rem;
@@ -13,7 +19,7 @@
 }
 
 .post img {
-  box-shadow: 3px 3px 3px rgba(0,0,0,0.4);
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
 }
 
 .post__title > a {

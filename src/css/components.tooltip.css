@@ -19,8 +19,8 @@
   top: -19px;
   right: 56px;
   font-size: 13px;
-  color: #fefefe;
-  background-color: #333;
+  color: var(--background-color);
+  background-color: var(--text-color);
   border-radius: 4px;
 
   visibility: hidden;

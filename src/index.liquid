@@ -24,15 +24,15 @@ pagination:
 {% if pagination.pageLinks.length > 1 %}
   <nav class="pagination">
     {% if pagination.previousPageLink %}
-      <a href="{{ pagination.previousPageLink | remove: 'index.html' }}" rel="prev">Neuere</a>
+      <a class="pagination__item" href="{{ pagination.previousPageLink | remove: 'index.html' }}" rel="prev">Neuere</a>
     {% else %}
-      <span>Neuere</span>
+      <span class="pagination__item">Neuere</span>
     {% endif %}
 
     {% if pagination.nextPageLink %}
-      <a href="{{ pagination.nextPageLink | remove: 'index.html' }}" rel="next">Ältere</a>
+      <a class="pagination__item" href="{{ pagination.nextPageLink | remove: 'index.html' }}" rel="next">Ältere</a>
     {% else %}
-      <span>Ältere</span>
+      <span class="pagination__item">Ältere</span>
     {% endif %}
   </nav>
 {% endif %}

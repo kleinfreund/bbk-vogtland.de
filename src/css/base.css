@@ -1,57 +1,48 @@
-/**
- * IE6 was right!
- */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
-
-
-
-/**
- * Reset some basic elements
- */
-body,
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-dl, dd, ol, ul, hr,
-figure {
-  margin: 0;
-  padding: 0;
+html, body {
+  height: 100%;
 }
 
+body {
+  overflow-y: scroll;
+  margin: 0;
+  font-style: normal;
+  font-size: 1em;
+  line-height: 1.5;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
 
+main {
+  display: block;
+}
 
-/**
- * Set `margin-bottom` to maintain vertycal rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl,
-figure {
+a {
+  color: currentColor;
+}
+
+a:hover,
+a:active,
+a:focus {
+  color: var(--accent-color);
+}
+
+h1, h2, h3, h4, h5, h6, strong, dt {
+  font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, dl {
+  margin-top: 0;
   margin-bottom: 1.5rem;
 }
 
-
-
-/**
- * Wrapper
- */
-.wrapper {
-  max-width: 680px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-
-
-/**
- * Images
- */
 img {
-  /* Emphasis on `alt` text */
   font-style: italic;
   max-width: 100%;
 }
@@ -61,28 +52,6 @@ svg {
   vertical-align: middle;
 }
 
-
-
-/**
- * Figures
- */
-figure > img {
-  display: block;
-}
-
-figcaption {
-  font-size: 0.9em;
-}
-
-figcaption > a {
-  font-weight: 300;
-}
-
-
-
-/**
- * Quotations
- */
 q {
   font-style: italic;
 }
@@ -92,25 +61,4 @@ blockquote {
   margin-left: 0.75rem;
   font-size: larger;
   font-style: italic;
-}
-
-.quote__body > :first-child:before {
-  content: '\201E';
-}
-
-.quote__body > :last-child:after {
-  content: '\201C';
-}
-
-.quote__body > :last-child {
-  margin-bottom: 0;
-}
-
-.quote__source {
-  display: block;
-  font-style: normal;
-}
-
-.quote__source::before {
-  content: '\2014';
 }

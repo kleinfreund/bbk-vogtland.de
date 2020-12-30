@@ -6,7 +6,7 @@
 
 .site-nav {
   padding: 0.75rem;
-  background-color: #333;
+  background-color: var(--text-color);
   font-size: 20px;
   text-transform: uppercase;
   font-weight: 700;
@@ -15,7 +15,7 @@
 @media only screen and (min-width:1200px) {
   .site-nav {
     margin-top: 1.5rem;
-    background-color: #fefefe;
+    background-color: var(--background-color);
     text-align: right;
   }
 }
@@ -56,19 +56,19 @@
 @media only screen and (min-width:1200px) {
   .site-nav__item {
     padding: 0.5rem 0;
-    color: #333;
+    color: var(--text-color);
   }
 }
 
 .site-nav__item:hover,
 .site-nav__item:focus {
-  color: #fefefe;
+  color: var(--background-color);
 }
 
 @media only screen and (min-width:1200px) {
   .site-nav__item:hover,
   .site-nav__item:focus {
-    color: #333;
+    color: var(--text-color);
   }
 }
 
@@ -93,12 +93,12 @@
 @media only screen and (min-width:1200px) {
   .site-nav__item:hover::after,
   .site-nav__item:focus::after {
-    background-color: #333;
+    background-color: var(--text-color);
   }
 }
 
 .site-nav__item--current::after {
-  background-color: #af1d1f;
+  background-color: var(--accent-color);
 }
 
 .mobile-nav-toggle {
