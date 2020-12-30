@@ -7,11 +7,3 @@ Stillleben und Landschaften sind die Signale seiner kreativen Vitalfunktionen, d
 Einladung zur Ausstellungseröffnung am Freitag, den 10. Februar 2017 um 18 Uhr in der Galerie Bund Bildender Künstler Vogtland e.V..
 
 Zur Finissage am 31. März um 19 Uhr findet eine Lesung von satirisch-fantastischen Texten aus „Herrn Stuppenkötters Gedankenritte“ statt, Reflektionen zu Stephan Klenner-Ottos Alter Ego.
-
-![Stephan Klenner-Otto: Porträt](/img/stephan-klenner-otto/stephan-klenner-otto-portrait.jpg)
-
-![Stephan Klenner-Otto: Ausstellungseröffnung 1](/img/stephan-klenner-otto/stephan-klenner-otto-1.jpg)
-
-![Stephan Klenner-Otto: Ausstellungseröffnung 2](/img/stephan-klenner-otto/stephan-klenner-otto-2.jpg)
-
-![Stephan Klenner-Otto: Ausstellungseröffnung 3](/img/stephan-klenner-otto/stephan-klenner-otto-3.jpg)
