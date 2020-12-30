@@ -21,7 +21,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode('excerpt', post => extractExcerpt(post));
 
   // Compresses output HTML
-  if (process.env.ELEVENTY_ENV === 'production') {
+  if (process.env.NODE_ENV === 'production') {
     eleventyConfig.addTransform('minify_html', minifyHtml);
   }
 
