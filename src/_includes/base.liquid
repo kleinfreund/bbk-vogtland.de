@@ -10,10 +10,15 @@
 
   <meta name="description" content="{% if description %}{{ description }}{% else %}{{ metadata.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ '/css/bbkv.css' | url }}">
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700">
+  {% if eleventy.isProduction %}
+    <style>
+      {{ 'css/bbkv.css' | resolve_css_imports | minify_css }}
+    </style>
+  {% else %}
+    <link rel="stylesheet" href="{{ '/css/bbkv.css' | url }}">
+  {% endif %}
 
-  <link rel="icon" href="{{ '/img/icon.png' | url }}">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700">
 </head>
 <body>
 
@@ -28,9 +33,9 @@
       <nav>
         <ul class="nav  site-nav  site-nav--desk">
           {% for link in metadata.links %}
-          <li>
-            <a href="{{ link.url }}" class="site-nav__item{% if link.title == page.title %}  site-nav__item--current{% endif %}">{{ link.title }}</a>
-          </li>
+            <li>
+              <a href="{{ link.url }}" class="site-nav__item{% if link.title == page.title %}  site-nav__item--current{% endif %}">{{ link.title }}</a>
+            </li>
           {% endfor %}
         </ul>
       </nav>
@@ -52,15 +57,11 @@
   <nav>
     <ul class="nav  site-nav  site-nav--mobile" id="mn">
       {% for link in metadata.links %}
-      <li>
-        <a href="{{ link.url }}" class="site-nav__item{% if link.title == page.title %}  site-nav__item--current{% endif %}">{{ link.title }}</a>
-      </li>
+        <li>
+          <a href="{{ link.url }}" class="site-nav__item{% if link.title == page.title %}  site-nav__item--current{% endif %}">{{ link.title }}</a>
+        </li>
       {% endfor %}
     </ul>
   </nav>
-
-  {% for js_path in js %}
-    <script src="{{ '/js/' | url }}{{ js_path }}"></script>
-  {% endfor %}
 </body>
 </html>

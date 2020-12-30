@@ -1,0 +1,38 @@
+---
+layout: _includes/base.liquid
+css:
+- components.pagination.css
+pagination:
+  data: collections.posts
+  size: 5
+  reverse: true
+---
+<div class="post-list">
+  {%- for post in pagination.items -%}
+    <article class="post">
+
+      <h2>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+      </h2>
+
+      {% excerpt post %}
+
+    </article>
+  {%- endfor -%}
+</div>
+
+{% if pagination.pageLinks.length > 1 %}
+  <nav class="pagination">
+    {% if pagination.previousPageLink %}
+      <a href="{{ pagination.previousPageLink | remove: 'index.html' }}" rel="prev">Neuere</a>
+    {% else %}
+      <span>Neuere</span>
+    {% endif %}
+
+    {% if pagination.nextPageLink %}
+      <a href="{{ pagination.nextPageLink | remove: 'index.html' }}" rel="next">Ältere</a>
+    {% else %}
+      <span>Ältere</span>
+    {% endif %}
+  </nav>
+{% endif %}
