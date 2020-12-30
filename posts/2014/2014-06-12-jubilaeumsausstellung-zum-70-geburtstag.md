@@ -1,5 +1,5 @@
 ---
-title: Jubiläumsausstellung zum 70. Geburtstag
+title: "Jubiläumsausstellung zum 70. Geburtstag"
 ---
 ![Jubiläumsausstellung zum 70. Geburtstag von Elke Wolf – Einladung](/img/elke-wolf-jubilaeumsausstellung/elke-wolf-jubilaeumsausstellung-einladung.jpg)
 

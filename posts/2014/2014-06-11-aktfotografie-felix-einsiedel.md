@@ -1,5 +1,5 @@
 ---
-title: Aktfotografie Felix Einsiedel
+title: "Aktfotografie Felix Einsiedel"
 ---
 ![Felix Einsiedel – Aktfotografie](/img/felix-einsiedel-aktfotografie/felix-einsiedel-aktfotografie-einladung.jpg)
 
