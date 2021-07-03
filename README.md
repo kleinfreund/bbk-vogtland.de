@@ -1,9 +1,21 @@
 # bbk-vogtland.de
 
-## To do
+## Image processing
 
-- Document image scaling and optimization
+**Convert .tiff images to .jpg**:
 
-  ```sh
-  mogrify -resize 1000 *.jpg
-  ```
+```sh
+convert *.tiff -set filename: "%t" %[filename:].jpg
+```
+
+**Resize images**:
+
+```sh
+mogrify -resize 1000x1500 *.jpg
+```
+
+**Compress images**:
+
+```sh
+mogrify -strip -interlace Plane -quality 75% *.jpg
+```
