@@ -110,8 +110,5 @@ function extractExcerpt(doc) {
     return content.substring(0, content.indexOf(excerptSeparator)).trim()
   }
 
-  const pCloseTag = '</p>'
-  return content.includes(pCloseTag)
-    ? content.substring(0, content.indexOf(pCloseTag) + pCloseTag.length)
-    : content
+  return content
 }
