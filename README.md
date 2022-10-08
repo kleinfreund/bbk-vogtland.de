@@ -11,7 +11,7 @@ convert *.tiff -set filename: "%t" %[filename:].jpg
 **Resize images**:
 
 ```sh
-mogrify -resize 1000x1500 *.jpg
+mogrify -auto-orient -resize 1000x1500 *.jpg
 ```
 
 **Compress images**:
