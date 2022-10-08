@@ -1,36 +1,35 @@
-const path = require('path');
-const fs = require('fs');
-
-const CleanCSS = require('clean-css');
-const htmlMinifier = require('html-minifier');
+const CleanCSS = require('clean-css')
+const fs = require('fs')
+const htmlMinifier = require('html-minifier')
+const path = require('path')
 
 // https://github.com/kangax/html-minifier#options-quick-reference
 const htmlMinifierOptions = {
   useShortDoctype: true,
   removeComments: true,
   collapseWhitespace: true
-};
+}
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.setDataDeepMerge(true);
+  eleventyConfig.setDataDeepMerge(true)
 
   // Copies static files as they are to the output directory
   eleventyConfig
     .addPassthroughCopy('src/static')
     .addPassthroughCopy('src/img')
     .addPassthroughCopy('src/css')
-    .addPassthroughCopy('src/.htaccess');
+    .addPassthroughCopy('src/.htaccess')
 
   // Filter for compressing CSS/JS
-  eleventyConfig.addFilter('resolve_css_imports', resolveCssImports);
-  eleventyConfig.addFilter('minify_css', minifyCss);
+  eleventyConfig.addFilter('resolve_css_imports', resolveCssImports)
+  eleventyConfig.addFilter('minify_css', minifyCss)
 
   // Defines shortcode for generating post excerpts
-  eleventyConfig.addShortcode('excerpt', post => extractExcerpt(post));
+  eleventyConfig.addShortcode('excerpt', (post) => extractExcerpt(post))
 
   // Compresses output HTML
   if (process.env.NODE_ENV === 'production') {
-    eleventyConfig.addTransform('minify_html', minifyHtml);
+    eleventyConfig.addTransform('minify_html', minifyHtml)
   }
 
   return {
@@ -41,26 +40,20 @@ module.exports = function (eleventyConfig) {
       includes: ''
     },
     templateFormats: ['md', 'liquid', 'html']
-  };
-};
+  }
+}
 
 /**
- * @param {string} mainCssPath
- * @returns {string}
+ * @param {string} cssPath
+ * @returns {string} the concatenated contents of the CSS files found by resolving `@import` rules in the CSS file at `cssPath`.
  */
-function resolveCssImports(mainCssPath) {
-  const mainCssContent = fs.readFileSync(path.join('src', mainCssPath), 'utf8');
-  const importRules = mainCssContent.split('\n').filter(line => line.startsWith('@import'));
-  const importPaths = importRules.map(importRule => {
-    return path.join('src', importRule.replace('@import \'', '').replace('\';', ''));
-  });
-
-  let concatenatedCssContent = '';
-  for (const importPath of importPaths) {
-    concatenatedCssContent += fs.readFileSync(importPath, 'utf8');
-  }
-
-  return concatenatedCssContent;
+function resolveCssImports(cssPath) {
+  return fs.readFileSync(path.resolve(__dirname, path.join('src', cssPath)), 'utf8')
+    .split(/\r?\n/)
+    .filter((line) => line.startsWith('@import'))
+    .map((rule) => rule.replace(/@import ['"]/, '').replace(/['"];/, ''))
+    .map((importPath) => fs.readFileSync(path.resolve(__dirname, path.join('src', importPath)), 'utf8'))
+    .join('')
 }
 
 /**
@@ -70,51 +63,55 @@ function resolveCssImports(mainCssPath) {
  * @returns {string} the minified CSS content
  */
 function minifyCss(concatenatedCssContent) {
-  const minifyResult = new CleanCSS().minify(concatenatedCssContent);
+  const minifyResult = new CleanCSS().minify(concatenatedCssContent)
 
   if (minifyResult.errors.length > 0) {
-    console.error('❌ Could not minify CSS.');
-    minifyResult.errors.forEach(error => { console.error('❌', error) });
+    console.error('❌ Could not minify CSS.')
 
-    return concatenatedCssContent;
+    for (const error of minifyResult.errors) {
+      console.error('❌', error)
+    }
+
+    return concatenatedCssContent
   }
 
-  return minifyResult.styles;
+  return minifyResult.styles
 }
 
 /**
  * Minifies HTML content.
  *
- * @param {String} content
- * @param {String} outputPath
- * @returns {String} the minified HTML content
+ * @param {string} content
+ * @param {string} outputPath
+ * @returns {string} the minified HTML content
  */
 function minifyHtml(content, outputPath) {
-  if (outputPath.endsWith('.html')) {
-    return htmlMinifier.minify(content, htmlMinifierOptions);
-  }
-
-  return content;
+  return outputPath.endsWith('.html')
+    ? htmlMinifier.minify(content, htmlMinifierOptions)
+    : content
 }
 
 /**
  * Extracts the excerpt from a document.
  *
- * @param {*} doc A real big object full of all sorts of information about a document.
- * @returns {String} the excerpt.
+ * @param {any} doc A real big object full of all sorts of information about a document.
+ * @returns {string} the excerpt.
  */
 function extractExcerpt(doc) {
   if (!doc.hasOwnProperty('templateContent')) {
-    console.warn('❌ Failed to extract excerpt: Document has no property `templateContent`.');
-    return;
+    console.warn('❌ Failed to extract excerpt: Document has no property `templateContent`.')
+    return ''
   }
 
-  const excerptSeparator = '<!--more-->';
-  const content = doc.templateContent;
+  const excerptSeparator = '<!--more-->'
+  const content = doc.templateContent
 
   if (content.includes(excerptSeparator)) {
-    return content.substring(0, content.indexOf(excerptSeparator)).trim();
+    return content.substring(0, content.indexOf(excerptSeparator)).trim()
   }
 
-  return content;
+  const pCloseTag = '</p>'
+  return content.includes(pCloseTag)
+    ? content.substring(0, content.indexOf(pCloseTag) + pCloseTag.length)
+    : content
 }
