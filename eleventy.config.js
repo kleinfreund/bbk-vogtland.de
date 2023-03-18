@@ -3,7 +3,11 @@ const fs = require('fs')
 const htmlMinifier = require('html-minifier')
 const path = require('path')
 
-// https://github.com/kangax/html-minifier#options-quick-reference
+/**
+ * https://github.com/kangax/html-minifier#options-quick-reference
+ *
+ * @type {import('html-minifier').Options}
+ */
 const htmlMinifierOptions = {
 	useShortDoctype: true,
 	removeComments: true,
