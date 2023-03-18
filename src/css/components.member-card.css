@@ -1,58 +1,59 @@
-details > summary:first-of-type {
-  list-style-type: none;
+details>summary:first-of-type {
+	list-style-type: none;
 }
 
 details summary::-webkit-details-marker {
-  display: none;
+	display: none;
 }
 
 .member-card {
-  padding: 0.75rem;
+	padding: 0.75rem;
 }
 
 .member-card__toggle {
-  display: flex;
-  align-items: center;
-  cursor: pointer;
-  color: currentColor;
-  font-weight: bold;
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+	color: currentColor;
+	font-weight: bold;
 }
 
 .member-card__toggle::after {
-  content: '\BB';
-  margin-left: 0.5rem;
+	content: '\BB';
+	margin-left: 0.5rem;
 }
 
 .member-card[open] .member-card__toggle::after {
-  transform: rotateZ(90deg);
+	transform: rotateZ(90deg);
 }
 
 .member-card__no-thumbnail,
 .member-card__thumbnail {
-  width: 100px;
-  margin-right: 1.5rem;
-  background-color: var(--accent-color);
+	width: 100px;
+	margin-right: 1.5rem;
+	background-color: var(--accent-color);
 }
 
 .member-card__title {
-  margin-bottom: 0;
-  font-size: 20px;
+	margin-bottom: 0;
+	font-size: 20px;
 }
 
 .member-card__content {
-  padding-top: 1.5rem;
-  margin-bottom: 3rem;;
+	padding-top: 1.5rem;
+	margin-bottom: 3rem;
+	;
 }
 
-.member-card__content > :last-child {
-  margin-bottom: 0;
+.member-card__content> :last-child {
+	margin-bottom: 0;
 }
 
 .member-card__images {
-  display: flex;
-  margin-bottom: 1.5rem;
+	display: flex;
+	margin-bottom: 1.5rem;
 }
 
-.member-card__images > img:not(:first-child) {
-  margin-left: 1.5rem;
+.member-card__images>img:not(:first-child) {
+	margin-left: 1.5rem;
 }

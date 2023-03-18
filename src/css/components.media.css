@@ -1,28 +1,28 @@
 .media {
-  display: flow-root;
-  margin-bottom: 1.5rem;
+	display: flow-root;
+	margin-bottom: 1.5rem;
 }
 
 .media__img {
-  float: left;
-  margin-right: 0.75rem;
+	float: left;
+	margin-right: 0.75rem;
 }
 
 .media__img--rev {
-  float: right;
-  margin-left: 0.75rem;
+	float: right;
+	margin-left: 0.75rem;
 }
 
 .media__img img,
 .media__img--rev img {
-  display: block;
+	display: block;
 }
 
 .media__body {
-  overflow: hidden;
+	overflow: hidden;
 }
 
 .media__body,
-.media__body > :last-child {
-  margin-bottom: 0;
+.media__body> :last-child {
+	margin-bottom: 0;
 }

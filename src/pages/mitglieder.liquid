@@ -14,7 +14,11 @@ title: Mitglieder
       <details class="member-card">
         <summary class="member-card__toggle">
           {% if member.thumbnail %}
-            <img src="/img/mitglieder/{{ member.slug }}/{{ member.slug }}-thumbnail.jpg" alt="{{ member.name }} Thumbnail" class="member-card__thumbnail">
+            <img
+              src="/img/mitglieder/{{ member.slug }}/{{ member.slug }}-thumbnail.jpg"
+              alt="{{ member.name }} Thumbnail"
+              class="member-card__thumbnail"
+            >
           {% else %}
             <span class="member-card__no-thumbnail" aria-hidden="true"></span>
           {% endif %}

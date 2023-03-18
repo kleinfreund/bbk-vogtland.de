@@ -1,20 +1,20 @@
-.quote__body > :first-child:before {
-  content: '\201E';
+.quote__body> :first-child:before {
+	content: '\201E';
 }
 
-.quote__body > :last-child:after {
-  content: '\201C';
+.quote__body> :last-child:after {
+	content: '\201C';
 }
 
-.quote__body > :last-child {
-  margin-bottom: 0;
+.quote__body> :last-child {
+	margin-bottom: 0;
 }
 
 .quote__source {
-  display: block;
-  font-style: normal;
+	display: block;
+	font-style: normal;
 }
 
 .quote__source::before {
-  content: '\2014';
+	content: '\2014';
 }

@@ -1,27 +1,27 @@
 {
-  "title": "Bund Bildender Künstler Vogtland e.V.",
-  "url": "https://bbk-vogtland.de",
-  "description": "Website des Bundes Bildender Künstler im Vogtland.",
-  "links": [
-    {
-      "title": "Galerie",
-      "url": "/"
-    },
-    {
-      "title": "Projekte",
-      "url": "/projekte/"
-    },
-    {
-      "title": "Mitglieder",
-      "url": "/mitglieder/"
-    },
-    {
-      "title": "Verein",
-      "url": "/verein/"
-    },
-    {
-      "title": "Impressum",
-      "url": "/impressum/"
-    }
-  ]
+	"title": "Bund Bildender Künstler Vogtland e.V.",
+	"url": "https://bbk-vogtland.de",
+	"description": "Website des Bundes Bildender Künstler im Vogtland.",
+	"links": [
+		{
+			"title": "Galerie",
+			"url": "/"
+		},
+		{
+			"title": "Projekte",
+			"url": "/projekte/"
+		},
+		{
+			"title": "Mitglieder",
+			"url": "/mitglieder/"
+		},
+		{
+			"title": "Verein",
+			"url": "/verein/"
+		},
+		{
+			"title": "Impressum",
+			"url": "/impressum/"
+		}
+	]
 }

@@ -5,42 +5,42 @@ const path = require('path')
 
 // https://github.com/kangax/html-minifier#options-quick-reference
 const htmlMinifierOptions = {
-  useShortDoctype: true,
-  removeComments: true,
-  collapseWhitespace: true
+	useShortDoctype: true,
+	removeComments: true,
+	collapseWhitespace: true
 }
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.setDataDeepMerge(true)
+	eleventyConfig.setDataDeepMerge(true)
 
-  // Copies static files as they are to the output directory
-  eleventyConfig
-    .addPassthroughCopy('src/static')
-    .addPassthroughCopy('src/img')
-    .addPassthroughCopy('src/css')
-    .addPassthroughCopy('src/.htaccess')
+	// Copies static files as they are to the output directory
+	eleventyConfig
+		.addPassthroughCopy('src/static')
+		.addPassthroughCopy('src/img')
+		.addPassthroughCopy('src/css')
+		.addPassthroughCopy('src/.htaccess')
 
-  // Filter for compressing CSS/JS
-  eleventyConfig.addFilter('resolve_css_imports', resolveCssImports)
-  eleventyConfig.addFilter('minify_css', minifyCss)
+	// Filter for compressing CSS/JS
+	eleventyConfig.addFilter('resolve_css_imports', resolveCssImports)
+	eleventyConfig.addFilter('minify_css', minifyCss)
 
-  // Defines shortcode for generating post excerpts
-  eleventyConfig.addShortcode('excerpt', (post) => extractExcerpt(post))
+	// Defines shortcode for generating post excerpts
+	eleventyConfig.addShortcode('excerpt', (post) => extractExcerpt(post))
 
-  // Compresses output HTML
-  if (process.env.NODE_ENV === 'production') {
-    eleventyConfig.addTransform('minify_html', minifyHtml)
-  }
+	// Compresses output HTML
+	if (process.env.NODE_ENV === 'production') {
+		eleventyConfig.addTransform('minify_html', minifyHtml)
+	}
 
-  return {
-    dir: {
-      input: 'src',
-      // Make the project directory the includes directory. This allows me to include files from
-      // across the project instead of just a dedicated includes directory.
-      includes: ''
-    },
-    templateFormats: ['md', 'liquid', 'html']
-  }
+	return {
+		dir: {
+			input: 'src',
+			// Make the project directory the includes directory. This allows me to include files from
+			// across the project instead of just a dedicated includes directory.
+			includes: ''
+		},
+		templateFormats: ['md', 'liquid', 'html']
+	}
 }
 
 /**
@@ -48,12 +48,12 @@ module.exports = function (eleventyConfig) {
  * @returns {string} the concatenated contents of the CSS files found by resolving `@import` rules in the CSS file at `cssPath`.
  */
 function resolveCssImports(cssPath) {
-  return fs.readFileSync(path.resolve(__dirname, path.join('src', cssPath)), 'utf8')
-    .split(/\r?\n/)
-    .filter((line) => line.startsWith('@import'))
-    .map((rule) => rule.replace(/@import ['"]/, '').replace(/['"];/, ''))
-    .map((importPath) => fs.readFileSync(path.resolve(__dirname, path.join('src', importPath)), 'utf8'))
-    .join('')
+	return fs.readFileSync(path.resolve(__dirname, path.join('src', cssPath)), 'utf8')
+		.split(/\r?\n/)
+		.filter((line) => line.startsWith('@import'))
+		.map((rule) => rule.replace(/@import ['"]/, '').replace(/['"];/, ''))
+		.map((importPath) => fs.readFileSync(path.resolve(__dirname, path.join('src', importPath)), 'utf8'))
+		.join('')
 }
 
 /**
@@ -63,19 +63,19 @@ function resolveCssImports(cssPath) {
  * @returns {string} the minified CSS content
  */
 function minifyCss(concatenatedCssContent) {
-  const minifyResult = new CleanCSS().minify(concatenatedCssContent)
+	const minifyResult = new CleanCSS().minify(concatenatedCssContent)
 
-  if (minifyResult.errors.length > 0) {
-    console.error('❌ Could not minify CSS.')
+	if (minifyResult.errors.length > 0) {
+		console.error('❌ Could not minify CSS.')
 
-    for (const error of minifyResult.errors) {
-      console.error('❌', error)
-    }
+		for (const error of minifyResult.errors) {
+			console.error('❌', error)
+		}
 
-    return concatenatedCssContent
-  }
+		return concatenatedCssContent
+	}
 
-  return minifyResult.styles
+	return minifyResult.styles
 }
 
 /**
@@ -86,9 +86,9 @@ function minifyCss(concatenatedCssContent) {
  * @returns {string} the minified HTML content
  */
 function minifyHtml(content, outputPath) {
-  return outputPath.endsWith('.html')
-    ? htmlMinifier.minify(content, htmlMinifierOptions)
-    : content
+	return outputPath.endsWith('.html')
+		? htmlMinifier.minify(content, htmlMinifierOptions)
+		: content
 }
 
 /**
@@ -98,17 +98,17 @@ function minifyHtml(content, outputPath) {
  * @returns {string} the excerpt.
  */
 function extractExcerpt(doc) {
-  if (!doc.hasOwnProperty('templateContent')) {
-    console.warn('❌ Failed to extract excerpt: Document has no property `templateContent`.')
-    return ''
-  }
+	if (!doc.hasOwnProperty('templateContent')) {
+		console.warn('❌ Failed to extract excerpt: Document has no property `templateContent`.')
+		return ''
+	}
 
-  const excerptSeparator = '<!--more-->'
-  const content = doc.templateContent
+	const excerptSeparator = '<!--more-->'
+	const content = doc.templateContent
 
-  if (content.includes(excerptSeparator)) {
-    return content.substring(0, content.indexOf(excerptSeparator)).trim()
-  }
+	if (content.includes(excerptSeparator)) {
+		return content.substring(0, content.indexOf(excerptSeparator)).trim()
+	}
 
-  return content
+	return content
 }
