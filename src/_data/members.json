@@ -179,6 +179,31 @@
 		"contact": []
 	},
 	{
+		"name": "Robin Heydenreich",
+		"thumbnail": true,
+		"slug": "robin-heydenreich",
+		"images": [
+			"<img src='/img/mitglieder/robin-heydenreich/midsommar.jpg' alt='Robin Heydenreich Midsommar'>",
+			"<img src='/img/mitglieder/robin-heydenreich/ohne-titel-2.jpg' alt='Robin Heydenreich ohne Titel'>",
+			"<img src='/img/mitglieder/robin-heydenreich/pause.jpg' alt='Robin Heydenreich Pause'>",
+			"<img src='/img/mitglieder/robin-heydenreich/morsumer-kliff.jpg' alt='Robin Heydenreich Morsumer Kliff'>"
+		],
+		"vita": [
+			"am 28.8.1981 im Vogtland geboren",
+			"2000 Abitur in Falkenstein",
+			"2001–2006 Studium der Kunstpädagogik und Deutsch an der Universität Leipzig, begleitend dazu Besuch der Abendakademie an der Hochschule für Grafik und Buchkunst (Leipzig)",
+			"2007 Ehrenpreis des Instituts für Kunstpädagogik in Leipzig",
+			"2007–2009 Referendariat in Leipzig",
+			"ab 2009 Lehrtätigkeit für Kunst und Deutsch zunächst in Braunschweig, seit 2014 in Hof",
+			"2019 Abschluss der Promotion „Weltkunst im Kunstunterricht. Ansätze für die Entwicklung eines globalen Kunstverständnisses“",
+			"Kinder: Jakob, Alma, Emil"
+		],
+		"address": [],
+		"contact": [
+			"E-Mail: <a href='mailto:robinheydenreich@t-online.de'>robinheydenreich@t-online.de</a>"
+		]
+	},
+	{
 		"name": "Bernd Hieke",
 		"thumbnail": true,
 		"slug": "bernd-hieke",

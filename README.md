@@ -19,3 +19,9 @@ mogrify -auto-orient -resize 1000x1500 *.jpg
 ```sh
 mogrify -strip -interlace Plane -quality 75% *.jpg
 ```
+
+**Resize images to 150 height**:
+
+```sh
+mogrify -auto-orient -resize x150 *.jpg
+```
