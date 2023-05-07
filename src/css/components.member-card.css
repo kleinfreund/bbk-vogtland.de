@@ -12,25 +12,15 @@ details summary::-webkit-details-marker {
 
 .member-card__toggle {
 	display: flex;
+	gap: 1.5rem;
 	align-items: center;
 	cursor: pointer;
 	color: currentColor;
 	font-weight: bold;
 }
 
-.member-card__toggle::after {
-	content: '\BB';
-	margin-left: 0.5rem;
-}
-
-.member-card[open] .member-card__toggle::after {
-	transform: rotateZ(90deg);
-}
-
-.member-card__no-thumbnail,
 .member-card__thumbnail {
 	width: 100px;
-	margin-right: 1.5rem;
 	background-color: var(--accent-color);
 }
 
@@ -39,10 +29,18 @@ details summary::-webkit-details-marker {
 	font-size: 20px;
 }
 
+.member-card__title::before {
+	content: '\BB';
+	display: inline-block;
+}
+
+.member-card[open] .member-card__title::before {
+	transform: rotateZ(90deg);
+}
+
 .member-card__content {
 	padding-top: 1.5rem;
 	margin-bottom: 3rem;
-	;
 }
 
 .member-card__content> :last-child {
@@ -51,9 +49,7 @@ details summary::-webkit-details-marker {
 
 .member-card__images {
 	display: flex;
+	gap: 1.5rem;
+	flex-wrap: wrap;
 	margin-bottom: 1.5rem;
-}
-
-.member-card__images>img:not(:first-child) {
-	margin-left: 1.5rem;
 }
