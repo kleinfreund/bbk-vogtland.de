@@ -12,20 +12,19 @@ Bärenstraße 4<br>
 037423 2036
 
 **E-Mail**:<br>
-[andreasrudloff@fastmail.de](mailto:andreasrudloff@fastmail.de)
+[richter-holzart@web.de](mailto:richter-holzart@web.de)
 
 Vereinsregisternummer 1299<br>
 beim Amtsgericht Plauen
 
 Vertretungsberechtigter Vorstand (Vorsitzender)<br>
 Bund Bildender Künstler Vogtland e.V.<br>
-Andreas Rudloff<br>
-Bianca Hallebach<br>
+Christhard Richter<br>
 Bärenstraße 4<br>
 08523 Plauen
 
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV:<br>
-Andreas Rudloff
+Christhard Richter
 
 ## Datenschutzerklärung (Kurzversion)
 
