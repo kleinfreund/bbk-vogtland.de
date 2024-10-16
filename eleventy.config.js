@@ -1,20 +1,25 @@
-const CleanCSS = require('clean-css')
-const fs = require('fs')
-const htmlMinifier = require('html-minifier')
-const path = require('path')
+import { readFileSync } from 'node:fs'
+import { join } from 'node:path'
+
+import CleanCSS from 'clean-css'
+import htmlMinifier from 'html-minifier'
+
+/** @import { Options as HtmlMinifierOptions } from 'html-minifier' */
+
+const ELEVENTY_INPUT_DIR = 'src'
 
 /**
  * https://github.com/kangax/html-minifier#options-quick-reference
  *
- * @type {import('html-minifier').Options}
+ * @type {HtmlMinifierOptions}
  */
 const htmlMinifierOptions = {
 	useShortDoctype: true,
 	removeComments: true,
-	collapseWhitespace: true
+	collapseWhitespace: true,
 }
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
 	eleventyConfig.setDataDeepMerge(true)
 
 	// Copies static files as they are to the output directory
@@ -25,7 +30,7 @@ module.exports = function (eleventyConfig) {
 		.addPassthroughCopy('src/.htaccess')
 
 	// Filter for compressing CSS/JS
-	eleventyConfig.addFilter('resolve_css_imports', resolveCssImports)
+	eleventyConfig.addFilter('inline_css_imports', inlineCssImports)
 	eleventyConfig.addFilter('minify_css', minifyCss)
 
 	// Defines shortcode for generating post excerpts
@@ -38,26 +43,38 @@ module.exports = function (eleventyConfig) {
 
 	return {
 		dir: {
-			input: 'src',
+			input: ELEVENTY_INPUT_DIR,
 			// Make the project directory the includes directory. This allows me to include files from
 			// across the project instead of just a dedicated includes directory.
-			includes: ''
+			includes: '',
 		},
-		templateFormats: ['md', 'liquid', 'html']
+		templateFormats: ['md', 'liquid', 'html'],
 	}
 }
 
 /**
  * @param {string} cssPath
- * @returns {string} the concatenated contents of the CSS files found by resolving `@import` rules in the CSS file at `cssPath`.
+ * @returns {string} the concatenated contents of the CSS files found by inlining `@import` rules in the CSS file at `cssPath`.
  */
-function resolveCssImports(cssPath) {
-	return fs.readFileSync(path.resolve(__dirname, path.join('src', cssPath)), 'utf8')
-		.split(/\r?\n/)
-		.filter((line) => line.startsWith('@import'))
-		.map((rule) => rule.replace(/@import ['"]/, '').replace(/['"];/, ''))
-		.map((importPath) => fs.readFileSync(path.resolve(__dirname, path.join('src', importPath)), 'utf8'))
-		.join('')
+function inlineCssImports(cssPath) {
+	return readFileContent(cssPath)
+		.replace(/@import\s+(["'])(.*)\1\s*(?:layer\((.*)\))?;/g, (_match, _p1, path, layer) => {
+			if (layer) {
+				return `@layer ${layer} {
+          ${readFileContent(path)}
+        }`
+			} else {
+				return readFileContent(path)
+			}
+		})
+}
+
+/**
+ * @param {string} path
+ * @returns {string}
+ */
+function readFileContent(path) {
+	return readFileSync(join(ELEVENTY_INPUT_DIR, path), 'utf8')
 }
 
 /**

@@ -12,7 +12,7 @@
 
 	{% if env.mode == 'production' %}
 		<style>
-			{{ 'css/bbkv.css' | resolve_css_imports | minify_css }}
+			{{ 'css/bbkv.css' | inline_css_imports | minify_css }}
 		</style>
 	{% else %}
 		<link rel="stylesheet" href="{{ '/css/bbkv.css' | url }}">
@@ -49,7 +49,7 @@
 
 		<main class="page-content">
 			<div class="wrapper">
-				{{ layoutContent }}
+				{{ content }}
 			</div>
 		</main>
 	</div>
