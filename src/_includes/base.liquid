@@ -10,7 +10,7 @@
 
 	<meta name="description" content="{% if description %}{{ description }}{% else %}{{ metadata.description }}{% endif %}">
 
-	{% if eleventy.isProduction %}
+	{% if env.mode == 'production' %}
 		<style>
 			{{ 'css/bbkv.css' | resolve_css_imports | minify_css }}
 		</style>
