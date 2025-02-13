@@ -1,39 +1,5 @@
 [
 	{
-		"name": "Reiner Bittner",
-		"thumbnail": true,
-		"slug": "reiner-bittner",
-		"images": [
-			"<img src='/img/mitglieder/reiner-bittner/reiner-bittner-werkfoto-1.jpg' alt='Reiner Bittner Werkfoto 1'>",
-			"<img src='/img/mitglieder/reiner-bittner/reiner-bittner-werkfoto-2.jpg' alt='Reiner Bittner Werkfoto 2'>",
-			"<img src='/img/mitglieder/reiner-bittner/reiner-bittner-werkfoto-3.jpg' alt='Reiner Bittner Werkfoto 3'>"
-		],
-		"vita": [
-			"31.12.1955 In Burgstädt geboren",
-			"aufgewachsen in Waldenburg/Sachsen",
-			"Lehre als Maler",
-			"1980 Abitur",
-			"1984–1989 Studium an der HS für Kunst & Design „Burg Giebichenstein“ Halle",
-			"Seit 1984 verheiratet mit der Dipl. Keramikerin Sybille Bittner",
-			"1986 Geburt von Tochter Sascha Eliesabeth",
-			"seit 1989 freischaffend, Mitglied im Verband Bildender Künstler",
-			"Umzug in gemeinsames Atelier und Keramikwerkstatt in Pfaffengrün/Vogtland",
-			"seit 1995 Lehrtätigkeit am Beruflichen Schulzentrum e.o.plauen",
-			"1995 Geburt von Tochter Josefine",
-			"2000 Geburt von Sohn Josua",
-			"seit 2014 Mitglied im Bund Bildender Künstler Vogtland e.V."
-		],
-		"address": [
-			"Reiner Bittner",
-			"Gasse 2",
-			"08233 Pfaffengrün"
-		],
-		"contact": [
-			"Telefon: 037468 7428",
-			"E-Mail: <a href='mailto:bittners-art@gmx.de'>bittners-art@gmx.de</a>"
-		]
-	},
-	{
 		"name": "Nicolas Felly",
 		"thumbnail": true,
 		"slug": "nicolas-felly",
@@ -46,38 +12,6 @@
 		"address": null,
 		"contact": [
 			"Website: <a href='http://fellyatelier.de'>fellyatelier.de</a>"
-		]
-	},
-	{
-		"name": "Michael Franke",
-		"thumbnail": true,
-		"slug": "michael-franke",
-		"images": [
-			"<img src='/img/mitglieder/michael-franke/michael-franke-werkfoto-1.jpg' alt='Michael Franke Werkfoto 1'>",
-			"<img src='/img/mitglieder/michael-franke/michael-franke-werkfoto-2.jpg' alt='Michael Franke Werkfoto 2'>",
-			"<img src='/img/mitglieder/michael-franke/michael-franke-werkfoto-3.jpg' alt='Michael Franke Werkfoto 3'>"
-		],
-		"vita": [
-			"1950 In Zwickau-Planitz geboren",
-			"1966–1969 Lehre als Goldschmied",
-			"1971–1974 Studium an der Fachhochschule für Angewandte Kunst, Heiligendamm<br>Abschluss als Diplomdesigner (FH)",
-			"seit 1978 Mitglied im Verband Bildender Künstler der DDR (VBK)<br>Freischaffen in eigener Werkstatt",
-			"1990 Umzug nach Schönberg/Vogtland",
-			"1990–1994 Bürgermeister der Gemeinde Schönberg am Kapellenberg",
-			"seit 1990 Mitglied im Bundesverband Bildender Künstler Deutschlands (BBK)<br>Mitglied im Sächsischen Künstlerbund<br>Mitglied im Chemnitzer Künstlerbund",
-			"seit 1995 Lehrtätigkeit am Beruflichen Schulzentrum e.o.plauen,<br>Gestaltungslehre und Naturstudium",
-			"1999–2004 Ortsvorsteher von Schönberg am Kapellenberg",
-			"seit 2005 Mitglied im Kunstverein Plauen-Vogtland e.V."
-		],
-		"address": [
-			"Michael Franke",
-			"Säuerlingsweg 8",
-			"08648 Schönberg"
-		],
-		"contact": [
-			"Telefon: 037438 20713",
-			"E-Mail: <a href='mailto:mf@michael-franke-design.de'>mf@michael-franke-design.de</a>",
-			"Website: <a href='http://michael-franke-design.de'>michael-franke-design.de</a>"
 		]
 	},
 	{
@@ -204,34 +138,6 @@
 		]
 	},
 	{
-		"name": "Bernd Hieke",
-		"thumbnail": true,
-		"slug": "bernd-hieke",
-		"images": [
-			"<img src='/img/mitglieder/bernd-hieke/bernd-hieke-werkfoto-1.jpg' alt='Bernd Hieke Werkfoto 1'>",
-			"<img src='/img/mitglieder/bernd-hieke/bernd-hieke-werkfoto-2.jpg' alt='Bernd Hieke Werkfoto 2'>",
-			"<img src='/img/mitglieder/bernd-hieke/bernd-hieke-werkfoto-3.jpg' alt='Bernd Hieke Werkfoto 3'>"
-		],
-		"vita": [
-			"1944 in Plauen geboren",
-			"lebt und arbeitet in Elsterberg",
-			"seit 1987 freiberuflicher Maler und Graphiker",
-			"1987 Einrichtung einer eigenen Grafikwerkstatt",
-			"Arbeitsbereiche: Lithografie, Radierung, Kupferstich",
-			"Ausstellungen im In- und Ausland, u.a. 2002 im Bundeskanzleramt",
-			"Meine Welt ist mein Auftraggeber. Leider kommen bei der jüngeren Neuaufteilung dieser Welt unsere Mitgeschöpfe nicht so glücklich weg. Dies ist mein Thema - nicht immer glücklich."
-		],
-		"address": [
-			"Bernd Hieke",
-			"Moschwitzer Str. 3",
-			"07985 Elsterberg"
-		],
-		"contact": [
-			"Telefon: 036621 8574",
-			"E-Mail: <a href='mailto:bernd_hieke@hotmail.com'>bernd_hieke@hotmail.com</a>"
-		]
-	},
-	{
 		"name": "Friedrich Höfer",
 		"thumbnail": true,
 		"slug": "friedrich-hoefer",
@@ -263,38 +169,6 @@
 		"vita": [],
 		"address": [],
 		"contact": []
-	},
-	{
-		"name": "Stefanie Kölbel",
-		"thumbnail": true,
-		"slug": "stefanie-koelbel",
-		"images": [
-			"<img src='/img/mitglieder/stefanie-koelbel/stefanie-koelbel-werkfoto-1.jpg' alt='Stefanie Kölbel Werkfoto 1'>",
-			"<img src='/img/mitglieder/stefanie-koelbel/stefanie-koelbel-werkfoto-2.jpg' alt='Stefanie Kölbel Werkfoto 2'>",
-			"<img src='/img/mitglieder/stefanie-koelbel/stefanie-koelbel-werkfoto-3.jpg' alt='Stefanie Kölbel Werkfoto 3'>"
-		],
-		"vita": [
-			"1981 in Oelsnitz im Vogtland geboren",
-			"2001–05 Studium an der Fachhochschule für Angewandte Kunst Schneeberg",
-			"2005 Diplomdesignerin (FH) – Textilkunst",
-			"seit 2006 freiberuflich tätig",
-			"regelmäßige Teilnahme an nationalen und internationalen Ausstellungen und Messen",
-			"2011 Hessischer Staatspreis für das Deutsche Kunsthandwerk",
-			"2017 German Design Award Special",
-			"Mitglied im Bundesverband Kunsthandwerk Frankfurt",
-			"Mitglied im Bayerischen Kunstgewerbeverein München",
-			"Mitglied der Museum Store Association Philadelphia",
-			"Mitglied im Bund Bildender Künstler Vogtland"
-		],
-		"address": [
-			"Stefanie Kölbel",
-			"Rosenweg 3",
-			"08485 Lengenfeld"
-		],
-		"contact": [
-			"E-Mail: <a href='mailto:spitzenstuecke@gmx.de'>spitzenstuecke@gmx.de</a>",
-			"Website: <a href='http://spitzenstuecke.de'>spitzenstuecke.de</a>"
-		]
 	},
 	{
 		"name": "Ralph Kunzmann",
@@ -408,34 +282,6 @@
 			"Telefon: 037431 3489",
 			"E-Mail: <a href='mailto:peter.luban@web.de'>peter.luban@web.de</a>",
 			"Website: <a href='http://peter-luban.de'>peter-luban.de</a>"
-		]
-	},
-	{
-		"name": "Karsten Mittag",
-		"thumbnail": true,
-		"slug": "karsten-mittag",
-		"images": [
-			"<img src='/img/mitglieder/karsten-mittag/karsten-mittag-werkfoto-1.jpg' alt='Karsten Mittag Werkfoto 1'>",
-			"<img src='/img/mitglieder/karsten-mittag/karsten-mittag-werkfoto-2.jpg' alt='Karsten Mittag Werkfoto 2'>",
-			"<img src='/img/mitglieder/karsten-mittag/karsten-mittag-werkfoto-3.jpg' alt='Karsten Mittag Werkfoto 3'>"
-		],
-		"vita": [
-			"1964 Geboren in Zwickau",
-			"1983–87 Studium der Kirchenmusik an der Evangelischen Kirchenmusikschule Halle, Abschluß mit B-Prüfung<br>Beginn der Auseinandersetzung mit Malerei",
-			"1990–96 Studium an der Fachhochschule für Gestaltung Hamburg, Fachrichtung Illustration, Abschluß als Diplom-Designer",
-			"seit 1998 freischaffend als Maler, Grafiker und Kursleiter tätig; zahlreiche Ausstellungen",
-			"1999 Eröffnung des Ateliers und der Malschule im Lotterhof, Augustusburg",
-			"seit 2000 Initiator verschiedener Projekte zum Thema Klang und Farbe<br>Leiter von Seminaren und Workshops"
-		],
-		"address": [
-			"Karsten Mittag",
-			"Kirchplatz 2",
-			"09573 Augustusburg"
-		],
-		"contact": [
-			"Telefon: 037291 67960",
-			"E-Mail: <a href='mailto:post@lotterhof.de'>post@lotterhof.de</a>",
-			"Website: <a href='http://karsten-mittag.de/'>karsten-mittag.de</a>"
 		]
 	},
 	{
