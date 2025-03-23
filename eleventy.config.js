@@ -28,6 +28,7 @@ export default function (eleventyConfig) {
 		.addPassthroughCopy('src/img')
 		.addPassthroughCopy('src/css')
 		.addPassthroughCopy('src/.htaccess')
+		.addPassthroughCopy('src/robots.txt')
 
 	// Filter for compressing CSS/JS
 	eleventyConfig.addFilter('inline_css_imports', inlineCssImports)
