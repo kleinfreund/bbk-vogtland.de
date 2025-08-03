@@ -10,6 +10,9 @@
 		"prestart": "rimraf _site",
 		"start": "cross-env NODE_ENV=development eleventy --serve"
 	},
+	"engines": {
+		"node": "^24.5.0"
+	},
 	"devDependencies": {
 		"@11ty/eleventy": "^3.1.2",
 		"clean-css": "^5.3.3",
