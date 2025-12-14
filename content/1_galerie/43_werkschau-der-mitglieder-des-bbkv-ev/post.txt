@@ -1,0 +1,22 @@
+Title: Werkschau der Mitglieder des BBKV e.V.
+
+----
+
+Date: 2021-10-30 10:00:00
+
+----
+
+Content: [{"content":{"text":"<p>24 Ateliergespräche</p><p>15.10. bis 18.12.2021</p><p>Zu einer Ausstellungseröffnung des BBKV e.V. im Herbst 2017 in der Galerie im Malzhaus in Plauen sprachen wir über Kunst und Existenz. Wir fassten den Entschluss, daraus ein Buch zu machen. Und das ist die Ausstellung zum Buch.</p>"},"id":"05d3bb9f-1f33-4eaa-ab02-201fcb45f934","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://9nqdupjy7khxgp6y'
+- 'file://eopkdljcnfr7clpm'
+- 'file://ubqh9xxrkxlmyqpf'
+- 'file://6qahk0g8hqok2vgp'
+
+----
+
+Uuid: 0tvol1g2jpztavc0

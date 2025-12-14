@@ -1,0 +1,28 @@
+Title: Vom Sehen und Finden – Collagen und Objekte
+
+----
+
+Date: 2023-09-03 15:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Ich setze mich mit dem Sehen auseinander, finde Bruchstücke, welche für mich interagieren und nach Ausgleich streben. Es ist gerade das Beiläufige, was uns im Alltag viel näher ist und erst durch Neuordnung zum Ganzen wird.</p><p>Jacqueline Teschner</p>"},"id":"0666cb46-239a-47d6-8958-5a55aa34f30b","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://i3ebiebddghxugk3'
+- 'file://1oym70ozcd7yyoqj'
+- 'file://ufqkmmeaau7nvt8t'
+- 'file://bjnvuft7ypqkpiva'
+- 'file://v7dzo3axkx5bquwh'
+- 'file://hnyephbe522dcu1o'
+- 'file://z9mkvhqcaecuq4lg'
+- 'file://3skf3o6qjces6iq2'
+- 'file://woehjmthhxbmh9vs'
+- 'file://jb24ti1x6cyxrt1w'
+
+----
+
+Uuid: c02ocphtq7sf3gsk

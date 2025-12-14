@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: ibvm20jgd2ss3ygl
+
+----
+
+Template: blocks/image

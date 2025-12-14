@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Günter Weiß – Retrospektive 7
+
+----
+
+Uuid: pgq7i4em3ytcfq07
+
+----
+
+Template: blocks/image

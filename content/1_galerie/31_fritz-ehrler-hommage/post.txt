@@ -1,0 +1,17 @@
+Title: Fritz Ehrler – Hommage zum 125. Geburtstag
+
+----
+
+Date: 2018-09-11 10:00:00
+
+----
+
+Content: [{"content":{"text":"<p>9. November 2018 – 26. Januar 2019</p><p>Einladung zur Ausstellungseröffnung am 9. November 2018 um 18:00 Uhr in der Galerie des BBKV e.V.</p><p>Führung durch die Ausstellung am 30.11.2018 und 18.01.2019 um 17:00 Uhr (ab 10 Personen für je 5 € pro Person). Bitte melden Sie sich telefonisch unter 03741 14 70 70 bei Bianca Hallebach an.</p><p>Parallel zeigt das Vogtlandmuseum „Stillleben und Portrait“ vom 15.11.2018 bis zum 3.2.2019.</p>"},"id":"ef699b00-13d2-4819-9dd6-086e75222d04","isHidden":false,"type":"text"}]
+
+----
+
+Photos: - 'file://g30isjpddnocprmt'
+
+----
+
+Uuid: v6cgozl0bpa5ocyx

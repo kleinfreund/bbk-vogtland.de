@@ -1,0 +1,17 @@
+Title: Nicolas Felly: Moderne, figurative Kunst
+
+----
+
+Date: 2018-02-27 15:20:00
+
+----
+
+Content: [{"content":{"text":"<p>Vom 9. März bis zum 21. April 2018 in der Galerie des BBKV und im Theater Plauen.</p><p>Ausstellungseröffnung am Freitag, den 9. März 2018 um 18 Uhr.</p><p>Nicolas Felly schafft fantasiereiche, surreale Bildwelten.</p><p>Detailversessen, planvoll im Konzept, perfekt in der öllasurtechnischen Ausführung.</p><p>Bilder als Bühnen auf denen absurde Figuren die Szenen seiner Visionen spielen.</p>"},"id":"2ef652b3-f6f7-43f0-a2be-853b0f99d9ab","isHidden":false,"type":"text"}]
+
+----
+
+Photos: - 'file://rfreuwfwvnigfpc1'
+
+----
+
+Uuid: pluntkt1o0wubyzy

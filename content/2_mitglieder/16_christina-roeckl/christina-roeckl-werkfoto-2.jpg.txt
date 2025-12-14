@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: jbcovywiweft4hau
+
+----
+
+Template: blocks/image

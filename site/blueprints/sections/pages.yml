@@ -1,0 +1,7 @@
+type: pages
+label: Seiten
+query: site.children.listed.template('page')
+info: "{{ page.published }}"
+template: page
+empty: Keine Seiten bisher
+sortBy: date desc

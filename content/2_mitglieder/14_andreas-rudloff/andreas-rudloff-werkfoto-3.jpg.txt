@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: djazbiainhuyhkfx
+
+----
+
+Template: blocks/image

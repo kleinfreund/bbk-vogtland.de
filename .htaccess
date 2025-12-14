@@ -1,0 +1,319 @@
+# Kirby .htaccess
+# revision 2023-07-22
+
+# rewrite rules
+<IfModule mod_rewrite.c>
+
+# enable awesome urls. i.e.:
+# http://yourdomain.com/about-us/team
+RewriteEngine on
+
+Options +SymLinksIfOwnerMatch
+
+# make sure to set the RewriteBase correctly
+# if you are running the site in a subfolder;
+# otherwise links or the entire site will break.
+#
+# If your homepage is http://yourdomain.com/mysite,
+# set the RewriteBase to:
+#
+# RewriteBase /mysite
+
+# In some environments it's necessary to
+# set the RewriteBase to:
+#
+RewriteBase /
+
+# block files and folders beginning with a dot, such as .git
+# except for the .well-known folder, which is used for Let's Encrypt and security.txt
+RewriteRule (^|/)\.(?!well-known\/) index.php [L]
+
+# block all files in the content folder from being accessed directly
+RewriteRule ^content/(.*) index.php [L]
+
+# block all files in the site folder from being accessed directly
+RewriteRule ^site/(.*) index.php [L]
+
+# block direct access to Kirby and the Panel sources
+RewriteRule ^kirby/(.*) index.php [L]
+
+# make site links work
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*) index.php [L]
+
+</IfModule>
+
+# pass the Authorization header to PHP
+SetEnvIf Authorization "(.+)" HTTP_AUTHORIZATION=$1
+
+# compress text file responses
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE text/javascript
+AddOutputFilterByType DEFLATE application/json
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+</IfModule>
+
+# set security headers in all responses
+<IfModule mod_headers.c>
+
+# serve files as plain text if the actual content type is not known
+# (hardens against attacks from malicious file uploads)
+Header set Content-Type "text/plain" "expr=-z %{CONTENT_TYPE}"
+Header set X-Content-Type-Options "nosniff"
+
+</IfModule>
+
+# Custom .htaccess
+
+# Keep Alive
+
+<IfModule mod_headers.c>
+  Header set Connection keep-alive
+</IfModule>
+
+
+# Disable the pattern matching based on filenames.
+#
+# This setting prevents Apache from returning a 404 error as the result
+# of a rewrite when the directory with the same name does not exist.
+#
+# https://httpd.apache.org/docs/current/content-negotiation.html#multiviews
+
+Options +MultiViews
+
+
+# ######################################################################
+# # MEDIA TYPES AND CHARACTER ENCODINGS                                #
+# ######################################################################
+
+# ----------------------------------------------------------------------
+# | Media types                                                        |
+# ----------------------------------------------------------------------
+
+# Serve resources with the proper media types (f.k.a. MIME types).
+#
+# https://www.iana.org/assignments/media-types/media-types.xhtml
+# https://httpd.apache.org/docs/current/mod/mod_mime.html#addtype
+
+<IfModule mod_mime.c>
+
+  # JavaScript
+
+  # Normalize to standard type.
+  # https://tools.ietf.org/html/rfc4329#section-7.2
+
+  AddType application/javascript                      js
+
+
+  # Manifest files
+
+  AddType application/manifest+json                   webmanifest
+
+
+  # Media files
+
+  AddType image/svg+xml                               svg svgz
+  AddType image/webp                                  webp
+  AddType video/webm                                  webm
+
+
+  # Web fonts
+
+  AddType application/font-woff2                      woff2
+
+</IfModule>
+
+
+# Serve all resources labeled as `text/html` or `text/plain`
+# with the media type `charset` parameter set to `UTF-8`.
+#
+# https://httpd.apache.org/docs/current/mod/core.html#adddefaultcharset
+
+AddDefaultCharset utf-8
+
+# Serve the following file types with the media type `charset`
+# parameter set to `UTF-8`.
+#
+# https://httpd.apache.org/docs/current/mod/mod_mime.html#addcharset
+
+<IfModule mod_mime.c>
+  AddCharset utf-8 .css \
+                   .js \
+                   .json \
+                   .webmanifest
+</IfModule>
+
+
+# ######################################################################
+# # SECURITY                                                           #
+# ######################################################################
+
+# ----------------------------------------------------------------------
+# | File access                                                        |
+# ----------------------------------------------------------------------
+
+# Block access to directories without a default document.
+#
+# You should leave the following uncommented, as you shouldn't allow
+# anyone to surf through every directory on your server (which may
+# includes rather private places such as the CMS's directories).
+
+<IfModule mod_autoindex.c>
+  Options -Indexes
+</IfModule>
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# Block access to files that can expose sensitive information.
+#
+# By default, block access to backup and source files that may be
+# left by some text editors and can pose a security risk when anyone
+# has access to them.
+#
+# https://feross.org/cmsploit/
+#
+# (!) Update the `<FilesMatch>` regular expression from below to
+# include any files that might end up on your production server and
+# can expose sensitive information about your website. These files may
+# include: configuration files, files that contain metadata about the
+# project (e.g.: project dependencies), build scripts, etc..
+
+<FilesMatch "(^#.*#|\.(bak|conf|dist|fla|in[ci]|log|psd|sh|sql|sw[op])|~)$">
+
+  # Apache < 2.3
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+    Satisfy All
+  </IfModule>
+
+  # Apache ≥ 2.3
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+
+</FilesMatch>
+
+# ----------------------------------------------------------------------
+# | Server software information                                        |
+# ----------------------------------------------------------------------
+
+# Prevent Apache from adding a trailing footer line containing
+# information about the server to the server-generated documents
+# (e.g.: error messages, directory listings, etc.)
+#
+# https://httpd.apache.org/docs/current/mod/core.html#serversignature
+
+ServerSignature Off
+
+
+# ######################################################################
+# # WEB PERFORMANCE                                                    #
+# ######################################################################
+
+# ----------------------------------------------------------------------
+# | Compression                                                        |
+# ----------------------------------------------------------------------
+
+<IfModule mod_deflate.c>
+
+  # Force compression for mangled `Accept-Encoding` request headers
+  # https://developer.yahoo.com/blogs/ydn/pushing-beyond-gzipping-25601.html
+
+  <IfModule mod_setenvif.c>
+    <IfModule mod_headers.c>
+      SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+      RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
+    </IfModule>
+  </IfModule>
+
+
+  # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+  # Map the following filename extensions to the specified
+  # encoding type in order to make Apache serve the file types
+  # with the appropriate `Content-Encoding` response header
+  # (do note that this will NOT make Apache compress them!).
+  #
+  # If these files types would be served without an appropriate
+  # `Content-Enable` response header, client applications (e.g.:
+  # browsers) wouldn't know that they first need to uncompress
+  # the response, and thus, wouldn't be able to understand the
+  # content.
+  #
+  # https://httpd.apache.org/docs/current/mod/mod_mime.html#addencoding
+
+  <IfModule mod_mime.c>
+    AddEncoding gzip              svgz
+  </IfModule>
+
+</IfModule>
+
+
+# ----------------------------------------------------------------------
+# | ETags                                                              |
+# ----------------------------------------------------------------------
+
+# Remove `ETags` as resources are sent with far-future expires headers.
+#
+# https://developer.yahoo.com/performance/rules.html#etags
+# https://tools.ietf.org/html/rfc7232#section-2.3
+
+# `FileETag None` doesn't work in all cases.
+<IfModule mod_headers.c>
+  Header unset ETag
+</IfModule>
+
+FileETag None
+
+# ----------------------------------------------------------------------
+# | Expires headers                                                    |
+# ----------------------------------------------------------------------
+
+# Serve resources with far-future expires headers.
+#
+# (!) If you don't control versioning with filename-based
+# cache busting, you should consider lowering the cache times
+# to something like one week.
+#
+# https://httpd.apache.org/docs/current/mod/mod_expires.html
+
+<IfModule mod_expires.c>
+
+  ExpiresActive on
+  ExpiresDefault                                      "access plus 1 month"
+
+  # CSS
+
+  ExpiresByType text/css                              "access plus 1 year"
+
+  # HTML
+
+  ExpiresByType text/html                             "access plus 0 seconds"
+
+
+  # JavaScript
+
+  ExpiresByType application/javascript                "access plus 1 year"
+  ExpiresByType text/javascript                       "access plus 1 year"
+
+
+  # Media files
+
+  ExpiresByType image/gif                             "access plus 1 month"
+  ExpiresByType image/jpeg                            "access plus 1 month"
+  ExpiresByType image/png                             "access plus 1 month"
+  ExpiresByType image/svg+xml                         "access plus 1 month"
+  ExpiresByType image/webp                            "access plus 1 month"
+
+
+  # Web fonts
+
+  ExpiresByType application/font-woff2                "access plus 1 month"
+
+</IfModule>

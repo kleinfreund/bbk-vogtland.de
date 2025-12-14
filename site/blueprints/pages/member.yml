@@ -1,0 +1,35 @@
+title: Mitglied
+status:
+  draft:
+    label: Entwurf
+    text: Das Mitglied ist noch ein Entwurf. Es ist noch nicht auf der Webseite für normale Besucher:innen sichtbar
+  listed:
+    label: Veröffentlicht
+    text: Das Mitglied ist veröffentlicht und für alle sichtbar
+fields:
+  photo:
+    label: Künstler:innen-Foto
+    type: files
+    layout: cards
+    uploads:
+      template: blocks/image
+    info: "{{ file.dimensions }}"
+    image:
+      ratio: 5/4
+      cover: true
+    max: 1
+    size: small
+  examples:
+    label: Werk-Bilder
+    type: files
+    layout: cards
+    uploads:
+      template: blocks/image
+    info: "{{ file.dimensions }}"
+    image:
+      ratio: 5/4
+      cover: true
+    size: small
+  text:
+    label: Inhalt
+    type: blocks

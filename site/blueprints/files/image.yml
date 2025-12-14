@@ -1,0 +1,22 @@
+title: Image
+accept:
+  type: image
+columns:
+  - width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          caption:
+            label: Bildunterschrift
+            type: textarea
+            size: medium
+  - width: 1/2
+    sections:
+      meta:
+        type: fields
+        fields:
+          alt:
+            label: Alternativer Text
+            type: text
+            required: true

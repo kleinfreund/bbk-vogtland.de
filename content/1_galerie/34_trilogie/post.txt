@@ -1,0 +1,21 @@
+Title: Trilogie
+
+----
+
+Date: 2019-05-17 09:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Gobelin / Keramik / Schmuck</p><p>17. Mai bis 25. Juni 2019</p><p>Ausstellungseröffnung am 17. Mai 2019, 18 Uhr.</p><p>Danach ist die Ausstellung ab 24. Mai außerhalb der Feiertage geöffnet.</p><p>Ursprünge ihrer Kunst finden Elke Wolf, Andreas Leonhardt, Bianca Hallebach im Handwerk.</p><p>Die Inspirationen zu Formen ihrer Objekte ergeben sich aus Material, Funktion und aus freudigem Anlass.</p><p>Eine Jubiläumsausstellung.</p><p>75 / 60 / 50</p>"},"id":"abf78c37-98ba-4073-a52a-846302f9f157","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://mobhlv2mkgk8lgq4'
+- 'file://6vpsqlnjodlvxwa7'
+- 'file://a43mori73vetorqr'
+
+----
+
+Uuid: rj6xvgakgvxgytoy

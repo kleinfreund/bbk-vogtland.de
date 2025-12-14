@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Jubiläumsausstellung zum 70. Geburtstag von Elke Wolf – Einladung
+
+----
+
+Uuid: 934v7hiaftayzjbu
+
+----
+
+Template: blocks/image

@@ -1,0 +1,22 @@
+Title: Lothar Stauch Meine Landschaften und Stadtbilder
+
+----
+
+Date: 2020-01-26 16:00:00
+
+----
+
+Content: [{"content":{"text":"<p>24. Januar – 29. Februar 2020</p><p>Ursprünge seiner Bildwelten findet Lothar Stauch auf Reisen. Erinnerungen an Landschaften und Architektur sind Anlässe für freie Improvisationen, die als expressive Holzschnitte und Malerei vorgetragen werden.</p><p>Wir eröffnen die Ausstellung am 24. Januar 2020 um 18 Uhr in der Galerie des BBKV e.V. in Plauen, Bärenstraße 4.</p>"},"id":"6de1d8cd-fdbb-4bb6-88bf-c6339c960c6c","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://vbn7abqte4n6nqzz'
+- 'file://bl9gbfhngqa9wvc3'
+- 'file://mdtq5zo6ael3dqf3'
+- 'file://quildylejplouzlw'
+
+----
+
+Uuid: pvbetlbzxdzlhvzu

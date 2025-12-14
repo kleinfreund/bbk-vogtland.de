@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Kunstherbst 2014 – 4
+
+----
+
+Uuid: jnjd7g0xuxnout0w
+
+----
+
+Template: blocks/image

@@ -1,0 +1,22 @@
+Title: Robin Heydenreich
+
+----
+
+Photo: - 'file://u3qnrhcgx0gde6lp'
+
+----
+
+Examples:
+
+- 'file://wpecm9itoocmpoon'
+- 'file://f6ffqf1w4mar8phf'
+- 'file://u1bozcffnxypvrml'
+- 'file://euoi6yfbrbzahdte'
+
+----
+
+Text: [{"content":{"text":"<ul><li>am 28.8.1981 im Vogtland geboren</li><li>2000 Abitur in Falkenstein</li><li>2001–2006 Studium der Kunstpädagogik und Deutsch an der Universität Leipzig, begleitend dazu Besuch der Abendakademie an der Hochschule für Grafik und Buchkunst (Leipzig)</li><li>2007 Ehrenpreis des Instituts für Kunstpädagogik in Leipzig</li><li>2007–2009 Referendariat in Leipzig</li><li>ab 2009 Lehrtätigkeit für Kunst und Deutsch zunächst in Braunschweig, seit 2014 in Hof</li><li>2019 Abschluss der Promotion „Weltkunst im Kunstunterricht. Ansätze für die Entwicklung eines globalen Kunstverständnisses“</li><li>Kinder: Jakob, Alma, Emil</li></ul>"},"id":"83c9cb2a-86ba-48db-baaf-55a29588dc0b","isHidden":false,"type":"list"},{"content":{"text":"<p>E-Mail: <a href=\"mailto:robinheydenreich@t-online.de\">robinheydenreich@t-online.de</a></p>"},"id":"7b2b1b74-5aad-4f64-b1a7-aaf92e03dfa3","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 8iljcsca8viexmj7

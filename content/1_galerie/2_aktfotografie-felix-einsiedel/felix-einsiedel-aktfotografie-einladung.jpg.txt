@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Felix Einsiedel – Aktfotografie
+
+----
+
+Uuid: yzyy0ubwapfwybiz
+
+----
+
+Template: blocks/image

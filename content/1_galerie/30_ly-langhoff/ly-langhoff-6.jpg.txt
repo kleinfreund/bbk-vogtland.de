@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ly Langhoff 6
+
+----
+
+Uuid: vbfciyighd2s5yd4
+
+----
+
+Template: blocks/image

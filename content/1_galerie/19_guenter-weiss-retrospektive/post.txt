@@ -1,0 +1,28 @@
+Title: Günter Weiß – Retrospektive Malerei, Zeichnung, Druckgrafik
+
+----
+
+Date: 2016-09-02 14:30:00
+
+----
+
+Content: [{"content":{"text":"<p>Günter Weiß arbeitete still, arrangierte sich sensibel mit unterschiedlichen Techniken und hinterlässt uns ein umfangreiches Gesamtwerk. Sein Thema, die Landschaft, seine Leidenschaft die Landschaft der Insel Hiddensee. Bilder aus dem Vogtland, Bilder, die von Reisen inspiriert wurden. Sanfte Spuren einer Biografie.</p><p>Einladung zur Ausstellungseröffnung am 2. September 2016 um 18 Uhr in der Galerie Bund Bildender Künstler Vogtland e.V..</p><p>Am Samstag nach der Ausstellungseröffnung und zu den Feiertagen bleibt die Ausstellung geschlossen.</p>"},"id":"9867ea33-0154-4971-a15a-a9d46c994301","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://755swwqyxq7xlz8l'
+- 'file://fmdiqjztxgni5tg9'
+- 'file://ufblrmkkwvsdvbqm'
+- 'file://loox9n51glz0viju'
+- 'file://cwzk48seyrhbqbjr'
+- 'file://mgara8jclytykryw'
+- 'file://pgq7i4em3ytcfq07'
+- 'file://kdknju3zl4q7wl4n'
+- 'file://aoujtt1vgwjkywrl'
+- 'file://sme6rpnfnhqvl2iu'
+
+----
+
+Uuid: dkppoynrhjuougb1

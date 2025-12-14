@@ -1,0 +1,21 @@
+Title: Klaus Helbig und Weggefährten
+
+----
+
+Date: 2021-07-24 12:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Anlässlich seines 80. Geburtstages (2020) würdigt der Bund Bildender Künstler Vogtland sein Mitglied Klaus Helbig mit einer von ihm gestalteten Ausstellung. Die künstlerisch-gestalterische Arbeit von Klaus Helbig wurde beeinflusst und geprägt durch Persönlichkeiten mit denen er während seines Schaffens zu tun hatte. Waren es am Anfang ehemalige Kunstschüler, die Einfluss auf seine Arbeit hatten, so kamen später Kollegen und Freunde der überregionalen Kunstszene hinzu.</p>"},"id":"396dcc03-5b51-4fd5-8705-26287ed58165","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://ncfpglip82vkwfre'
+- 'file://by5fzptz6c3bjgab'
+- 'file://ux6cu5rnysygicc8'
+
+----
+
+Uuid: iro2zef3ijijozck

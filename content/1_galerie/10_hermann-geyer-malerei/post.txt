@@ -1,0 +1,20 @@
+Title: Hermann Geyer … Malerei
+
+----
+
+Date: 2015-01-04 00:00:00
+
+----
+
+Content: [{"content":{"text":"<p>9. Januar bis 14. März 2015<br>Freitag 14.00–18.00 Uhr<br>Samstag 13.00–17.00 Uhr</p><p>Hermann Geyer, Maler in Plauen, reduziert die Bereitschaft, sich an zeitgemäßen Routinen von Politik, Kultur und Konsum zu beteiligen, auf ein Minimum. Er investiert diese Freiräume an Lebenszeit kompromisslos in seine Arbeit. Die Symbiose von Realismus und Kritik in der Technik renaissance-ambitionierter Lasurmalerei. Ein Aufruf, Handlungen und Positionen zu überdenken, Porträts und Stillleben.</p>"},"id":"c5e487a9-a6a0-4856-a6bd-33cdb03422bf","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://tz2qyine2d33agry'
+- 'file://snpisdddrqyfux7p'
+
+----
+
+Uuid: pwussbvzfhmeyn5c

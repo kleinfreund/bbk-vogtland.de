@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Hermann Geyer – 1
+
+----
+
+Uuid: kllaugbn8l1e2rrx
+
+----
+
+Template: blocks/image

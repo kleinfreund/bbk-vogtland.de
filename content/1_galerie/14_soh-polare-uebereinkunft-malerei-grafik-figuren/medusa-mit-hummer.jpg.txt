@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Siegfried Otto Hüttengrund: Medusa mit Hummer
+
+----
+
+Uuid: iiomxghe29tgjsut
+
+----
+
+Template: blocks/image

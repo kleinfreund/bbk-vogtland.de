@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Günter Weiß – Retrospektive 6
+
+----
+
+Uuid: mgara8jclytykryw
+
+----
+
+Template: blocks/image

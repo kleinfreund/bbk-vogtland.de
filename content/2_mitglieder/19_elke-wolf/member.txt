@@ -1,0 +1,21 @@
+Title: Elke Wolf
+
+----
+
+Photo: - 'file://sexcwhojvtizbhoi'
+
+----
+
+Examples:
+
+- 'file://4aiyc6su4klchdil'
+- 'file://umvol7e2qyncbcxv'
+- 'file://xxwdo3bql2phqd3r'
+
+----
+
+Text: [{"content":{"text":"<ul><li>Elke Wolf arbeitet seit 1981 freischaffend im eigenen Atelier in Plauen.</li><li>Textilkünstlerische Unikate „Bildgewebe“ (Flachweberei/Gobelintechnik mit Naturfasern) entstehen, parallel dazu und gleichberechtigt Aquarelle, Zeichnungen und Druckgrafik.</li><li>Wesentliche Anregung für ihre Arbeit sind Natur und Landschaft.</li><li>Zeichnungen und Aquarelle entstehen immer vor der Natur.</li><li>Dabei ist auch die „eigene Natur“ mit den wechselnden Stimmungen wichtig.</li><li>Der Prozess der Auseinandersetzung ist auch mit einer Verinnerlichung von Natur und Landschaft verbunden.</li><li>Genau das ermöglicht ihr dann auch den freien, assoziativen Umgang mit ihrem Sujet bei der Form- und Bildfindung für Gewebe und Grafik.</li><li>Elke Wolf, 1944 in Theißen geboren, Studium im Bereich Textilkunst von 1978-1981 an der Fachschule für angewandte Kunst in Schneeberg.</li></ul>"},"id":"feba7c26-f49c-44a0-ade5-94653916fc4f","isHidden":false,"type":"list"}]
+
+----
+
+Uuid: bmhrmixmelzgpewr

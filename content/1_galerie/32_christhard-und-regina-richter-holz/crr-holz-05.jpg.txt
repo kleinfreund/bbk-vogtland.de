@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Holzobjekt
+
+----
+
+Uuid: gmqmdtzlf9xey2cj
+
+----
+
+Template: blocks/image

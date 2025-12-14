@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: thbdmugs2wyort3s
+
+----
+
+Template: blocks/image

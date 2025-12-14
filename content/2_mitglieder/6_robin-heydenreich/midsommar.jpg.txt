@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: wpecm9itoocmpoon
+
+----
+
+Template: blocks/image

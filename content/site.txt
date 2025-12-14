@@ -1,0 +1,15 @@
+Title: Bund Bildender Künstler Vogtland e.V.
+----
+Url: https://bbk-vogtland.de
+----
+Description: Website des Bundes Bildender Künstler im Vogtland.
+----
+Logo-Alt: BBKV Logo
+----
+Links:
+
+- galerie
+- projekte
+- mitglieder
+- verein
+- impressum

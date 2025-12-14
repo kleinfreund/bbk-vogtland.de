@@ -1,0 +1,25 @@
+Title: Sommerbilder
+
+----
+
+Date: 2015-04-01 00:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Eine Werkschau zu den 3. Vogtländischen Malertagen</p><p>Mandy Friedrich, Peter Heyn, Antje Krohn, Karsten Mittag, Isabel Pauer, Katharina Probst und Bernd Rückert.</p><p>Auf Einladung des BBKV e.V. trafen sich im September 2014 sieben Künstlerinnen und Künstler im Kunsthaus Eigenregie in Eschenbach und &nbsp;arbeiteten an Interpretationen zur Vogtländischen Landschaft, Sommerbilder.</p><p>Zur Ausstellungseröffnung am 12.04.2015 um 11.00 Uhr laden wir ins Vogtlandmuseum Plauen ein.</p><p>Vogtlandmuseum (12.04.–15.05.2015)<br>Theater Plauen und Galerie BBKV e.V. (12.04.–23.04.2015)<br>Galerie des BBKV e.V., Bärenstraße 4, Plauen</p><p>Freitag: 14.00–18.00 Uhr<br>Samstag: 13.00–17.00 Uhr</p>"},"id":"670488e7-bb27-4a06-ad8b-7087e50d0a7e","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://jv9iszow7ydmiime'
+- 'file://ep6updflxoxsescs'
+- 'file://vtbu8b2jpxs4f5eb'
+- 'file://vnjtjhou1nnxalj4'
+- 'file://91xzprtmzqcsyckj'
+- 'file://kfpqciqvbj5sbq3h'
+- 'file://wmkvff9fsxedhlge'
+
+----
+
+Uuid: gcae4pjcrxgmhpag

@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Malertage 2015: Werkschau – 4
+
+----
+
+Uuid: vnjtjhou1nnxalj4
+
+----
+
+Template: blocks/image

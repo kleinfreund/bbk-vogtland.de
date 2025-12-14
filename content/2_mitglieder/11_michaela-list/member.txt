@@ -1,0 +1,21 @@
+Title: Michaela List
+
+----
+
+Photo: - 'file://zafgkxyiip73nilg'
+
+----
+
+Examples:
+
+- 'file://ljntetsi5n7koeef'
+- 'file://jqhmrgufwucg5idv'
+- 'file://o9ft6yc5kazoz7j8'
+
+----
+
+Text: [{"content":{"text":"<ul><li>am 23.09.1965 in Zwickau geboren</li><li>1984 Abitur</li><li>1984–1985 Tätigkeit in der Glas- und Porzellanindustrie</li><li>1985–1991 Studium an der HS für Kunst und Design 'Burg Giebichenstein' in Halle</li></ul>"},"id":"1b620b2e-e24c-4b43-ba25-3c9fd586aa9c","isHidden":false,"type":"list"},{"content":{"text":"<p>Michaela List<br>Wiesenstraße 25<br>08134 Wildenfels</p><p>Telefon: 037603 8133<br>E-Mail: <a href=\"mailto:milist@freenet.de\">milist@freenet.de</a></p>"},"id":"4d731862-5668-4c5d-a5ae-b1fab3f409e4","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: sivzbnin1tqdocbv

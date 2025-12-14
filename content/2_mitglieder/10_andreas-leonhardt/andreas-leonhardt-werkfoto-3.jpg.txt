@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: jgin337sl01vjlni
+
+----
+
+Template: blocks/image

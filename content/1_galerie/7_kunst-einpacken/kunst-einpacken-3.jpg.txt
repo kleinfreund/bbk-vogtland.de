@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Kunst einpacken – 3
+
+----
+
+Uuid: fjxjbf8atfqxldob
+
+----
+
+Template: blocks/image

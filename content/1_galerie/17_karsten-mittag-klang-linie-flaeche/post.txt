@@ -1,0 +1,20 @@
+Title: Karsten Mittag: Klang – Linie ­– Fläche Malerei, Grafik
+
+----
+
+Date: 2016-02-15 00:00:00
+
+----
+
+Content: [{"content":{"text":"<p><strong>vom 11.3.–30.4.2016</strong></p><p>Maler, die im symbiotischen Verhältnis zur Musik arbeiten oder wie Karsten Mittag ihre kreativen Anfänge ursprünglich in der klassischen Musik suchen, zeigen oft Bilder, die den Aspekt Klang feinfühlig in die Medien Malerei und Grafik übersetzen. Bilder wie Partituren. Natürlich gibt es auch sensible, nichtmusizierende Künstler. Aber das Wissen über musikalische Kompositionstechniken bedeutet kreative Lebenserfahrung und bringt auf jeden Fall wunderbare Ausgangssituationen für Spiritualität in Bildwelten. Langsam blühende Grundstimmungen, Steigerungen, Höhepunkte. Diese Arbeitsweise taugt für verschiedene Sujets. Und besonders Landschaften bieten viele Freiheiten für musikalisch ambitionierte Abstraktionen.</p><p>A.R.</p><p>Ausstellungseröffnung am Freitag, den 11. Januar 2015 um 18.00 Uhr in der Galerie des BBKV e.V..</p>"},"id":"4660050f-213d-4612-a942-c40a4c641e01","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://g7qqlqvdbkahknqm'
+- 'file://0jrt2qnuawuo5xoy'
+
+----
+
+Uuid: atpb67532porkwed

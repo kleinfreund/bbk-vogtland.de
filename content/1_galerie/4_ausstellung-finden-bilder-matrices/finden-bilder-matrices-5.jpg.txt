@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ausstellungseröffnung – Finden, Bilder, Matrices 5
+
+----
+
+Uuid: rpayaernay10yojy
+
+----
+
+Template: blocks/image

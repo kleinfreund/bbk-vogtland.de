@@ -1,0 +1,17 @@
+Title: Weihnachten verkaufen
+
+----
+
+Date: 2014-12-06 00:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Wir verkaufen Weihnachten … und verabschieden das Ausstellungsjahr feierlich … und es gibt spontan zu transportierende Kunst.</p><p>Am 19. Dezember 2014 ab 16.00 Uhr … und diesmal nur an diesem Tag in der Galerie Bund Bildender Künstler Vogtland e.V., Bärenstraße 4 in Plauen.</p>"},"id":"81fd1422-31f8-4ecd-b0b9-4bd7256c19a1","isHidden":false,"type":"text"}]
+
+----
+
+Photos: - 'file://dlp11zmwaussrfdk'
+
+----
+
+Uuid: oeurm2gpe2nkjao4

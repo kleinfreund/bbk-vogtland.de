@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Siegfried Otto Hüttengrund: Hommage a Amerigo Vespucci
+
+----
+
+Uuid: gvdppvrzc5pwnanx
+
+----
+
+Template: blocks/image

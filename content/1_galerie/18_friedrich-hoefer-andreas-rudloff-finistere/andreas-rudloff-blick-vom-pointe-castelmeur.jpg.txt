@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Finistère – Andreas Rudloff
+
+----
+
+Uuid: glavhuhi7bslbvaj
+
+----
+
+Template: blocks/image

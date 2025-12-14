@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ralph Kunzmann: Akt 2
+
+----
+
+Uuid: lxwtpiqkvjnytada
+
+----
+
+Template: blocks/image

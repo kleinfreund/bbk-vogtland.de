@@ -1,0 +1,22 @@
+Title: Christina Röckl: „halloalleendeneu“ Malerei, Illustration
+
+----
+
+Date: 2015-11-23 00:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Christina Röckl, Absolventin der Kunsthochschule Burg Giebichenstein, ist mit Malerei und Büchern unterwegs. Kraftvoll direkte Bildwelten ohne kapriziöse Verzierungen. Ihr Erstlingswerk „Und dann platzt der Kopf“ erhielt den Preis für das Jugendsachbuch 2015.</p><p>Ausstellungseröffnung am 27. November 2015<br>mit der Band „Famous in Suwalki“<br>um 18 Uhr in der Galerie des BBKV e.V.</p><p>Ausstellungsfinissage am 18. Dezember 2015<br>mit feinstem Hip Hop von „pLeM“<br>um 18 &nbsp;Uhr in der Galerie des BBKV e.V.</p>"},"id":"f1f9dd3f-621c-438a-83b5-8bbc93af636f","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://ocsaaup3cdjqfrbf'
+- 'file://8ldmp5ybky27bh3a'
+- 'file://st5oe8lig6ghhk1k'
+- 'file://dbpjybh5owgpekam'
+
+----
+
+Uuid: foyyxgvsjfxqfvfq

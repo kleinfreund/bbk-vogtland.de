@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Hermann Geyer – 2
+
+----
+
+Uuid: t5nw5qxijoxcufaa
+
+----
+
+Template: blocks/image

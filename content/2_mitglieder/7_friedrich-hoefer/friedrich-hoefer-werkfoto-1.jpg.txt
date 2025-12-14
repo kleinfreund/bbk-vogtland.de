@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: eldirctvtvkna3ju
+
+----
+
+Template: blocks/image

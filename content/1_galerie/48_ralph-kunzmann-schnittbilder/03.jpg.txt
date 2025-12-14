@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: gdbcm2cznnscdncy
+
+----
+
+Template: blocks/image

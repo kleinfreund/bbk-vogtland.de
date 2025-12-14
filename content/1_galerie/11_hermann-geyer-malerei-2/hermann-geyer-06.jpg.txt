@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Hermann Geyer – 6
+
+----
+
+Uuid: jewehvckrw15hytn
+
+----
+
+Template: blocks/image

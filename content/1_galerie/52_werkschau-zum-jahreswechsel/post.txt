@@ -1,0 +1,23 @@
+Title: Werkschau zum Jahreswechsel
+
+----
+
+Date: 2023-11-08 17:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Zum Ende des Jahres zeigen wir Arbeiten, die für Rückschau und Vorfreude stehen können.</p><p>Die Ausstellungseröffnung findet am Freitag, den 10.11.2023 um 18 Uhr in der Galerie des BBKV e.V. statt.</p>"},"id":"226dfc9f-2bbd-4d29-a24a-fed56511c227","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://qdozxtuncoptsiyv'
+- 'file://keh212wbirtcpbk2'
+- 'file://2djldebcklgh54mf'
+- 'file://vvjba3wnehgr6oj6'
+- 'file://oukcpnuwzvv5txrv'
+
+----
+
+Uuid: r8cuwysqvgpejtwl

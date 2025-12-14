@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: rote Holzschale
+
+----
+
+Uuid: d0dcbwbdcsfyt3bb
+
+----
+
+Template: blocks/image

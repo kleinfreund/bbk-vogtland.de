@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Günter Weiß – Retrospektive 8
+
+----
+
+Uuid: kdknju3zl4q7wl4n
+
+----
+
+Template: blocks/image

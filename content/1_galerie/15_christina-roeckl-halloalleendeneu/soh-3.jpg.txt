@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: SOH 3
+
+----
+
+Uuid: dbpjybh5owgpekam
+
+----
+
+Template: blocks/image

@@ -1,0 +1,21 @@
+Title: Friedrich Höfer
+
+----
+
+Photo: - 'file://uunn4joevfssxvpt'
+
+----
+
+Examples:
+
+- 'file://eldirctvtvkna3ju'
+- 'file://2nku7xcohjhx5nvv'
+- 'file://gigecitlxre5afy7'
+
+----
+
+Text: [{"content":{"text":"<p>Friedrich Höfer<br>Winterkastener Straße 32<br>64385 Reichelsheim (Ortsteil Laudenau)</p><p>Telefon: 06164 721<br>E-Mail: <a href=\"mailto:atelier@friedrich-hoefer.de\">atelier@friedrich-hoefer.de</a><br>Website: <a href=\"http://friedrich-hoefer.de\">friedrich-hoefer.de</a></p>"},"id":"0268c553-fd82-44e8-ba6b-650ba10220f7","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 78h8t9xrmtlajzvz

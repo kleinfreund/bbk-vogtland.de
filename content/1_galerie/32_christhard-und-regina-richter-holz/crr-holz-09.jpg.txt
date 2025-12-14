@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ausstellungseröffnung 4
+
+----
+
+Uuid: cbdeyrmoz3pf0xaf
+
+----
+
+Template: blocks/image

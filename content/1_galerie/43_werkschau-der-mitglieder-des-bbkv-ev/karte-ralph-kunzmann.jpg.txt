@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Karte: Ralph Kunzmann
+
+----
+
+Uuid: 6qahk0g8hqok2vgp
+
+----
+
+Template: blocks/image

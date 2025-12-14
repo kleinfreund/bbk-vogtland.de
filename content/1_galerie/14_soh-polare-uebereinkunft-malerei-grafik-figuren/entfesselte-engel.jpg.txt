@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Siegfried Otto Hüttengrund: Entfesselte Engel
+
+----
+
+Uuid: 9jx7gtu2iookd4vn
+
+----
+
+Template: blocks/image

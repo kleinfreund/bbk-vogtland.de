@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Archaik & Transparenz – 11
+
+----
+
+Uuid: snksmwza5puahya3
+
+----
+
+Template: blocks/image

@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Michael Franke: Armreif
+
+----
+
+Uuid: np56u4ljeepvtwcr
+
+----
+
+Template: blocks/image

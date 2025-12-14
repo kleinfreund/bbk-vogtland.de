@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Bernd Hieke: Vogel
+
+----
+
+Uuid: 4jvwcb8hvv2rrsc6
+
+----
+
+Template: blocks/image

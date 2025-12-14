@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Holzskulptur im Freien
+
+----
+
+Uuid: yfk8qshjeolz5x5u
+
+----
+
+Template: blocks/image

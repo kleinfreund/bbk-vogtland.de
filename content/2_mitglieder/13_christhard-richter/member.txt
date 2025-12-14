@@ -1,0 +1,22 @@
+Title: Christhard Richter
+
+----
+
+Photo: - 'file://meq4avprhq8ytcl6'
+
+----
+
+Examples:
+
+- 'file://utjhhv48brzc7j34'
+- 'file://lmm6bagmfbjzutw0'
+- 'file://vnbwpcwjkijvuiy3'
+- 'file://87snvcoms4dmzixc'
+
+----
+
+Text: [{"content":{"text":"<ul><li>1948 geboren in Radebeul</li><li>1954–64 Besuch der polytechnischen Oberschule</li><li>1964–66 Ausbildung zum Agrotechniker und Melker</li><li>1966–73 Studium der Theologie in Leipzig, 2 Töchter werden geboren</li><li>1973–76 Möbeltischler- und Drechslerlehre mit Abschluss</li><li>1976 Bühnentischler und Investbauleiter an der Theaterhochschule Hans Otto in Leipzig</li><li>1979–82 Studium an der Fachschule für angewandte Kunst in Schneeberg bei Prof. Brockhage, Abschluss als Holzgestalter</li><li>1982 Aufbau einer Holzwerkstatt und Umzug an die O</li><li>1989 Aufnahme in den VBK - Sektion Formgestalter, freiberufliche Arbeit, Gemeinschaftsausstellungen mit Verbandskollegen in Wismar und Warnemünde<br>Gestaltungsprojekt für Möblierung und Raumorientierung innerhalb eines Neubaus für geistig Behinderte und Sehgeschädigte bis zur Modell- und Projektvorlage</li><li>1990 3-monatige Studienreise durch Frankreich und h2ien</li><li>1991 Mitglied im Künstlerbund Mecklenburg-Vorpommern</li><li>1994 Arbeiten im Bereich Einzelfertigung und Baurestaurierung, in dieser Zeit mehrere Ausstellungsbeteiligungen bei KB-Kollegen und Teilnahme als Referent bei Fachtagungen für Denkmalpflege und Gestaltung im ländlichen Raum</li><li>2001 Umzug ins Vogtland und Ausbau eines alten Bauernhauses zum Lebens- und Arbeitsmittelpunkt im Atelier Holz Art</li><li>2002–06 Ausstellungen in Wismar, Plauen ,Dresden, Bad Doberan, Hof</li><li>2007–Juni Aufenthalt in Ficulle (Italien), Arbeit im Skulpturenpark La Casella</li><li>2008 Teilnahme Künstlerwettbewerb 'Weg der Stühle' in Rabenau anlässlich des 1. Stuhlbauertages</li></ul>"},"id":"27840125-27d8-4778-acf5-4dd345ff2e79","isHidden":false,"type":"list"},{"content":{"text":"<p>Christhard Richter<br>Eschenbacher Straße 2<br>08261 Gunzen</p><p>E-Mail: <a href=\"mailto:richter-holzart@web.de\">richter-holzart@web.de</a><br>Website: <a href=\"https://holzart-richter.squarespace.com/\">holzart-richter.squarespace.com</a></p>"},"id":"0f0896f5-14e9-44a7-8101-cb9f2868feb6","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: on1vi0zw8i7mutoc

@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Bernd Hieke: Eule
+
+----
+
+Uuid: wsb1eb5yyg1vayry
+
+----
+
+Template: blocks/image

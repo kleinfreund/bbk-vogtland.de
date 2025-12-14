@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Karte: Anke Rudloff
+
+----
+
+Uuid: ubqh9xxrkxlmyqpf
+
+----
+
+Template: blocks/image

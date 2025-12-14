@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Hermann Geyer: Großes Stillleben
+
+----
+
+Uuid: snpisdddrqyfux7p
+
+----
+
+Template: blocks/image

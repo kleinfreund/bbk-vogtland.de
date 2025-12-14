@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Karsten Mittag 1
+
+----
+
+Uuid: 0jrt2qnuawuo5xoy
+
+----
+
+Template: blocks/image

@@ -1,0 +1,21 @@
+Title: Ralph Kunzmann
+
+----
+
+Photo: - 'file://cvb1wleeczcxn5by'
+
+----
+
+Examples:
+
+- 'file://mcewyzym5giszgnz'
+- 'file://nucru7abappxo3i7'
+- 'file://aup6geh8wsl87gtt'
+
+----
+
+Text: [{"content":{"text":"<ul><li>geboren 1963 in Schmölln bei Altenburg</li><li>aufgewachsen in Plauen im Vogtland</li><li>1981 Abschluss einer Ausbildung zum Elektriker</li><li>1982 Abitur</li><li>Studium an der Universität Leipzig am Fachbereich Kunstpädagogik: künstlerische Praxis bei Renate Herfurth und Hans Rossmanit</li><li>1990 Abschluss als Diplomlehrer für Kunsterziehung und Deutsch</li><li>seit 1990 im Schuldienst an Plauener Schulen tätig</li><li>bereits vor und während des Studiums intensive Beschäftigung mit Druckgrafik und Fotografie</li></ul>"},"id":"87b05481-af8a-4366-890a-97aad97331de","isHidden":false,"type":"list"},{"content":{"text":"<p>Ralph Kunzmann<br>Am Zanglerhübel 11<br>08527 Plauen</p><p>Telefon: 03741 133376<br>E-Mail: <a href=\"mailto:r.k@ralle-art.de\">r.k@ralle-art.de</a><br>Website: <a href=\"https://www.model-kartei.de/sedcards/fotograf/172742/ralph-kunzmann/\">ralph-kunzmann.model-kartei.de</a></p>"},"id":"405beefe-5464-4405-b8e4-62d8c52a15e1","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: e8xnzuq5lgiizzb9

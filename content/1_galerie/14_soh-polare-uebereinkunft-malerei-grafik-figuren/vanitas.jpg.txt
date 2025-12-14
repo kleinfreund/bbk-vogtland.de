@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Siegfried Otto Hüttengrund: Vanitas
+
+----
+
+Uuid: e0rhrlu4aixu0pke
+
+----
+
+Template: blocks/image

@@ -1,0 +1,21 @@
+Title: Nicolas Felly
+
+----
+
+Photo: - 'file://ueh4dz8kcfas0mtk'
+
+----
+
+Text: [{"content":{"text":"<p>Website: <a href=\"https://nicolas-felly.de/\">fellyatelier.de</a></p>"},"id":"46fa4c09-1aa4-4192-a5bd-251e18a78176","isHidden":false,"type":"text"}]
+
+----
+
+Examples:
+
+- 'file://phgtorp6wzzdxfqq'
+- 'file://acqrqtwj0f66ixlc'
+- 'file://ej7aoegn2flzldty'
+
+----
+
+Uuid: o4wn8979aseenkbt

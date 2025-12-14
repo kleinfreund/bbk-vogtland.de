@@ -1,0 +1,13 @@
+type: pages
+label: Mitglieder
+parent: kirby.page("mitglieder")
+sortBy: title asc
+size: small
+info: "{{ page.images.count }} Bild(er)"
+layout: cards
+template: member
+empty: Keine Mitglieder bisher
+image:
+  query: page.photo.toFiles.first
+  cover: true
+  ratio: 5/4

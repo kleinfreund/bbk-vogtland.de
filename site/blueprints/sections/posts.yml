@@ -1,0 +1,13 @@
+type: pages
+label: Galerie
+parent: kirby.page("galerie")
+sortBy: date desc
+size: small
+info: "{{ page.images.count }} Bild(er)"
+layout: cards
+template: post
+empty: Keine Beiträge bisher
+image:
+  query: page.cover
+  cover: true
+  ratio: 5/4

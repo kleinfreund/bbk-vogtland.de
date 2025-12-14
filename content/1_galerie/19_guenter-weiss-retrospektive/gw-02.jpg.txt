@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Günter Weiß – Retrospektive 2
+
+----
+
+Uuid: fmdiqjztxgni5tg9
+
+----
+
+Template: blocks/image

@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Frithjof Herrmann: Ausstellung 2
+
+----
+
+Uuid: xpueqxheeypuheny
+
+----
+
+Template: blocks/image

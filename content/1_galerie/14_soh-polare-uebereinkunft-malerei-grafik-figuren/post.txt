@@ -1,0 +1,23 @@
+Title: Siegfried Otto Hüttengrund Polare Übereinkunft Malerei, Grafik, Figuren
+
+----
+
+Date: 2015-07-15 00:00:00
+
+----
+
+Content: [{"content":{"text":"Ich ahne,<br>dass nichts so bleiben wird wie es war,<br>wenn die Seele ins Unbegangene fließt<br>und sich verabschiedet bis zur nächsten Ewigkeit.","citation":"S.O.H."},"id":"ce1feb44-8af7-4ac1-a0c1-7f0eed64b7e1","isHidden":false,"type":"quote"},{"content":{"text":"<p>Siegfried Otto Hüttengrund illustriert mit feingliedrigen Holzrissen, die er auch mit intensivfarbigen Lasurmalereien steigert, eine eigene mythologische Weltsicht ohne sich im vorgegebenen Korsett von Weltreligionen oder zeitgeistigen Denkmustern zu verfangen. Seinem Weg kann nur folgen, wer sich Zeit für diese Kunst nimmt. Dazu kommen Porträts von Tom Waits, Ian Anderson und Bob Dylan. Und seit einiger Zeit stehen wir vor, aus seinen Bildern entstiegenen Holzfiguren.</p><p>Vom 11. September bis 31. Oktober 2015. Ausstellungseröffnung am 11. September 2015 um 18.00 Uhr in der Galerie des BBKV e.V.</p><p>Galerie BBKV e.V., Bärenstraße 4, Plauen<br>29. Mai bis 11. Juli 2015<br>Freitag 14.00–18.00 Uhr<br>Samstag 13.00–17.00 Uhr<br>und im Theater Plauen</p>"},"id":"0b38e781-12a7-42d4-9a88-3c0fa01ab68b","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://9jx7gtu2iookd4vn'
+- 'file://gvdppvrzc5pwnanx'
+- 'file://poatvkmtjqtcdocp'
+- 'file://iiomxghe29tgjsut'
+- 'file://e0rhrlu4aixu0pke'
+
+----
+
+Uuid: 02ue7nbqu9lzf6jc

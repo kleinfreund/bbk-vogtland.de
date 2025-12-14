@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: gje431f2anthuir6
+
+----
+
+Template: blocks/image

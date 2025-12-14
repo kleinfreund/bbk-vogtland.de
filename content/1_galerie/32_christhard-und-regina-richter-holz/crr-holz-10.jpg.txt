@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ausstellungseröffnung 5
+
+----
+
+Uuid: srobycdipriz15v8
+
+----
+
+Template: blocks/image

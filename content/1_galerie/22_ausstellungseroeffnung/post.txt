@@ -1,0 +1,21 @@
+Title: Ausstellungseröffnung
+
+----
+
+Date: 2017-04-20 17:55:00
+
+----
+
+Content: [{"content":{"text":"<p>Die Ausgangssituation für abstrakt-phantastische Figuren der Druckgrafik und für Aktfotografien findet Ralph Kunzmann im Schwarz-Weiß. Das Bauhaus bietet Inspirationen für den Silberschmuck von Michael Franke.</p><p>Die Ausstellungseröffnung findet am Freitag, den 28. April 2017 um 18 Uhr in der Galerie Bund Bildender Künstler Vogtland e.V., Bärenstraße 4 in Plauen statt.</p><p>Am Samstag nach der Ausstellungseröffnung bleibt die Ausstellung geschlossen und zur Nacht der Museen in Plauen am 23. Juni ist von 18 Uhr bis nach Mitternacht geöffnet.</p>"},"id":"1c17f584-0a4a-4156-b6f2-f3380eb57d31","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://np56u4ljeepvtwcr'
+- 'file://lxwtpiqkvjnytada'
+- 'file://e3qfjebojnpbkycd'
+
+----
+
+Uuid: svxxw0a5yzp3fsgp

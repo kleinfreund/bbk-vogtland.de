@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Siegfried Otto Hüttengrund: Hommage a Rainer Maria Rilke
+
+----
+
+Uuid: poatvkmtjqtcdocp
+
+----
+
+Template: blocks/image

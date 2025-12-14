@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Rolf Magerkord 1
+
+----
+
+Uuid: kgj5mmvobqpz1kan
+
+----
+
+Template: blocks/image

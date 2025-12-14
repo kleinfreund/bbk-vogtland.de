@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Finistère – Friedrich Höfer
+
+----
+
+Uuid: c1nx0bdav764ntk4
+
+----
+
+Template: blocks/image

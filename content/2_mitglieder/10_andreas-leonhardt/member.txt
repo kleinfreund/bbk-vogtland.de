@@ -1,0 +1,21 @@
+Title: Andreas Leonhardt
+
+----
+
+Photo: - 'file://7pbqfyexgas7e6z7'
+
+----
+
+Examples:
+
+- 'file://7puxpwis8nakwdxh'
+- 'file://2ps9qwjpqumiysau'
+- 'file://jgin337sl01vjlni'
+
+----
+
+Text: [{"content":{"text":"<ul><li>1959 in Plauen geboren</li><li>1978 Abitur</li><li>1980–1985 Töpferlehre in Bürgel und Arbeiten in verschiedenen Werkstätten</li><li>seit 1986 freischaffend</li><li>1987 Meisterprüfung im Töpferhandwerk bei Walter Gebauer</li><li>1992 erste Wandplatten</li><li>1993 erste Raku Arbeiten</li><li>1999 erste Fotografiken</li><li>2001 Aufnahme in den Chemnitzer Künstlerbund</li><li>2004–2008 Vorstandsmitglied im Chemnitzer Künstlerbund</li><li>2009 Gründungs- und Vorstandsmitglied im Bund Bildener Künstler Vogtland e.V.</li></ul>"},"id":"b23ebaa8-9481-469b-9be1-54f8b728a9e0","isHidden":false,"type":"list"},{"content":{"text":"<p>Andreas J. Leonhardt<br>Bärenstraße 4<br>08523 Plauen</p><p>Telefon: 03741 222568<br>E-Mail: <a href=\"mailto:leonhardtplauen@yahoo.de\">leonhardtplauen@yahoo.de</a><br>Website: <a href=\"https://leorot.de/\">leorot.de</a></p>"},"id":"47252c86-7f3a-4daa-94f0-02198648c596","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: eiuzoqyaahldawbg

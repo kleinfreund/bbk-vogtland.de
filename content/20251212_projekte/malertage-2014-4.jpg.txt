@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Vogtländische Malertage 2014 – 4
+
+----
+
+Uuid: r5gd8ryjjpr1omav
+
+----
+
+Template: blocks/image

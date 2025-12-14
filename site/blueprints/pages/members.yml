@@ -1,0 +1,10 @@
+title: Mitglieder
+sections:
+  drafts:
+    extends: sections/members
+    label: Unveröffentlichte Beiträge
+    status: draft
+  listed:
+    extends: sections/members
+    label: Veröffentlichte Beiträge
+    status: listed

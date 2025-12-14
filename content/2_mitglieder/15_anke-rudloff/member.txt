@@ -1,0 +1,21 @@
+Title: Anke Rudloff
+
+----
+
+Photo: - 'file://ii4bl9jfgcn7tuhm'
+
+----
+
+Examples:
+
+- 'file://utfkgjeh3bdtjh99'
+- 'file://hyjl3ahwdfa0cmdd'
+- 'file://eeknktvkaep3lnwd'
+
+----
+
+Text: [{"content":{"text":"<ul><li>am 26.10.1962 in Bad Elster geboren</li><li>Lehre Textilzeichnerin</li><li>Studium an der HS für Kunst &amp; Design „Burg Giebichenstein“ in Halle</li><li>1989–1992 Designerin Halbmond Teppichwerke Oelsnitz</li><li>verheiratet mit Andreas Rudloff</li><li>Kinder: Philipp, Julia und Valentin</li><li>Künstlerin und Lehrtätigkeit am Beruflichen Schulzentrum e.o.plauen</li><li>Mitglied Bund Bildender Künstler Vogtland e.V.</li><li>Mitglied Bundesverband Bildender Künstlerinnen und Künstler</li></ul>"},"id":"236056c6-a4fc-4b90-ae32-576e518106b5","isHidden":false,"type":"list"},{"content":{"text":"<p>Anke Rudloff<br>Markt 32<br>08626 Adorf</p><p>Telefon: 037423 2036<br>E-Mail: <a href=\"mailto:ank.rudloff@gmail.com\">ank.rudloff@gmail.com</a><br>Website: <a href=\"https://ankerudloff.de\">ankerudloff.de</a></p>"},"id":"a41713ab-d0cf-45de-92e0-6ee7128c98bb","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: foq4eas0dcmzqjaa

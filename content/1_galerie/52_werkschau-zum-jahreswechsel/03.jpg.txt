@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: 2djldebcklgh54mf
+
+----
+
+Template: blocks/image

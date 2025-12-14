@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Reiner Bittner: Pfaffengrüner Surrealismus – 1
+
+----
+
+Uuid: 4fpgpmbyfnwqnvry
+
+----
+
+Template: blocks/image

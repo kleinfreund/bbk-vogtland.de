@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Die Neuen
+
+----
+
+Uuid: axuhtqxamchw5lyd
+
+----
+
+Template: blocks/image

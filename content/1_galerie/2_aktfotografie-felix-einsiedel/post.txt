@@ -1,0 +1,25 @@
+Title: Aktfotografie Felix Einsiedel
+
+----
+
+Date: 2014-06-11 13:45:00
+
+----
+
+Content: [{"content":{"text":"<p>Gezeigt werden Fotografien, in einer philosophischen Auseinandersetzung der menschlichen Kreatur in seiner subjektiven Umgebung. Der Künstler folgt im Schaffungsprozess seinen Gefühlen, um diese dann öffentlich zu machen.</p><p>Die tägliche Arbeit als Produkt- und Werbefotograf lässt nicht viel Spielraum zur realen Welt. Sprache verselbstständigt sich in vielen Bereichen unserer Gesellschaft, wie z.B. in der Werbung, Wissenschaft oder Politik. Moderne digitale Möglichkeiten erzeugen dazu eine weltweite Bilderflut, der wir nicht gewachsen scheinen. Eine Verarbeitung über unseren Erfahrungsschatz ist ausgeschlossen.</p><p>Dieser Oberflächlichkeit möchte der Fotograf \"Felix\" entfliehen und seine Bilder einer genaueren Betrachtung preisgeben. Die ausgestellten Bilder sind im Schwarzweiß-Prozess entstanden, auf Filmmaterial fotografiert und auf herkömmliche Art verarbeitet. Sie sind ausschließlich im Studio vor neutralem Hintergrund fotografiert, um die volle Aufmerksamkeit auf das Thema zu konzentrieren.</p>"},"id":"610d9c8b-e172-476b-ae0f-aaad58f3e2de","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://yzyy0ubwapfwybiz'
+- 'file://johuzlqerlmamigl'
+- 'file://qnvszrne3weflak9'
+- 'file://jivf71d3ar99awrd'
+- 'file://lm8thlsnvcv3tcaf'
+- 'file://peaf6iwqt0bzxzcw'
+- 'file://yzxsnjt3qkvpryro'
+
+----
+
+Uuid: xu5j7sxfuql5kpm8

@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Kunstherbst 2014 – 7
+
+----
+
+Uuid: eptwve4ism40obmo
+
+----
+
+Template: blocks/image

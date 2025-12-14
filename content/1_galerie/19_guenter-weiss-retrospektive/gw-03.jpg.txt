@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Günter Weiß – Retrospektive 3
+
+----
+
+Uuid: ufblrmkkwvsdvbqm
+
+----
+
+Template: blocks/image

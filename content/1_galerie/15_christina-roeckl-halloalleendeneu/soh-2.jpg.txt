@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: SOH 2
+
+----
+
+Uuid: st5oe8lig6ghhk1k
+
+----
+
+Template: blocks/image

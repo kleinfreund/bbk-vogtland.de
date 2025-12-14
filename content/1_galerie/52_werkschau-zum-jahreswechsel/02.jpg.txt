@@ -1,0 +1,13 @@
+Caption:
+
+----
+
+Alt:
+
+----
+
+Uuid: keh212wbirtcpbk2
+
+----
+
+Template: blocks/image

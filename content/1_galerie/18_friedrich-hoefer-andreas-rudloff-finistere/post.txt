@@ -1,0 +1,20 @@
+Title: Friedrich Höfer & Andreas Rudloff: Finistère
+
+----
+
+Date: 2016-05-17 00:00:00
+
+----
+
+Content: [{"content":{"text":"<p><strong>vom 27.5.–9.7.2016<br></strong>in der Galerie des BBKV e.V. und im Theater Plauen</p><p>Aquarelle, Zeichnungen und Holzschnitte zu Landschaften der Bretagne</p><p>Friedrich Höfer arbeitet seit über zwanzig Jahren im Nordwesten der Bretagne. Das Finistère ist eine Landschaft, die mit ihrem Angebot an spröden Küstenformationen der Technik seiner Holzschnitte entgegenkommt.</p><p>Andreas Rudloff war 2015 Gast in dieser Gegend und es entstand eine Serie von dunkelfarbigen Aquarellen.</p><p>A. R.</p>"},"id":"89c5c41c-fd2d-41bf-ab00-e25c883d1933","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://c1nx0bdav764ntk4'
+- 'file://glavhuhi7bslbvaj'
+
+----
+
+Uuid: y6kby2hwyrxocr6a

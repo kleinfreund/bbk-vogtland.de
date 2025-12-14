@@ -1,0 +1,20 @@
+Title: ROLF MAGERKORD Skulptur, Plastik, Fotos und Collagen
+
+----
+
+Date: 2016-10-23 16:00:00
+
+----
+
+Content: [{"content":{"text":"<p>„Uralte Steinbarrieren am Ufer der Saale, Steinbrüche haben meine ersten Schritte als Bildhauer beeinflusst. Der Block - der Kubus, die Walze, die Kugel - das Haptische der ‚Fröbelspiele‘ war im alltäglichen Umfeld in architektonischen Dimensionen überall sichtbar. Der Ton in den Kiesgruben, knetbar, formbar zum Figürlichen hin, war am Anfang des Weges, den ich gehen wollte. Stein, Ton und Gips, dazu das Werkzeug, seit den ‚Alten Ägyptern‘ kaum verändert, lernte ich handhaben. Und das Menschenbild. Anthropologisch gleich. Die Kunst, das jeweils Existenzielle, die Wesenszüge zu abstrahieren, selbst an wenigen Merkmalen fest zu machen - ein unendlicher Prozess.“<br>—Rolf Magerkord, 2016</p><p>Ausstellungseröffnung am Freitag, den 11.11.16 um 18.00 Uhr in der Galerie des BBKV.</p><p>Zusätzliche Öffnungszeiten am 12. und 13. November von 10-17 Uhr.</p>"},"id":"ad4e41bb-5504-4fd4-a457-632a299e6402","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://kgj5mmvobqpz1kan'
+- 'file://mxxmolqq0rizhfbc'
+
+----
+
+Uuid: 18maldd9jzgzuflw

@@ -1,0 +1,21 @@
+Title: Frank Herbert Zaumzeil: Zeitwanderung Malerei, Zeichnung
+
+----
+
+Date: 2016-02-15 00:00:00
+
+----
+
+Content: [{"content":{"text":"<p><strong>vom 15.1.–27.2.2016</strong></p><p>Der Zeitwanderer, Designer und Künstler wird bald 75. Auf dem Weg dahin entstand ein umfangreiches Gesamtwerk. Frank Herbert Zaumzeil präsentiert kalligrafisch ambitionierte Bilder. Eine Aura inspirierter Spontanität vermittelt die Dynamik des Schöpfungsprozesses seiner Bilder.</p>"},"id":"3ea5631e-ae03-4099-af2e-363a2014de3d","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://16lmndtejjlsdz69'
+- 'file://t5jzmxof0md7h0rb'
+- 'file://vrf475ruyby9cfmi'
+
+----
+
+Uuid: xrlcomr9egffbddy

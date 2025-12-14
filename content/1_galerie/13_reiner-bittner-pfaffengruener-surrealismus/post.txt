@@ -1,0 +1,21 @@
+Title: Reiner Bittner, Pfaffengrüner Surrealismus
+
+----
+
+Date: 2015-05-21 00:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Mit Bildern möchte ich die Fantasie des Betrachters anregen und ihm Möglichkeiten geben, seine Gedanken und Empfindungen einzubringen. Mit meiner Art der Acrylmaltechnik schaffe ich ein Spektrum von Zufallsstrukturen, in denen ich das Angebot möglicher Interpretationen weiterbearbeite. Diese Zustände bleiben individuellen Sichtweisen &nbsp;gegenüber offen. Ein weiteres Anliegen ist es dabei, Routinen unserer dreidimensionalen Sehweise und Denkmuster aufzubrechen und auf Optionen weiterführender Wirklichkeiten zu orientieren.<br>Reiner Bittner</p><p>Ausstellungseröffnung am 29. Mai 2015 um 18.00 Uhr in der Galerie des BBKV e.V.</p><p>Galerie BBKV e.V., Bärenstraße 4, Plauen<br>29. Mai bis 11. Juli 2015<br>Freitag 14.00–18.00 Uhr<br>Samstag 13.00–17.00 Uhr</p>"},"id":"457634a3-89a9-4609-bb6f-f4772561f85e","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://4fpgpmbyfnwqnvry'
+- 'file://qdsizpqaznrkeygp'
+- 'file://fc9qhbhtfydrknxr'
+
+----
+
+Uuid: vvvypqwj0jutdxzo

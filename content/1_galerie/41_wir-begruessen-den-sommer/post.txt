@@ -1,0 +1,20 @@
+Title: Wir begrüßen den Sommer
+
+----
+
+Date: 2021-07-03 10:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Ursula Mattheuer-Neustädt &amp; Jürgen Adler<br>INTERMEZZO<br>vom 2. bis 17. Juli 2021</p><p>Ursula Mattheuer-Neustädt und Jürgen Adler, beide in Plauen geboren, haben sich mit ihrer Kunst der Zeichnung, Druckgrafik und Illustration gewidmet und dabei häufig auch Motive des Vogtlandes thematisiert. Der Lebensmittelpunkt von Ursula-Mattheuer Neustädt war Leipzig. Jürgen Adler war für viel Kolleginnen und Kollegen im vogtländischen Raum Freund und Wegbegleiter. Der Bund Bildender Künstler Vogtland präsentiert in dieser kleinen Kabinettausstellung für zwei Wochen Bilder aus der Sammlung Elke und Peter Wolf.</p><p>Die Ausstellung findet ohne eine offizielle Ausstellungseröffnung an folgenden Tagen statt:</p>"},"id":"b8d4da86-5411-4788-ae2b-5b6cf57c0e72","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>2. Juli</li><li>3. Juli</li><li>9. Juli</li><li>10. Juli</li><li>16. Juli</li><li>17. Juli</li></ul>"},"id":"01de66fd-9555-439f-8527-b4b026165d34","isHidden":false,"type":"list"}]
+
+----
+
+Photos:
+
+- 'file://8bq1bt8olelafk9t'
+- 'file://xe4md17ur33gxrph'
+
+----
+
+Uuid: gezt2nwrawiu8ut3

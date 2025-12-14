@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Kunstschatten – Kunstwandelhalle Bad Elster 06
+
+----
+
+Uuid: x6awv2vjadehofhg
+
+----
+
+Template: blocks/image

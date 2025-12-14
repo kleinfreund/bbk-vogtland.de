@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: 40dfc1l5bugchavd
+
+----
+
+Template: blocks/image

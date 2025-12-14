@@ -1,0 +1,26 @@
+Title: Ly Langhoff – ein Porträt Aquarelle und Schmuck
+
+----
+
+Date: 2018-09-11 10:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Vom 7. September bis zum 20. Oktober 2018 in der Galerie des BBKV.</p><p>Die Schülerin der Staatlichen Kunstschule Plauen von 1928 -1933 verstarb 101-jährig. Zeit für subtile Porträts, mit Leichtigkeit und kontroverser Farbigkeit. Markanter Schmuck, Zeichen für eine starke und wissende Frau.</p>"},"id":"0f742743-ea1c-4529-b9e7-640f31557f5c","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://xn9q8bkoncuo2r2q'
+- 'file://4e896oimznuc21zo'
+- 'file://dd0sa2vfma3thiko'
+- 'file://rzegeycfa6h3qqmz'
+- 'file://dzzcs6lqfstmmzui'
+- 'file://vbfciyighd2s5yd4'
+- 'file://fbozdcrffh25cgdu'
+- 'file://7dpm1izkkqjqvyqq'
+
+----
+
+Uuid: lkmkedgiammidxjg

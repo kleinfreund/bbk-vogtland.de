@@ -1,0 +1,21 @@
+# Exclude at the root of source:
+
+# Shouldn't be on the server
+/.ddev/
+
+# Shouldn't be changed on regular site updates
+/content/
+
+# Shouldn't be deleted/synced
+/media/
+/site/accounts/
+/site/cache/
+/site/config/.license
+/site/sessions/
+
+
+# Exclude anywhere in the source:
+
+# Shouldn't be on the server
+.git/
+.gitignore

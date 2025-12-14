@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ly Langhoff 3
+
+----
+
+Uuid: dd0sa2vfma3thiko
+
+----
+
+Template: blocks/image

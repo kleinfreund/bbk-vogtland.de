@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Nicolas Felly: Der letzte einer Art
+
+----
+
+Uuid: rfreuwfwvnigfpc1
+
+----
+
+Template: blocks/image

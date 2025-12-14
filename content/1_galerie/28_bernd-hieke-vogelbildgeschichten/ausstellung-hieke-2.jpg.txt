@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ausstellungseröffnung: Bernd Hieke
+
+----
+
+Uuid: rzixaj9iepz4wdzn
+
+----
+
+Template: blocks/image

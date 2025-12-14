@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Günter Weiß – Retrospektive 4
+
+----
+
+Uuid: loox9n51glz0viju
+
+----
+
+Template: blocks/image

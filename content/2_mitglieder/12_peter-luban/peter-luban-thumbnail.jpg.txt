@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: wwwgwrzpf9mxnwcc
+
+----
+
+Template: blocks/image

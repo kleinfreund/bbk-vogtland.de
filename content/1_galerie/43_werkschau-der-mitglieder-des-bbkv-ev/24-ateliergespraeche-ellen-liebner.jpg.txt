@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 24 Ateliergespräche: Die Künstler
+
+----
+
+Uuid: 9nqdupjy7khxgp6y
+
+----
+
+Template: blocks/image

@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ausstellungseröffnung 3
+
+----
+
+Uuid: 8hy7mfilnvrjwe7b
+
+----
+
+Template: blocks/image

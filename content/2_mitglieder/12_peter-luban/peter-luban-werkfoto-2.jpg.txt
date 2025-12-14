@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: p7rkzyhel99th5nb
+
+----
+
+Template: blocks/image

@@ -1,0 +1,21 @@
+Title: Frank H. Zaumzeil
+
+----
+
+Photo: - 'file://dsv6a5gfvvmcdtgi'
+
+----
+
+Examples:
+
+- 'file://lngcyixoj2j7dp6q'
+- 'file://9phxusndmz1emmt3'
+- 'file://khdpoq89gpzrfpgt'
+
+----
+
+Text: [{"content":{"text":"<ul><li>1941 in Rotschau bei Reichenbach Vogtl. geboren</li><li>Berufsabschluss als Musterzeichner</li><li>1971 Abschluss an der FAK Schneeberg (Dipl. Designer FH)<br>danach Designer im Zentralen Musterbüro Lengenfeld V.</li><li>1983–1990 Leiter des ZMB Lengenfeld V.</li><li>1991 Neubeginn als Atelierleiter für Textil – und Tapetengravuren<br>Freiberuflicher Designer und Lehrtätigkeit</li><li>1995 wegen lebensbedrohlicher Erkrankung aus dem Berufsleben ausgeschieden</li><li>1996 Beginn einer Phase bildnerischen Schaffens</li><li>2003–2007 Chemnitzer Künstlerbund e.V.</li><li>2008 Gründungsmitglied Bund Bildender Künstler Vogtland e.V.</li><li>Mitglied: BBKV / SKB / BBK</li></ul>"},"id":"ef20968f-0840-43e8-b55f-99d528fb093b","isHidden":false,"type":"list"},{"content":{"text":"<p>Frank H. Zaumzeil<br>Schulstraße 7<br>07985 Elsterberg</p><p>Telefon: 036621 22297<br>E-Mail: <a href=\"mailto:mail@frank-h-zaumzeil.de\">mail@frank-h-zaumzeil.de</a><br>Website: <a href=\"https://frank-h-zaumzeil.de/\">frank-h-zaumzeil.de</a><br>Werkdatenbank: <a href=\"https://www.lbk-sachsen.de/werkdatenbank/person/zaumzeil-frank-h\">LBK Sachsen: Frank H. Zaumzeil</a></p>"},"id":"2443518c-f7ee-4617-a07b-d22b41dd0b51","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 0r3weoi952ymewey

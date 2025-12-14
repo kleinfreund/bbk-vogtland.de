@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Hermann Geyer: Annett
+
+----
+
+Uuid: tz2qyine2d33agry
+
+----
+
+Template: blocks/image

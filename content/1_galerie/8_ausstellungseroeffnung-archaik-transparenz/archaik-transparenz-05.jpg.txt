@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Archaik & Transparenz – 5
+
+----
+
+Uuid: szxj3utpdxqdtjrh
+
+----
+
+Template: blocks/image

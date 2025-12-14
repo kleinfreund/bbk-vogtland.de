@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Lothar Rentsch – Portrait
+
+----
+
+Uuid: pk0cn934x5bqpyjy
+
+----
+
+Template: blocks/image

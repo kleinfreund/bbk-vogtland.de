@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ausstellungseröffnung – Finden, Bilder, Matrices 2
+
+----
+
+Uuid: ka39qpsfdzk4kfdr
+
+----
+
+Template: blocks/image

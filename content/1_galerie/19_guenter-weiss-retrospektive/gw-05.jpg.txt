@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Günter Weiß – Retrospektive 5
+
+----
+
+Uuid: cwzk48seyrhbqbjr
+
+----
+
+Template: blocks/image

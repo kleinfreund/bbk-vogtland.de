@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ly Langhoff 4
+
+----
+
+Uuid: rzegeycfa6h3qqmz
+
+----
+
+Template: blocks/image

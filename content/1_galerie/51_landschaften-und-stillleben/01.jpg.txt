@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: fo4cfgcmzzpak54j
+
+----
+
+Template: blocks/image

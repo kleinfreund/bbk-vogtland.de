@@ -1,0 +1,17 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: qdozxtuncoptsiyv
+
+----
+
+Template: blocks/image
+
+----
+
+Lock: 1gVWjAJt

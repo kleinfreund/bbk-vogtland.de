@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Portrait von Regina und Christhard Richter
+
+----
+
+Uuid: 3n3gzdxtoy427ucl
+
+----
+
+Template: blocks/image

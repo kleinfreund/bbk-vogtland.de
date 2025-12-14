@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Frank Herbert Zaumzeil 2
+
+----
+
+Uuid: t5jzmxof0md7h0rb
+
+----
+
+Template: blocks/image

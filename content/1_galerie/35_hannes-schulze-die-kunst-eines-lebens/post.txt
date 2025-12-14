@@ -1,0 +1,24 @@
+Title: Hannes Schulze: Die Kunst eines Lebens
+
+----
+
+Date: 2019-09-13 07:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Galerie des BBKV e. V.<br>13. September – 27. Oktober 2019</p><p>Fr 14.00 – 18.00 Uhr<br>Sa 13.00 – 17.00 Uhr</p><p>Führung durch die Ausstellung mit Hannes Schulze und Bianca Hallebach am 27. September 2019 um 17.00 Uhr (ab 10 Personen á 5 €). Bitte melden Sie sich telefonisch unter 03741 14 70 70 bei Bianca Hallebach an.</p><p>Einladung zur Ausstellungseröffnung am 13. September 2019 um 18.00 Uhr in der Galerie des BBKV e. V.</p><p>Tag für Tag begegnet man ihm im Raum Plauen, ob mit dem Auto, Straßenbahn, bei Behördengängen, im Stadtpark oder beim Wandern. Hannes Schulze begleitet unser Leben mit zum Nachsinnen anregenden Objekten und lädt zum Erspüren der authentisch verarbeiten Materialien ein. Betritt man den privaten Garten von Gudrun und Hannes Schulze, kann man die Essenz eines Künstler- und zugleich Familienlebens spüren. Weiche, klare Formen der Skulpturen finden ihren Gegenspieler in sensiblen Linien der Gartengestaltung. Umfangen von wohliger Atmosphäre wird jeder Schritt zu einer spannenden Entdeckungsreise durch das Lebenswerk des Paares. Das Bewusstsein für bekannte Werke und der Fokus auf persönliche Arbeiten soll Vermächtnis dieser Ausstellung zum 80igsten Ehrentag des Bildhauers sein.</p><p>»Das muss ein Genuss sein, so ein kraftvolles Oval zu machen, oben auf dem Berg, ganz groß!«<br>—Hannes Schulze</p>"},"id":"39c4dede-8eaf-434a-9d5f-8d825a8b71a0","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://srwxyij8hkoqb4hf'
+- 'file://8pdjhdznxcfnerin'
+- 'file://luy57k7kr0bm96j0'
+- 'file://ggl8ze32k5ic1txv'
+- 'file://qtmew5gi1gzx8od0'
+- 'file://cephnsrht2ezoblt'
+
+----
+
+Uuid: inimmeieflr1joo6

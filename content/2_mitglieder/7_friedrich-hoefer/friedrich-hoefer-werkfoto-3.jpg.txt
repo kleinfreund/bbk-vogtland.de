@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: gigecitlxre5afy7
+
+----
+
+Template: blocks/image

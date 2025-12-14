@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Ausstellungseröffnung: Gruppenbild
+
+----
+
+Uuid: k5mmbjxo6w7knyhm
+
+----
+
+Template: blocks/image

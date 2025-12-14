@@ -1,0 +1,21 @@
+Title: Peter Luban
+
+----
+
+Photo: - 'file://wwwgwrzpf9mxnwcc'
+
+----
+
+Examples:
+
+- 'file://kjzbf7ki7nzyheuc'
+- 'file://p7rkzyhel99th5nb'
+- 'file://m8m8mgpku2vodevj'
+
+----
+
+Text: [{"content":{"text":"<ul><li>geb. am 15. August 1952 in Plauen</li><li>1976–1979: Abendstudium an der Hochschule für Bildende Künste Dresden</li><li>1981–1986: Studium an der Kunsthochschule Halle, Burg Giebichenstein</li><li>seit 1986: freischaffender Künstler, Mitglied im Sächsischen Künstlerbund</li></ul>"},"id":"a70ed5b8-de27-41b6-ad84-1241c1d69750","isHidden":false,"type":"list"},{"content":{"text":"<p>Peter Luban<br>Hauptstraße 3<br>08527 Rößnitz</p><p>Telefon: 037431 3489<br>E-Mail: <a href=\"mailto:peter.luban@web.de\">peter.luban@web.de</a><br>Website: <a href=\"http://peter-luban.de\">peter-luban.de</a></p>"},"id":"d36f367c-5e22-4e31-bab5-333021039ee8","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: ptbjd4sh4gphwzth

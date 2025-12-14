@@ -1,0 +1,17 @@
+Title: Karen Schramke
+
+----
+
+Photo: - 'file://0dutll05wapdgc6f'
+
+----
+
+Examples: []
+
+----
+
+Text: [{"content":{"text":"<p>Kissingenstraße 37<br>13189 Berlin</p><p>Telefon: 0176 21210420<br>E-Mail: <a href=\"mailto:k.schramke@schramke-design.de\">k.schramke@schramke-design.de</a><br>Website: <a href=\"https://schramke-design.de/\">schramke-design.de</a></p>"},"id":"c7577fe0-5924-4c24-8803-ce86b523679d","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: shsuaho27rmi7mnb

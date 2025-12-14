@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Frithjof Herrmann: Ausstellung
+
+----
+
+Uuid: paza98vqrfh63ywe
+
+----
+
+Template: blocks/image

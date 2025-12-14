@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: nucru7abappxo3i7
+
+----
+
+Template: blocks/image

@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: ncfpglip82vkwfre
+
+----
+
+Template: blocks/image

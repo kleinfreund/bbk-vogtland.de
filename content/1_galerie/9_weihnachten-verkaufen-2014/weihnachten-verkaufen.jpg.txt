@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Weihnachten verkaufen 2014
+
+----
+
+Uuid: dlp11zmwaussrfdk
+
+----
+
+Template: blocks/image

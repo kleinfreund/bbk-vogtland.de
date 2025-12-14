@@ -1,0 +1,22 @@
+Title: Stefanie Kölbel & Christian Pietzsch: Zweiklang
+
+----
+
+Date: 2019-03-21 15:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Vom 22. März BIs 5. Mai 2019 in der Galerie des BBKV e.V. und im Theater Plauen.</p><p>Dreidimensionale Schmuckarchitekturen von Stefanie Kölbel sind lineare Strukturen aus Metall und Kunststoff. Landschaften und Porträts von Christian Pietzsch werden zu stillen Optionen gegen schnelle Provokationen.</p><p>Die Ausstellungseröffnung am 22. März 2019 um 18 Uhr in der Galerie des BBKV e.V. in Plauen, Bärenstraße 4 wird von Carmen Strobel am Klavier begleitet.</p><p>Freitag: 14–18 Uhr<br>Samstag: 13–17 Uhr<br>Feiertags: geschlossen</p>"},"id":"314e70e5-5273-48ec-ae6b-92549da443dc","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://vm5qn3wxuygziv77'
+- 'file://gzghhmcewvxc0kdm'
+- 'file://udptga3ba8qeoqkf'
+- 'file://oezukpt0b8vemn5a'
+
+----
+
+Uuid: tfpbn8mjksnip2xl

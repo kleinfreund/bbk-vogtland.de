@@ -1,0 +1,10 @@
+title: Galerie
+sections:
+  drafts:
+    extends: sections/posts
+    label: Unveröffentlichte Beiträge
+    status: draft
+  listed:
+    extends: sections/posts
+    label: Veröffentlichte Beiträge
+    status: listed

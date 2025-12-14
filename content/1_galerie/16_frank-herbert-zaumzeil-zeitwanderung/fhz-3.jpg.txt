@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Frank Herbert Zaumzeil 3
+
+----
+
+Uuid: vrf475ruyby9cfmi
+
+----
+
+Template: blocks/image

@@ -1,0 +1,36 @@
+title: Beitrag
+status:
+  draft:
+    label: Entwurf
+    text: Der Beitrag ist noch ein Entwurf. Er ist noch nicht auf der Webseite für normale Besucher:innen sichtbar
+  listed:
+    label: Veröffentlicht
+    text: Der Beitrag ist veröffentlicht und für alle sichtbar
+columns:
+  - width: 1/3
+    fields:
+      title:
+        label: Titel
+        type: text
+        required: true
+      date:
+        label: Datum
+        type: date
+        time: true
+        default: now
+      content:
+        label: Text
+        type: blocks
+  - width: 2/3
+    fields:
+      photos:
+        label: Bilder
+        type: files
+        layout: cards
+        uploads:
+          template: blocks/image
+        info: "{{ file.dimensions }}"
+        image:
+          ratio: 5/4
+          cover: true
+        size: small

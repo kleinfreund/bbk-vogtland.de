@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Alt: Kunstschatten – Kunstwandelhalle Bad Elster 01
+
+----
+
+Uuid: 1ahopymgg2newhak
+
+----
+
+Template: blocks/image

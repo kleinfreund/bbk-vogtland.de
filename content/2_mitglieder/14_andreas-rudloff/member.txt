@@ -1,0 +1,22 @@
+Title: Andreas Rudloff
+
+----
+
+Photo: - 'file://pvj3nifjpvil8yhw'
+
+----
+
+Examples:
+
+- 'file://v9zvti2yzzzvbnv4'
+- 'file://29oy1qjqfvhd9iqs'
+- 'file://djazbiainhuyhkfx'
+- 'file://3yuzldh1fzypidjy'
+
+----
+
+Text: [{"content":{"text":"<ul><li>am 02.04.1963 in Plauen geboren</li><li>Lehre Textilzeichner</li><li>Studium an der HS für Kunst &amp; Design „Burg Giebichenstein“ in Halle</li><li>1989–1992 Designer Halbmond Teppichwerke Oelsnitz</li><li>verheiratet mit Anke Rudloff</li><li>Kinder: Philipp, Julia und Valentin</li><li>Künstler und Lehrtätigkeit am Beruflichen Schulzentrum e.o.plauen</li><li>Mitglied Bund Bildender Künstler Vogtland e.V.</li><li>Mitglied Bundesverband Bildender Künstlerinnen und Künstler</li></ul>"},"id":"0ab12e24-6d06-466b-a60e-98f00c5aab46","isHidden":false,"type":"list"},{"content":{"text":"<p>Andreas Rudloff<br>Markt 32<br>08626 Adorf</p><p>Telefon: 037423 2036<br>E-Mail: <a href=\"mailto:andreasrudloff@fastmail.de\">andreasrudloff@fastmail.de</a><br>Website: <a href=\"https://andreasrudloff.de\">andreasrudloff.de</a></p>"},"id":"f1d27025-8357-4304-b070-e96f9905a728","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: lfvnkuxwid5wovhx

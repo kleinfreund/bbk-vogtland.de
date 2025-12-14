@@ -1,0 +1,8 @@
+columns:
+  - width: 1/2
+    sections:
+      posts: sections/posts
+      members: sections/members
+  - width: 1/2
+    sections:
+      pages: sections/pages

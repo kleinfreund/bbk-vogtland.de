@@ -1,0 +1,26 @@
+Title: BBKV 2018
+
+----
+
+Date: 2017-12-30 15:20:00
+
+----
+
+Content: [{"content":{"text":"<p>Der Bund Bildender Künstler Vogtland präsentiert Positionen zu Kunst und Kunsthandwerk.</p><p>Diese aktuelle Werkschau bringt Malerei, Zeichnungen, Grafik, Silberschmiedekunst, Schmuckgestaltung, Textilgestaltung und Keramik.</p><p>Vom 19. Januar bis 2. März 2018.</p><p>Ausstellungseröffnung ist am 19. Januar 2018, 18 Uhr.</p><p>Danach ist die Ausstellung ab 26. Januar geöffnet.</p>"},"id":"23cf9b2d-e4a1-4c52-866a-f60ee2d4035a","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://a66sicwnnxbsr9iq'
+- 'file://eu2u5gf6rvopg06p'
+- 'file://ktoi0fesvcrkxo5d'
+- 'file://exbrxocvp3flhzuy'
+- 'file://4dnvkiiphigcwgpm'
+- 'file://ix8lh3ph1yromsed'
+- 'file://uvcc35pohqcuchlh'
+- 'file://12v8htbjle8hurnq'
+
+----
+
+Uuid: 5fwbge0pojezj62v

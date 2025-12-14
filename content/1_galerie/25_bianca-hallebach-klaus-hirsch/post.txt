@@ -1,0 +1,28 @@
+Title: Bianca Hallebach – Klaus Hirsch
+
+----
+
+Date: 2017-11-07 14:30:00
+
+----
+
+Content: [{"content":{"text":"<p>„Innere und Äußere Strukturen“</p><p>Vom 10. November bis 15. Dezember 2017.</p><p>Ausstellungseröffnung am 10. November 2017, 18 Uhr.</p><p>Druckgrafik, Zeichnung, Schmuckobjekte</p><p>„Am Ende hat jeder seinen Gott.“</p><p>Klaus Hirsch zeigt Menschen oft in Mutter-Kind Beziehungen. Seine Kupferdruckplatten sind Inspiration für Bianca Hallebach, die dieses Material fragmentarisch in Schmuckobjekten interpretiert.</p>"},"id":"34e96519-1b88-4d93-a7d2-53f33c0474c7","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://pfdcyjyaawxoh0lc'
+- 'file://rlfdhbp97thuapjv'
+- 'file://kulvvyn0f8hjvoac'
+- 'file://o54w33cczlij6ngt'
+- 'file://q7oziiv76ztuqanx'
+- 'file://x8dodn5rttkopldg'
+- 'file://0gri8q7eke52takz'
+- 'file://dsop8pxx9fiub7i1'
+- 'file://mqzfuh7wfeegkjly'
+- 'file://rhbrhlctph3ekfzz'
+
+----
+
+Uuid: rewn98pw9ekzfzhb

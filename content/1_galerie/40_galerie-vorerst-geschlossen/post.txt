@@ -1,0 +1,17 @@
+Title: Galerie bis auf weiteres geschlossen
+
+----
+
+Date: 2020-11-19 06:00:00
+
+----
+
+Content: [{"content":{"text":"<p>… und auch wir schließen unsere Galerie erst einmal bis zum Jahreswechsel und hoffen auf bessere Zeiten im neuen Jahr. Bleibt gesund. Wir freuen uns auf ein Wiedersehen.</p><p>Die Künstlerinnen und Künstler des BBKV e.V.</p>"},"id":"10d7f736-59e0-4915-8a36-f5d7e877aab6","isHidden":false,"type":"text"}]
+
+----
+
+Photos: - 'file://4jbjd398mffbqfdl'
+
+----
+
+Uuid: ycvlblxvwjf6pydy

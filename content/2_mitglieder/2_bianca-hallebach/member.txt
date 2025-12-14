@@ -1,0 +1,21 @@
+Title: Bianca Hallebach
+
+----
+
+Photo: - 'file://jjw507byfvxjecd1'
+
+----
+
+Text: [{"content":{"text":"<ul><li>03.07.1969 in Plauen/Vogtland geboren, lebt seit 1998 wieder in Plauen</li><li>1986–89 Goldschmiedelehre in Crimmitschau</li><li>1989–91 'Wanderjahre' in Mülsen St. Jacob, Hof und Freiberg/Sachsen bei IOB Meier &amp; Gerlach</li><li>ab 1991 eigene Werkstatt in Adorf/Vogtland</li><li>1992 Meisterabschluss in Dresden</li><li>ab 1994 Messetätigkeit in Frankfurt (Ambiente, Tendence), München, Zürich, Luzern, Erkrath, Chemnitz, Plauen</li><li>1997 Workshop bei Bernhard Schobinger, Schweiz</li><li>Ausstellungsbeteiligung in Galerien in Rostock, Warnemünde, Magdeburg, Neustrelitz, Chemnitz, Plauen (Malzhaus)</li><li>Einzelausstellung: Fachhochschule für Musikinstrumentenbau Markneukirchen</li><li>1999 Aufnahme in den Verband Sächsischer Kunsthandwerker</li><li>1999–2000 Ausbildung zum Gestalter im Handwerk an der Akademie für Gestaltung und Denkmalpflege Ebern/Bamberg</li><li>Diplomarbeit erhielt den Meisterpreis der Bayrischen Staatsregierung 2000</li><li>04/2000 Aufnahme in den Künstlerkatalog 'Zeitgenössische Kunst aus dem Vogtland'</li><li>08/01 Heirat mit Sven Krauße</li><li>Entwurf, Modellbau und Werbegestaltung der Schmuckkollektion 'Sense Line' für die Oberlausitzer Schmuckmanufaktur Schneider, Präsentation auf der Midora Leipzig 09.01</li><li>2001 Mitglied Künstlerinnengruppe 'ART a' Chemnitz</li><li>14.11.01 Einladung zum Kunstgespräch in der Galerie des Malzhauses Plauen mit Kunsthistorikerin Ulrike Meier/Weimar</li><li>08.02.02 Geburt Töchterchen Luzia Lora</li><li>September 2003 Umzug in neue Räume in Plauen</li><li>derzeitige Tätigkeit: Goldschmiedemeisterin und Schmuckgestalterin</li></ul>"},"id":"d01e1ea9-21fd-4295-a501-18babb05c239","isHidden":false,"type":"list"},{"content":{"text":"<p>Bianca Hallebach-Krauße<br>Altmarkt 7<br>08523 Plauen</p><p>Telefon: 03741 147070<br>Telefax: 03741 147071<br>E-Mail: <a href=\"mailto:info@goldschmiede-hallebach.de\">info@goldschmiede-hallebach.de</a><br>Website: <a href=\"https://www.goldschmiede-hallebach.de/\">www.goldschmiede-hallebach.de</a></p>"},"id":"893b5b8e-9382-4109-b1d9-0fa2db2ade47","isHidden":false,"type":"text"}]
+
+----
+
+Examples:
+
+- 'file://mljbaylim4zm1veh'
+- 'file://tcwcntk80zyii6h6'
+- 'file://bf96jcsufowf8l6k'
+
+----
+
+Uuid: awbkwezxy2jvjf6j

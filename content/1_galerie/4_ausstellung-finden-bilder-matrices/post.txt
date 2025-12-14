@@ -1,0 +1,26 @@
+Title: Ausstellung: Finden, Bilder, Matrices
+
+----
+
+Date: 2014-06-13 00:00:00
+
+----
+
+Content: [{"content":{"text":"<p>Ich gehe durch meinen Alltag und warte aktiv bis etwas meine Aufmerksamkeit erregt. Dieses Etwas nehme ich heraus aus dem alltäglichen Chaos und transferiere es in mein künstlerisches Tun. Der Rhythmus, die Farben, die Stimmung der Umgebung wirken inspirierend.<br>Judith Weißig</p><p>Vexierbilder lesen. Strukturen heraus filtern, Abstraktionen handhabbar machen.<br>Uwe Mühlberg</p><p>An Ornamenten reizt mich unter anderem ihr subversives Potential, denn sie stehen für das Kapriziöse und Unberechenbare. Das Verrückte und praktisch Sinnlose findet im Ornament seinen Platz, Rationalisten müssen vor ihm kapitulieren, denn absurde Schmuckformen sind ein natürliches Phänomen und nicht aus der Welt zu schaffen.<br>Kirsten Jäschke</p>"},"id":"a82a863e-4a02-4453-abc1-9848960dd7b8","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://1pjcahu1ng2qdbkk'
+- 'file://wbo7n3jrxltkq5my'
+- 'file://ka39qpsfdzk4kfdr'
+- 'file://ttjvvt98ocoy3vrc'
+- 'file://yvgjmhr3rfefqt3f'
+- 'file://rpayaernay10yojy'
+- 'file://lvmke8cdjwvxhdlz'
+- 'file://n4dh07xdradbtcys'
+
+----
+
+Uuid: ihhth9yjrrqg2mnm

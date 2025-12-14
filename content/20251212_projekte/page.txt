@@ -1,0 +1,21 @@
+Title: Projekte
+
+----
+
+Text: [{"content":{"level":"h2","text":"Vogtländische Malertage 2014"},"id":"cd2bdc35-de4a-48c0-a298-c42d24a7188e","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["file://r1ir4siuwt1fmesc"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"00889d26-b19d-4c0e-aed5-2f36f176459c","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://zwokvhogsxmhxlr1"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"04a77950-07f0-4709-8144-9997b30057fa","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://yyvxnchdmltrvs3p"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"51edf287-03ea-456b-935a-d5223ac24f97","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://r5gd8ryjjpr1omav"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ea16d777-ed70-4c14-bab2-0579aa706ffa","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://9gxo4mzrgwkinguf"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ac0acf70-f929-4466-9036-16e31a853c5a","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://qjlynjlvwbm34r0f"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"82decc77-5e93-4dfd-b87d-48f383290d17","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://7zhblu96dp5olowj"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"45b0e92c-5fc5-4edb-8217-fae99827cc81","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://tbhv306cpgcbamej"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b52d7cfe-d9d1-4632-98ae-b8ea011d988b","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Vergangene Projekte"},"id":"ad32b001-b837-49fe-b92d-ace6bc833e7e","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><strong>2013</strong>: 3. Vogtländisches Druckgrafiksymposium<strong>2013</strong>: 1. Plauener Stadtchronist 2013</li><li><strong>2012</strong>: Ausschreibung 3. Vogtländisches Druckgrafiksymposium</li><li><strong>2012</strong>: Leipziger Herbst 2012</li><li><strong>2011</strong>: 2. Vogtländische Malertage</li><li><strong>2011</strong>: Ausschreibung Edition einhundert</li><li><strong>2011</strong>: Ausschreibung 2. Vogtländische Malertage</li><li><strong>2010</strong>: 2. Vogtländisches Druckgrafiksymposium</li><li><strong>2010</strong>: Bund Bildender Künstler Vogtland e.V. - Göltzschtalgalerie Auerbach</li></ul>"},"id":"a22d4b25-a65b-498b-9ecc-71d7e6e7876b","isHidden":false,"type":"list"}]
+
+----
+
+Cover: []
+
+----
+
+Date: 2025-12-12 10:40:00
+
+----
+
+Author: []
+
+----
+
+Uuid: iokyyxx7epm4xzn5

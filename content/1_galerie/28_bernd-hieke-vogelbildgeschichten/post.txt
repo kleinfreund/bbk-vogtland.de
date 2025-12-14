@@ -1,0 +1,22 @@
+Title: Bernd Hieke: Vogelbildgeschichten
+
+----
+
+Date: 2018-04-28 09:30:00
+
+----
+
+Content: [{"content":{"text":"<p>Vom 4. Mai bis 22. Juni 2018 in der Galerie des BBKV e.V. und im Theater Plauen.</p><p>Die Ausstellung eröffnen wir am Freitag, den 4. Mai 2018 um 18 Uhr in der Galerie des BBKV e.V. in Plauen, Bärenstraße 4. Mona Skamletz und Ruth Odewole spielen irische Stücke auf der Geige. Danach ist die Ausstellung ab 11. Mai außerhalb der Feiertage und zur Nacht der Museen am 22. Juni 2018 bis 1 Uhr geöffnet.</p><p>Das macht heute eigentlich keiner mehr. Bilder nach der Natur. Bernd Hieke erlebt diese Kunst. Landschaften und Tierbilder aus dem Elsterberger Land als Bekenntnis. Und zu jedem Bild gibt es seine Geschichte.</p>"},"id":"1379a899-eb54-4045-91e0-7276fb7fe355","isHidden":false,"type":"text"}]
+
+----
+
+Photos:
+
+- 'file://4jvwcb8hvv2rrsc6'
+- 'file://wsb1eb5yyg1vayry'
+- 'file://k5mmbjxo6w7knyhm'
+- 'file://rzixaj9iepz4wdzn'
+
+----
+
+Uuid: 32tfjpohduvopsdj

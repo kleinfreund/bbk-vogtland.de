@@ -1,0 +1,21 @@
+Title: Impressum
+
+----
+
+Text: [{"content":{"text":"<p><strong>Anschrift</strong>:<br>Bund Bildender Künstler Vogtland e.V.<br>Bärenstraße 4<br>08523 Plauen</p><p><strong>Telefon</strong>:<br>037423 2036</p><p><strong>E-Mail</strong>:<br><a href=\"mailto:richter-holzart@web.de\">richter-holzart@web.de</a></p><p>Vereinsregisternummer 1299<br>beim Amtsgericht Plauen</p><p>Vertretungsberechtigter Vorstand (Vorsitzender)<br>Bund Bildender Künstler Vogtland e.V.<br>Christhard Richter<br>Bärenstraße 4<br>08523 Plauen</p><p>Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV:<br>Christhard Richter</p>"},"id":"7dacacc6-c6ed-4674-b445-8d305469b76a","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Datenschutzerklärung (Kurzversion)"},"id":"e613666e-b180-4cd7-be24-112dbd5ccff6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Diese Website erhebt keine gesonderten Daten von ihren Benutzern. Es ist keine Analyse-Software wie Google Analytics im Einsatz. Die Zugriffe von Benutzern werden nicht serverseitig gespeichert (keine Server Access Logs werden angelegt).</p>"},"id":"6e728c88-a1b9-4ac8-9585-74ca1c7c9926","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Datenschutzerklärung (Langversion)"},"id":"338c3e4c-7136-40f2-98a0-2f7fa785b0c9","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Datenschutz"},"id":"f6446e67-8e0e-4752-9639-5110eeab10eb","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Betreiber dieser Seiten nehmen den Schutz ihrer persönlichen Daten sehr ernst. Wir behandeln ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Die Nutzung unserer Website ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</p>"},"id":"5fb1c7aa-2b92-4b4c-ab08-93304c447845","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Server-Log-Files"},"id":"2775eac2-91fb-4b8c-929b-8d8f1167dd62","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Anbieter der Seite erheben oder speichern <strong>keine</strong> Informationen in so genannten Server-Log-Files, die Ihr Browser automatisch an uns übermittelt.</p>"},"id":"fe130cc7-7f16-4f84-8b9b-f2f57c900268","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Recht auf Auskunft, Löschung, Sperrung"},"id":"0b8db12b-ea49-4375-a090-f64f6ab1b963","isHidden":false,"type":"heading"},{"content":{"text":"<p>Sie haben jederzeit das Recht auf unentgeltliche Auskunft über ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.</p>"},"id":"a25cb74e-e30b-40c9-a724-cd8941e86889","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Widerspruch Werbe-Mails"},"id":"9b9d1f41-eae2-4b6d-acc0-7ef53a0d5294","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.</p><p>Abgewandelt von ursprünglicher Quelle: <a href=\"https://www.e-recht24.de/muster-datenschutzerklaerung.html\">e-recht24.de/muster-datenschutzerklaerung.html</a></p>"},"id":"d54ea762-5885-4a38-9568-0e571cff31e6","isHidden":false,"type":"text"}]
+
+----
+
+Cover: []
+
+----
+
+Date: 2025-12-12 10:40:00
+
+----
+
+Author: []
+
+----
+
+Uuid: hvdaywx4udi6j4ja

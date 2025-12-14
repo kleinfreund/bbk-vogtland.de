@@ -1,0 +1,21 @@
+Title: Mathias Heck
+
+----
+
+Photo: - 'file://hyxoyqvcoyycamhz'
+
+----
+
+Examples:
+
+- 'file://pdmdvqezn8eatn45'
+- 'file://oaxoec6cbnwpm3tm'
+- 'file://116dskea6pl84smr'
+
+----
+
+Text: [{"content":{"text":"<ul><li>am 1967 in Plauen geboren</li><li>Lehre zum Silberschmied in 5. Familiengeneration in Plauen und in Arnstadt (Thüringen)</li><li>Gesellenzeit bei Paul van Ooyen (Kevelaer, Niederrhein)</li><li>zweijährige Fachschule „Schmuck und Gerät“ in Pforzheim</li><li>Abschluss als staatlich geprüfter Gestalter und Silberschmiedemeister</li><li>seit 1994 selbständig und freiberuflich tätig in eigenem Werkatelier in Plauen,</li><li>seit 1997 im Wasserschloss Klaffenbach (Chemnitz)</li></ul>"},"id":"e2af1a89-b67d-494a-a199-6f44385fad55","isHidden":false,"type":"list"},{"content":{"text":"<p>Mathias Heck<br>Wasserschlossweg 6<br>09123 Chemnitz</p><p>Telefon: 0371 2605949<br>E-Mail: <a href=\"mailto:info@silberschmiede.com\">info@silberschmiede.com</a><br>Website: <a href=\"https://silberschmiede.com/\">silberschmiede.com</a></p>"},"id":"afc63117-677a-49aa-a2de-e935b5e189d5","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: ghwjuwn0u4lrb16q

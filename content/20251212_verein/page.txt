@@ -1,0 +1,21 @@
+Title: Verein
+
+----
+
+Text: [{"content":{"level":"h2","text":"Vorstand"},"id":"c2ca26a2-c8a4-4870-bd2b-3c0ec11dc341","isHidden":false,"type":"heading"},{"content":{"text":"<p>Christhard Richter, Stefanie Kölbel, Andreas Leonhardt, Ralph Kunzmann</p>"},"id":"e4b1a57e-1ea9-4f2d-8904-f9626d0c2f6e","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Vereinssatzung"},"id":"639cdb4e-8659-4f01-b75d-83ce03a0ecb3","isHidden":false,"type":"heading"},{"content":{"text":"<p><a href=\"/assets/pdf/bbkv-satzung.pdf\" target=\"_blank\">bbkv-satzung.pdf (78 KB)</a></p>"},"id":"0f55dae5-4649-4cba-a831-95a11a3571e1","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Sponsoren"},"id":"8b15ce42-b048-4666-8230-3ec662cba495","isHidden":false,"type":"heading"},{"content":{"text":"<p>Dr. Rainer Leonhardt</p>"},"id":"ca19fcb9-82d9-4993-bec3-f95e91325813","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://nin2cxjvl03c3zfg"],"src":"","alt":"","caption":"<a href=\"https://www.sparkasse-vogtland.de/\">Sparkasse Vogtland</a>","link":"https://www.sparkasse-vogtland.de/","ratio":"","crop":"false"},"id":"e04e320c-806a-4fa8-8642-554c59769f2b","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://xnmxfk5oivnunie0"],"src":"","alt":"","caption":"<a href=\"https://kulturraum-vogtland-zwickau.de/\">Kulturraum Vogtland-Zwickau</a>","link":"https://kulturraum-vogtland-zwickau.de/","ratio":"","crop":"false"},"id":"ccca0120-4e9c-4615-be66-56755d1da48a","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://xdtaz8nwrmxvl4ql"],"src":"","alt":"","caption":"<a href=\"https://www.plauen.de/\">Stadt Plauen</a>","link":"https://www.plauen.de/","ratio":"","crop":"false"},"id":"9cbc6f55-225a-4b52-b0f8-2ae638531707","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://mzmc5gwt5xmuldhh"],"src":"","alt":"","caption":"<a href=\"https://www.vogtlandkreis.de/\">Vogtlandkreis</a>","link":"https://www.vogtlandkreis.de/","ratio":"","crop":"false"},"id":"d3b3431d-5f1c-4b4e-af64-0aef4f5c8a55","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://4wtmy248cwfoyocx"],"src":"","alt":"","caption":"<a href=\"https://restaurierungsplanung.de/\">Restauratorische Bauplanung Jens Kaminsky</a>","link":"https://restaurierungsplanung.de/","ratio":"","crop":"false"},"id":"1f2366fe-ed67-4ee1-b50f-ef2ebfec107d","isHidden":false,"type":"image"}]
+
+----
+
+Date: 2025-12-12 10:40:00
+
+----
+
+Author: []
+
+----
+
+Cover: []
+
+----
+
+Uuid: iokyyxx7epm4xzn5
