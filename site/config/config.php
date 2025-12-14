@@ -1,8 +1,8 @@
 <?php
 return [
-  'debug' => true, // TODO: false
+  'debug' => false,
   'home' => 'galerie',
-  'panel.install' => true, // TODO: false
+  'panel.install' => false,
   'panel.vue.compiler' => false,
   'yaml.handler' => 'symfony',
 ];
